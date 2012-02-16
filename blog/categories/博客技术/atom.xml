@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: 博客技术 | 华华的OCTOPRESS BLOG]]></title>
-  <link href="http://dinohu.github.com/blog/blog/categories/博客技术/atom.xml" rel="self"/>
-  <link href="http://dinohu.github.com/blog/"/>
-  <updated>2012-02-16T18:46:33+08:00</updated>
-  <id>http://dinohu.github.com/blog/</id>
+  <link href="http://dinohu.github.com/blog/categories/博客技术/atom.xml" rel="self"/>
+  <link href="http://dinohu.github.com/"/>
+  <updated>2012-02-16T18:50:48+08:00</updated>
+  <id>http://dinohu.github.com/</id>
   <author>
     <name><![CDATA[Dinohu]]></name>
     <email><![CDATA[ssshzh@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[octopress参考]]></title>
-    <link href="http://dinohu.github.com/blog/blog/2012/01/17/octopresscan-kao/"/>
+    <link href="http://dinohu.github.com/blog/2012/01/17/octopresscan-kao/"/>
     <updated>2012-01-17T21:04:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/blog/2012/01/17/octopresscan-kao</id>
+    <id>http://dinohu.github.com/blog/2012/01/17/octopresscan-kao</id>
     <content type="html"><![CDATA[<p>今天上班时候实在不想看书，就搜索了一些关于octopress的文章，收获挺大了，follow了几个geek，翻了下他们的blog。在我看来wordpress更方便点，而octopress让人更喜欢点，那就两个就同步更新吧。</p>
 
 <h1>参考链接</h1>
@@ -58,9 +58,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://dinohu.github.com/blog/blog/2012/01/16/hello-world/"/>
+    <link href="http://dinohu.github.com/blog/2012/01/16/hello-world/"/>
     <updated>2012-01-16T20:08:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/blog/2012/01/16/hello-world</id>
+    <id>http://dinohu.github.com/blog/2012/01/16/hello-world</id>
     <content type="html"><![CDATA[<p> Hello World!
  My first octopress article!</p>
 ]]></content>
@@ -68,9 +68,9 @@
   
   <entry>
     <title type="html"><![CDATA[折腾octopress]]></title>
-    <link href="http://dinohu.github.com/blog/blog/2012/01/06/octopress_build/"/>
+    <link href="http://dinohu.github.com/blog/2012/01/06/octopress_build/"/>
     <updated>2012-01-06T20:25:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/blog/2012/01/06/octopress_build</id>
+    <id>http://dinohu.github.com/blog/2012/01/06/octopress_build</id>
     <content type="html"><![CDATA[<h2>重新更新</h2>
 
 <blockquote><p>在<a href="https://twitter.com/dofine">@dofine</a> 同学的鼓励下，又开始重新折腾。先是把包管理器内的ruby全删干净，然后在按参考文章里的方法手动安装了ruby1.9.2，现在再用gem装其它的包，其它的包可以被墙了，我只能挂上代理让他慢慢的装，有时候代理找不到的时候还要慢慢弄，真是功夫不负有心人，终于把ruby和rake折腾好了，但是rake不是官网上说的0.9版本，我装了1.9.1，但是可以用了，也就不管它了。</p>
