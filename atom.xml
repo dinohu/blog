@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[华华的OCTOPRESS BLOG]]></title>
+  <link href="http://dinohu.github.com/blog/atom.xml" rel="self"/>
+  <link href="http://dinohu.github.com/blog/"/>
+  <updated>2012-02-16T18:46:33+08:00</updated>
+  <id>http://dinohu.github.com/blog/</id>
+  <author>
+    <name><![CDATA[Dinohu]]></name>
+    <email><![CDATA[ssshzh@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[ 一月份的书]]></title>
+    <link href="http://dinohu.github.com/blog/blog/2012/02/15/2012-january-books/"/>
+    <updated>2012-02-15T19:54:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blog/2012/02/15/2012-january-books</id>
+    <content type="html"><![CDATA[<p>我很懒，天气太冷，就懒得看书，懒得做记录。一月刚好是过年再家的日子，零零散散翻了半本书，另外半本回来花了半天就看完了。一个月才看了三本书，其实不是忙，就是太懒，宁可多睡会也懒得翻几页。但是，回来后发现开始忙几来了，睡觉前竟然会翻上几页书再睡，也许这也是一种放松的方式吧。</p>
+
+<p><img src="http://img3.douban.com/lpic/s3472159.jpg" title="牛棚杂忆" alt="牛棚杂忆" /></p>
+
+<p>这本是季老的书，我对他写的书不怎么感兴趣，看完之后更不感兴趣了，超初想看这本书是因为想看看大陆的人怎么写革的，看完才发现当时人的脑子是不是坏掉了，季老的忍耐力也真的好过常人，所以牛逼点的大家都死光了，剩下就是他了。</p>
+
+<p><img src="http://img1.douban.com/lpic/s3136500.jpg" title="找寻真实的蒋介石" alt="找寻真实的蒋介石" /></p>
+
+<p>高中时候曾看过蒋委员长的传记，时隔十几年过委员长日记被揭密后再看别人如何去评价他，作者从某月某日的日记加上自己的一些推断来分析蒋老是什么样的人，想让人们去了解真正的蒋，但是由于当年丑化太多，太难还原了，成王败寇。</p>
+
+<p><img src="http://img3.douban.com/lpic/s2768378.jpg" title="三体" alt="三体" /></p>
+
+<p>这本书火了很久，一直都没有看，年前的时候就准备好放在kindle上了，回家也没有看，回来时候花了一天翻完，写得挺不错的，但是有些凌乱，如果没学过物理估计和生活大爆炸一样难懂。</p>
+
+<p>还在读的几本书，都是实体书，放在枕边好久了，睡觉前翻上一两页，争取早日把它们看完，否则越堆越多了。</p>
+
+<p><img src="http://img1.douban.com/lpic/s2987260.jpg" title="玩在唐朝" alt="玩在唐朝" /></p>
+
+<p>中华书局物价时候买的，才5块钱，翻了几页就睡着了。</p>
+
+<p><img src="http://img1.douban.com/lpic/s6978281.jpg" title="Steve Jobs" alt="Steve Jobs" /></p>
+
+<p>英文版的Jobs传记，中文版的也买了，还送人了一本，它的传记读得多了，就想读读英文版，但发现英文版读起来并不是那么快，好多单词不认识，好再kindle可以查单词，再加上自己以前读过中文的连蒙带猜应该大差不差。</p>
+
+<p><img src="http://img3.douban.com/lpic/s7465688.jpg" title="How to Speak and Write Correctly" alt="How to Speak and Write Correctly" /></p>
+
+<p>kindle版本限免时候下载的，翻了几页，发现不是我的菜，再加上英文，读越来太痛苦了。</p>
+
+<p><img src="http://img1.douban.com/lpic/s6519021.jpg" title="抉择时刻" alt="抉择时刻" /></p>
+
+<p>凑单时候买的小布什传记，好厚的一本，还是硬皮的，中单有彩色的插画，插画到是看完了，书也翻了半本，不知什么时候看到读传记不要读成功人士的传记，美化的成份太多，要读受到无数挫折人的传记，这样才能吸取更多的经验，确实是这样，布什传就是讲富二代官二代，高帅富怎么成功的书，参考价值不大。</p>
+
+<p><img src="http://img1.douban.com/lpic/s7643530.jpg" title="民国风度" alt="民国风度" /></p>
+
+<p>讲民国一些学者的书，很多名人，翻了2/3了，现在回过头看好多人名都忘记了，有空的时候再看一遍。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[三个转换6寸kindle pdf文档软件]]></title>
+    <link href="http://dinohu.github.com/blog/blog/2012/02/14/3-convert-soft-4-kindle/"/>
+    <updated>2012-02-14T18:02:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blog/2012/02/14/3-convert-soft-4-kindle</id>
+    <content type="html"><![CDATA[<p>无奈kindle的屏幕实在太小，只有区区6寸，想要在kindle上看PDF是有点吃力，ipad的屏幕虽然大，但是ipad确实不太适合看文档，于是就想把文档转换成6寸的来看。对于一般的文字文档来说，直接发到amazon的邮箱让它去转好直接推送到kindle上了，对于有大量格式的文献就无能为力了，转换的基本上没法看，就开始着手于找转换软件。</p>
+
+<p>以前偶然下到过一个叫<a href="code.google.com/p/papercrop/">papercrop</a>的软件可以转换，版本还是比较老的，功能也没弄得太明白，于是它就在硬盘躺了很久。后来在网上随便搜了下，发现了一个用python写的<a href="http://gatherlight.info/blog/?page_id=1631">paper4kinde</a>的软件，在介绍里又找到一个同样用来转换的软件<a href="http://www.willus.com/k2pdfopt/">k2pdfopt</a> 。花心转每个软件都深研究了下，顺便比较一下。</p>
+
+<p>paper4kindle：用python写的，就是用了python功能把pdf文档切开，还是保持原来的文档格式，可以标记什么的，但是对于一张图横跨两栏就没办法，软件的作者是采用在附上整页来解决，我到是觉得这样翻页也挺麻烦的，软件的转换速度还是挺快的。</p>
+
+<p>papercrop:看paper4kindle软件介绍说是棒子写的，功能很强大，于是摸索了下，这个软件对于处理含各种样式的PDF文档处理很好，选好要剪切的地方，设置好自己需要的大小，行距，页边距等等，然后转换就好了，它还能自己探测文档格式自行处理，处理出来的结果也还不错，转换速度适中，我主要拿它来自定义处理，把文献中不想要的部分（比如参考文献）、页码都去掉。</p>
+
+<p>k2pdfopt:这个软件是针对为kindle2写的，kindle3，4屏幕都一样大，所以都能用，这个软件很强大，如果把文件夹拖上去，里面的PDF文档都可以处理，看介绍说djvu文档也行，不过我手头上没有这类文档。里面要设置的参数很多，基本上看了遍也试了下，看自己需要设置就行了，懒人就用默认的就好，转换出来的文档很不错。</p>
+
+<p>还有，后面两个软件基本上是先把文档处理成图片切割，最后再整合成PDF，因此就不用高亮和作标记了，这点是比较遗憾的。所以，如果对标记和高亮没要求，人勤快想自定义就用papercrop，文档太多人太懒就用k2pdfopt吧，如果以后再发现什么好用的转换软件继续补充。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[看房记]]></title>
+    <link href="http://dinohu.github.com/blog/blog/2012/02/12/look-house/"/>
+    <updated>2012-02-12T22:17:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blog/2012/02/12/look-house</id>
+    <content type="html"><![CDATA[<p>准备在这个城市工作，房子还是必不可少的，虽然记所里的房子没买成，我也没有觉得有什么损失，毕竟买所里的房子是要签8年的卖身契，而且那房子还是个小产权，总有人和我说还是可以买到所里的房子的，但综合起来考虑，还是需要买个自己的房子。</p>
+
+<p>年前也观注了下感兴趣的楼盘，过年回家时候就已经有些准备了，老家出台了一些政策，再加上房价现在还处于我可以接受的价格，就决定要买了。暑假时候已经看过几个房，也调研的一番，可那时只是观望，有买的打算，但不知道什么时候买，现在如果各方面都合适的话很快就拿下了。</p>
+
+<p>周五晚上打电话约了大宝陪我去看房，他已经买了自己的房子，而且也比较能侃，售楼小姐想忽悠他可能比较难，而我对于买房子没什么概念，其它我觉得现在住的地方也挺好，两室一厨一卫一个人住，50个平方还是挺大的，但是去看房就不一样了，要综合考虑很多因素，售楼小姐都看把要侃晕了，还好大宝在能招架住，否则我肯定上当受骗。不过我对房子各方面第一感觉要好，如果第一眼睦不上，她再怎么说，我还是看不上，可能我是比较固执的人。</p>
+
+<p>计划去看的是两个楼盘，一个是丰盛华庭，一个是万科金色名郡。早起坐班车9点就到了丰盛华庭边上的KFC，大宝还发短信问我起床没，得知我早已到了匆匆赶来。</p>
+
+<p>丰盛华庭的楼盘我暑假时候去看过，这次去售楼处已经搬到不远处，进门就有一位美女招街，给我们介绍详细信息以后又带我们看沙盘，户型的第一感觉就给我很不好，然后我提出来她突然愣了一下，然后说什么利用率转移话题，接着让我们坐下来谈，问我要哪一层的啊，拿出计算器劈里啪啦的一阵乱按，算了下房屋总价，问我是不是HF户口，又问用公积金贷款还是商贷，给我计算了每个月还多少等等，还说给能给我多少优惠，我第一印象就不好了，一点也提不起兴趣，到是大宝能和她侃侃而谈，反正是看看嘛，就多聊了一会，顺便聊了下他们什么学区，我觉得这些对我影响都不大。</p>
+
+<p>出了丰盛华庭，一路上很多楼盘，反正来了就都看看吧，也就去了我同学买过的大溪地，但是他买的那个地方已经售完了，只剩下很远处还在建的悦溪公馆，我没看宣传册还以为是岳西公馆呢，那价格就差大了。不愧是大楼盘，售楼处都很气派，接待的也是个美女，同样的流程介绍房子，然后看沙盘，接着就是坐下来谈，我也是对他们的户型不太感冒，好好的一个房子居然被弄成这样，不知道这些设计师吃什么的。看中的面积户型不好但她还是说了很多，我看是的一个户型面积又小了点，这是硬伤啊。由于头一天吃了烧烤又闹肚子去了厕所，回来发现大宝和她聊得挺欢嘛，后来美女看到我拿着丰盛华庭的册子要过去看了看，说了那个楼盘怎么不好我也听不进去，反正是不感兴趣了。</p>
+
+<p>出门将会是HF比较著名的酒吧一条街，他的楼盘在对面，穿过马路进了它们的售楼大厅，本来是一位帅哥要给我们介绍的，不过被一美女抢先了，可能这位美女接待得太多了吧，嗓子都说哑了，确实挺辛苦，不过他们也赚得多，同样就是看沙盘，过去看了一眼不是我喜欢的类型我就又没耐心了，不过还是听他讲完，拿名片走人，这家应该是我去过最快的楼盘。</p>
+
+<p>附近也没什么好的楼盘了，就直奔万科，看表都快12点了，在每个售楼处都喝了很多水，不过还是很饿，走了两条街发现了乐购，可是这乐购连条美食街都没有，只好牺牲下大宝吃KFC了，进门是发现两美女再拉KFC门，可是就拉不开，大宝走到另一边轻轻把门拉开，两美女才发现拉错门把手了，大家都笑了，KFC吃了不少钱，但是总感觉没吃饱，骗骗肚子就好了。</p>
+
+<p>老远就看到万科的标志，果然王石不是盖的，售楼处也不错，售楼小姐也很吊，有点看不起人的样子，万科吊她也吊，没办法啊，楼盘图居然是复印的那种，反正网上可以下，我也懒得要了，她招待的不算很多，没有倒茶什么的也算了，我看了看房价面积都还可以，毕竟是精装修的嘛，便要求看样板房，于是到另外一幢楼去看，我反正也不懂房，进去看了看装得还可以，房型也不错我也比较满间很心动了，可是无奈公积金现在还不能用，然后她就开始忽悠我什么商贷转公积金啦，回来一算，要被银行白白多赚10来W，那就等吧，一个很好的选择，精装可以省心省力了，可是大宝装装修也是80后要经历的一件事，我可不想折腾啊。</p>
+
+<p>花了大半天就看了四个楼盘，实在太累了，要赶紧弄个车啊，这样看房就轻松多了，选择性也就更大。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[假期结束]]></title>
+    <link href="http://dinohu.github.com/blog/blog/2012/02/12/holiday-end/"/>
+    <updated>2012-02-12T22:13:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blog/2012/02/12/holiday-end</id>
+    <content type="html"><![CDATA[<p>假期结束，明天上班了，在家快快活活过了半个月，现在回到单位却有点不太适应，习惯了每天早上睡到九点起床，中午还要睡上一两个钟头，晚上早早的睡觉。今天中午处是假期最后一天睡懒觉吧，早上睡到10点起，中午又回去补了一会。</p>
+
+<p>这个寒假是过得最舒服的一次，没有看书，没有写文章，看春晚，天天抱着IPAD上推，和爸妈抢电脑玩三国杀，去了一次宁波，帮堂妹把她所有的家档搬回来，包饺子，打球，喝酒，K歌，参加伙伴的婚礼，去看同学新生的小孩，玩得乐不思蜀。</p>
+
+<p>回家的第一天就是在网上买回程的票，由于买票那天出去玩了，下午回来只刷到一张软卧的票，软卧就软卧吧，可是上车时却发现硬座空空如野，早知道买硬座就可以睡着回了。帮妹妹他们刷回程的票，他们刚从上海出发就准备回了，从乌鲁木齐回来的票不好买，只能靠我了，结果我还犯了个错，把自己账号锁定了，用了她们自己的才买到，三张连票铺，这下应该满足了。这个点他们也应该到家了吧，还说给我带好吃的，等我下次回家估计什么也没了。</p>
+
+<p>寒假家里算是比较比较冷的，冷得我哪里都不想去，坐在电脑前玩电脑还要带双手套，家里的空调打得比较低的，不能像在单位一样可以30度开一整天。其实我在学校是不怎么玩游戏的，主要是玩起来没什么意思，还不如多学点其它东西，可是回了家我又开始玩了，玩的都是爸妈玩的游戏，他们平时玩得分数不高，称我回去这几天帮他们刷点分。</p>
+
+<p>过年回家过年，算是第一年工作吧，红包就是只出不进了，拿了二十多年也不少了，大大小小老老少少来来往往随便包包也进去一个月工资，总觉得自己赚得太少了。</p>
+
+<p>本来计划着年初二同学会，可是被一场大雪给耽搁了，又要来年再见了，或是这次毕业十周年就可以见到？十年前我们还是那个青涩，十年后半数人已经是为人父母了。</p>
+
+<p>这个寒假里本来想给自己很多任务，但是总觉得完不成，还是不给了，好好玩吧，比如要把jobs那本英文书看掉，可是到现在也才看掉2％，不过到假期最后两天学会了玩英雄杀，这是个火了好几年的桌牌游戏，可是我们这帮笨人一点都不会，和朋友玩的时候被鄙视到智商为负，实在不忍玩下去，不过还好，堂弟回来这几天，在他后面看看还是看会了点，今天又玩了三国杀，基本上的套路已经明白了，但玩得时候还经常被骂2B。</p>
+
+<p>回来以后的事情开始多起来，一环套一环，这一年都被套进去了，而且每一样对我都比较重要，如果有一个做不好，损失惨重啊。</p>
+
+<p>自己还是比较贪玩，想着开春和朋友骑车出去转一圈，踏踏春，还有我那买了快半年的烧烤用品还没动弹，过几天暖和了一定要拿出去用一下，否则都要生锈了。</p>
+
+<p>寒假还学会了海外购，其实很简单的，但实际是自己做的时候还是遇到了点小麻烦，特别是转运等待的时候特别的漫长，不过也值了，谁让别人的东西又便宜又好呢。给自己买了个Fitbit，类似计步器的高科技玩意，还可以监测自己的睡眠，我主要是拿来减肥用，花了这么多钱应该有个比较好的减肥效果吧，否则这钱就白花了。其实海外购去年的时候我已经折腾得差不多，就缺实践一下了，买了块手表代购了，还花了近50块的代购费，如果下次再买的话就自己买个更好的。学会了海外购就开始观注amazon上便宜又好的东西，今天的钱包看是鼓不起来了。</p>
+
+<p>寒假短短的半月，随便列了下，也发现做了不少事，呵，明天就要上班了，也该收收心了，好好工作。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[包饺子]]></title>
+    <link href="http://dinohu.github.com/blog/blog/2012/01/25/dumpling/"/>
+    <updated>2012-01-25T18:16:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blog/2012/01/25/dumpling</id>
+    <content type="html"><![CDATA[<p>每次过年都是要吃饺子的，母亲一大早起来就开始剁饺子馅，和面等等准备工作，因为我包的不好看还容易煮烂，住年也就象征性的包上几个，今年和老爸老妈一起包起饺子来。</p>
+
+<p>对于包饺子，我是不怎么会包的，虽然小学时候参加过什么包饺子大赛，那些包出来的饺子简直不能吃，还没了个专门包脚子的东西，像河蚌一样，把面皮和馅放好就能出来个比较漂亮的。这些都是娱乐，要是吃的话还是要手工来包，没有饭店里包得好看好吃</p>
+
+<p>说起吃饭来，我们家里基本上南北通吃，吃面吃饭都行，对于我自己，10岁以前生活在新疆，在那里基本上以面食为主，母亲前两天还说我小时候老是问为什么家里一来人就做米饭，在北方挺难吃到米饭的。10岁到18岁回到南方老家，老家是以饭食为主的，我已经记不清楚当时喜不喜欢吃米饭了，应该是没有什么排斥，家里也经常做馒头饺子这类了，18到22岁又去了山东读大学，基本上是以面食为主，米饭为辅了，经常有大学同学说吃米饭吃不饱，再接着去了安徽读研究生，在合肥不分南北的地方更上面食米饭混着吃，我也从没有任何排斥。</p>
+
+<p>开始我还是选择包饺子的，但是实在是太难了，不是馅放多了就太少了，还有包出来惨不忍睹，估计下了锅更是，捞上来就没法吃了，为了让大家能有个好食欲，就选择了从来没有干过的活，切剂子，擀饺子皮。这两个活绝对是个技术活，切剂子要转着切，然后用手掌心去按，还要撒上面粉，开始时候没撒面粉粘得满手都是。擀饺子皮也是，一手擀面杖，一手拿面皮，对右撇子来说就是右手擀面杖，左手面皮，右手擀一下，左手动一下。刚开始我以为挺容易的，一开始就狠的一下擀过去，面皮都快成面条了，而且擀得特别薄不好包，擀了几个以后终于找到窍门才擀得圆着，辛苦了爸爸用我擀的面皮包饺子。</p>
+
+<p>三个人合作也挺快了，没多久就包了几十个，够全家人吃的，馅还剩了好多，过几天继续努力学习，争取来年包出更好的饺子：）</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[过年]]></title>
+    <link href="http://dinohu.github.com/blog/blog/2012/01/24/new-year/"/>
+    <updated>2012-01-24T20:14:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blog/2012/01/24/new-year</id>
+    <content type="html"><![CDATA[<p>十九号回到家很快就到二十二号过年了，这时间过得也太快了，基本上就是吃了睡了，睡了玩，玩了吃。家里也实在太是太冷了，冷得什么都不想干。</p>
+
+<p>现在已经没有过年的感觉，除了隆隆的炮竹声，其它也没什么区别，刚好第一年工作，钱没赚多少，但压岁钱还是要发的，意思意思嘛。</p>
+
+<p>今年的过年和往年不一样，舅舅一家去新疆过年了，外婆那也格外的冷清一些，为了不让她们老人显得太孤单，我们一家就去那边吃了年夜饭，回来时候又支闻大伯家继续吃。吃饭是要喝酒的，我拿晚上要和同学聚会也没躲过去。既然喝了，那也不再乎多喝一点，反正是好酒嘛，老爸也把他那小半杯倒给了我。以前喝那么多也没什么事，可是这次可能喝太急了，很快就放倒了，回到家衣服也没脱就倒床上了，朋友一下电话把我叫醒让我出门转转，我随口答应了，想想再躺个五分钟，结果这一躺就睡着了，估计他等死了，如果不是我酒醉一定要找上门来。</p>
+
+<p>等我清醒点的时候春晚刚开始，有幸可以躺在床上听春晚，高中同学打来几个电话叫出去玩，可是还没找到地方，就等他们找地方吧，我还喝多了。半睡半醒的听着春晚，稍清醒点时候拿出ipad刷刷推，我现在都不知道那字是怎么打出来的。大学同学给我打了个电话，说了一些事，第二天就全忘记了，还好从通话记录里可以查到时谁打了，第二天赶紧回了个电话。</p>
+
+<p>从上大学这么多年来，我是难得陪着父母在家看一次完整的春晚，以前太不懂事，总是年三十跑出去玩，还有一次开车出去爆胎了。这次的春晚太不给力，没有了赵本山，王菲唱得也太烂，王珞丹也太萌了，实在是没意思，不过还是借着酒力慢慢看完了。</p>
+
+<p>以前每次都是父亲起来放烟火，我这次也跟着出去放。记得小时候挺喜欢放炮的，随着年龄的长大，对这种儿时的玩意也不感兴趣，我们老家的烟火放得还挺漂亮的，时间也够上，我一点也没有多看一眼的意思，想着就是早点睡觉，可是在是睡不着，睡着了被炮竹声吵醒。</p>
+
+<p>年初一我们这里是先给祖宗拜年的，也就是大家常说的上坟。因为起得挺晚，大伯他们和叔叔他们早就到了，到山上转了一圈，上上香，烧点纸钱和元宝让他们收下，等忙完这一圈已经十一点了。我有睡午觉的习惯，还没睡好堂姐她们就到我家拜年，和姐夫聊了一些未来的打算。高中同学打来电话说去打球，也许他们打得太入门找了半天没找到打球的地方，我们这里变化实在太大了，路都不认识了，花了好大力气才找到，朋友还以为我开到义乌去了：（。</p>
+
+<p>都是很久没见的高中同学了，大家都变得有点发福，和我们一起应该是还在上大学的学弟，他们年经能跑啊，把我们这些老人们要折腾死，不过我们还是靠着体重和经验赢了他们，否则丢人啊。</p>
+
+<p>前几天一直盼着下雪它不下，过起年来下得格外大，安排在大年初二晚上的高中同学茶话会被迫取消，出去转了圈太冷了，老老实实呆家里看看GR写写文章吧。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[octopress参考]]></title>
+    <link href="http://dinohu.github.com/blog/blog/2012/01/17/octopresscan-kao/"/>
+    <updated>2012-01-17T21:04:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blog/2012/01/17/octopresscan-kao</id>
+    <content type="html"><![CDATA[<p>今天上班时候实在不想看书，就搜索了一些关于octopress的文章，收获挺大了，follow了几个geek，翻了下他们的blog。在我看来wordpress更方便点，而octopress让人更喜欢点，那就两个就同步更新吧。</p>
+
+<h1>参考链接</h1>
+
+<blockquote><p>和fangjian的那篇差不多吧</p>
+
+<p><a href="http://blog.xupeng.me/2011/12/14/migrate-to-octopress/">迁移到 Octopress</a></p>
+
+<p>这篇文章写得较详细，早些看到就好了</p>
+
+<p><a href="http://lucifr.com/2011/12/21/octopress-on-server-and-portable-scheme/">服务器端 Octopress 搭建及移动方案</a></p>
+
+<p><a href="http://huanggang.me/archives/654">在github上使用octopress</a></p>
+
+<p><a href="http://chenyufei.info/blog/2011-12-13/migrate-to-octopress/">博客转用 Octopress</a></p>
+
+<p><a href="http://chen.yanping.me/cn/blog/2011/12/26/octopress-on-windows/">Windows下安装Octopress</a></p>
+
+<p>这篇关于域名的文章不错，还没细看，还准备去买个域名</p>
+
+<p><a href="http://chen.yanping.me/cn/blog/2011/12/04/github-pages-domain/">浅谈github页面域名绑定</a></p>
+
+<p><a href="http://ruby-taiwan.org/topics/46">octopress在windows下出现的字符集错误</a></p>
+
+<p><a href="http://blog.lyhdev.com/2011/10/octopress-github-markdown.html">使用 Octopress + GitHub 免費架設部落格，以 Markdown 語法快速發表文章</a></p>
+
+<p><a href="http://www.panxianhai.com/octopress-theme.html">WordPress主题:Octopress</a></p>
+
+<p><a href="http://blog.eddie.com.tw/2011/12/05/add-catetories-to-sidebar-in-octopress/">幫你的Octopress增加文章分類</a></p>
+
+<p><a href="http://chen.yanping.me/cn/blog/2012/01/07/theming-and-customization/">为Octopress修改主题和自定义样式</a></p>
+
+<p><a href="http://ccaloha.cc/blog/2011/10/25/octopress-ba-guan-yu-wo-jia-dao-navibar/">Octopress 把關於我加到naviba</a></p>
+
+<p><a href="http://gangmax.github.com/blog/2012/01/20/how-to-use-disqus-in-octopress/">How to Use Disqus in Octopress</a></p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://dinohu.github.com/blog/blog/2012/01/16/hello-world/"/>
+    <updated>2012-01-16T20:08:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blog/2012/01/16/hello-world</id>
+    <content type="html"><![CDATA[<p> Hello World!
+ My first octopress article!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[折腾octopress]]></title>
+    <link href="http://dinohu.github.com/blog/blog/2012/01/06/octopress_build/"/>
+    <updated>2012-01-06T20:25:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blog/2012/01/06/octopress_build</id>
+    <content type="html"><![CDATA[<h2>重新更新</h2>
+
+<blockquote><p>在<a href="https://twitter.com/dofine">@dofine</a> 同学的鼓励下，又开始重新折腾。先是把包管理器内的ruby全删干净，然后在按参考文章里的方法手动安装了ruby1.9.2，现在再用gem装其它的包，其它的包可以被墙了，我只能挂上代理让他慢慢的装，有时候代理找不到的时候还要慢慢弄，真是功夫不负有心人，终于把ruby和rake折腾好了，但是rake不是官网上说的0.9版本，我装了1.9.1，但是可以用了，也就不管它了。</p>
+
+<p>前两天偶然搞对一次也不知道怎么回事，这次又把文章好好看了一遍，发现有个地方疏忽了，<strong><em>rvm use system</em></strong>，可能就是这个命令没有把系统切换过来。</p>
+
+<p>教程还是按照<a href="http://colors4.us/blog/2012/01/08/octopressbo-ke-cong-ling-kai-shi-ii/">Octopress博客从零开始II</a>，又好好的研究了几遍，git命令行不会用就直接装了个git前端，其它发现不用我push上去的，用自带的rake generate, rake deploy它自己就会push到gh-pages分支，我以前是多些一举了，这里还要多谢<a href="https://twitter.com/dofine">@dofine</a>同学的提示，否则我又要忙活一晚上了。</p></blockquote>
+
+<hr />
+
+<h2>原文</h2>
+
+<p>最近看octopress很火，所以也抽出点时间搞一下，虽然我不一定会用，像我这种一折腾不舒服的人搞得心痒痒。说实施，真的很折腾，到现在还没弄好，继续折腾，折腾得好继续写，折腾不好就烂尾。</p>
+
+<h2>后记</h2>
+
+<hr />
+
+<p>这篇文章注意要烂尾了，我又花了两天的时间折腾，只有一次使用上了ruby1.9.2，这个官方注明了很重要，一定要用这个版本，但是它没有自带rake，要是装rake他就会自动装上ruby1.8.7，搞得系统切换一过去，试了很多方面说要自己编译rake，但觉得太麻烦。我觉得搞不定ruby很大程度上是因为用了ubuntu11.10这个版本的问题，11.10并不是一个很好的版本。</p>
+
+<p>其实我已经装好octopress并生成文章push到github上了，但是由于不太会用git，push到分支了，又不知道怎么用分支，就懒得管了，反正已经看到octopress生成的文章了，自定义程度很高，很多地方需要手动，不如wordpress来得简单方便，所以不想折腾了，就当是一次失败的经验吧。</p>
+
+<hr />
+
+<h2>参考文章</h2>
+
+<blockquote><p><a href="http://colors4.us/blog/2012/01/08/octopressbo-ke-cong-ling-kai-shi-ii/">http://colors4.us/blog/2012/01/08/octopressbo-ke-cong-ling-kai-shi-ii/</a>
+<a href="http://linyi.heroku.com/blog/2012/01/05/deploy-octopress-to-heroku.html">http://linyi.heroku.com/blog/2012/01/05/deploy-octopress-to-heroku.html</a>
+<a href="http://rubyer.me/blog/49">http://rubyer.me/blog/49</a>
+<a href="http://yanping.me/cn/">http://yanping.me/cn/</a>
+<a href="http://ivice.github.com/blog/2011/12/11/build-rails-vim-env-for-ubuntu-11-dot-10/">http://ivice.github.com/blog/2011/12/11/build-rails-vim-env-for-ubuntu-11-dot-10/</a>
+<a href="http://laoyang945.github.com/switch-to-octopress/">http://laoyang945.github.com/switch-to-octopress/</a>
+<a href="http://www.yangzhiping.com/tech/octopress.html">http://www.yangzhiping.com/tech/octopress.html</a>
+<a href="http://blog.fangjian.me/posts/2011/12/18/migrate-wordpress-to-octopress/">http://blog.fangjian.me/posts/2011/12/18/migrate-wordpress-to-octopress/</a></p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[amazon退款记]]></title>
+    <link href="http://dinohu.github.com/blog/blog/2012/01/06/amazon-aws/"/>
+    <updated>2012-01-06T20:25:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blog/2012/01/06/amazon-aws</id>
+    <content type="html"><![CDATA[<p>在这里不得不说amazon是一家非常不错的公司，我误用了它static IP服务，再我的申诉下它给我退款了，也就区区$6.11，工作人员给我很详细的回了邮件，并在邮件中教我怎么样取消服务。</p>
+
+<p>在看了 <a href="https://twitter.com/#!/wangpei">@wangpei</a>老师写得在amazon被猫买误买书退款书的文章下，我想我也可以试试，如果成功了，挽回了自己的损失，不成，就当花钱买个教训，谁让自己手欠开这么多服务呢？！
+wangpei老师的两篇文章：</p>
+
+<blockquote><p><a href="http://www.baibanbao.net/mylife/when-my-cat-bought-me-a-book-on-amazon/">http://www.baibanbao.net/mylife/when-my-cat-bought-me-a-book-on-amazon/</a>
+<a href="http://www.baibanbao.net/tech/no-one-can-stop-amazon/">http://www.baibanbao.net/tech/no-one-can-stop-amazon/</a></p></blockquote>
+
+<p>amazon aws服务并没有留下联系邮箱，至少我找了很久没找到，于是在contract us页面里找到Email AWS Account and Billing Support后填写了一个单子，包括邮件地址，AWS账号，姓名等，然后大概一天多以后收到了它们邮件的回复说可以退钱给我，但要等几个工作日。</p>
+
+<p>邮件大致的意思说，我账户产生的费用是正常的，费用是我选取了额外服务所产生的，但是出于第一次礼貌，可以把钱退给我，钱将会在几个工作日退还到我的信用卡中。</p>
+
+<p>我可真的没有想到amazon会把钱退给我，它真是一个伟大的公司。</p>
+
+<p>下面是邮件的内容：</p>
+
+<hr />
+
+<p>&#8212;- Original message: &#8212;-</p>
+
+<p>AWS AccountId           0696924<code>*****</code>
+email           <code>*****</code>@gmail.com
+accountnumber           0696924<code>*****</code>
+name            <code>*****</code>
+subject         about Amazon Web Services the bill
+message         Dear sir:</p>
+
+<p>Sorry to tell you that I am in trouble. Half a year ago, your AWS service and static IP service is free. Last month, I applied  your AWS service and static IP, but there is no prompt to tell me that the static IP service has started charging. In the case of unknown I have used this service for a month. When I in the bus the bank send a sms to tell the the credit card is charged. I don&#8217;t know what has happened. So I called the bank to suspend the credit card. I think you also have some responsibility, because you did not inform the user the charging of the services .</p>
+
+<p>I wonder if you could kindly refund me for this accidental use? I have canceled all aws services. My account is ***@gmail.com.</p>
+
+<p>Thank you for your attention.</p>
+
+<p>Yours Sincerely</p>
+
+<hr />
+
+<p>amazon aws的回复：</p>
+
+<hr />
+
+<p>Hello <code>***</code>,</p>
+
+<p>I&#8217;m sorry for the inconvenience this may have caused you. I&#8217;ve researched your account and confirmed that the charges incurred on your account are correct.  Although your account is eligible for the AWS Free Usage Tier, your usage charges were based on activity that was outside the specifications of the offer.</p>
+
+<p>As a one-time courtesy, we&#8217;ve approved a refund of the charges in the amount of $6.11. Please allow 3-5 business days for this refund to process.</p>
+
+<p>I&#8217;ve reinstated your account for you to log in and release the Un-attached elastic IP address and stop any running instance. Once you have done so you can close your AWS account as you like.</p>
+
+<p>You can use the EC2 API command line tools to release the Elastic IP address with this command:</p>
+
+<pre><code>  ec2-release-address
+</code></pre>
+
+<p>You can also release the Elastic IP address using the AWS Management Console:</p>
+
+<p><a href="http://console.aws.amazon.com/ec2">http://console.aws.amazon.com/ec2</a></p>
+
+<p>If you are unsure which AWS Region your Elastic IP Address resides in, please be sure to check in each Region using the Region drop-down list in the upper portion of the left hand navigation panel.</p>
+
+<p>I hope this helps.</p>
+
+<p>Thank you for your recent inquiry. Did I solve your problem?</p>
+
+<p>If yes, please click here:</p>
+
+<blockquote><p><a href="http://www.amazon.com/gp/help/survey?p=A2DCX6DWVDCETG&amp;k=hy">http://www.amazon.com/gp/help/survey?p=A2DCX6DWVDCETG&amp;k=hy</a></p></blockquote>
+
+<p>If no, please click here:</p>
+
+<blockquote><p><a href="http://www.amazon.com/gp/help/survey?p=A2DCX6DWVDCETG&amp;k=hn">http://www.amazon.com/gp/help/survey?p=A2DCX6DWVDCETG&amp;k=hn</a></p></blockquote>
+
+<p>Best regards,</p>
+
+<p><code>*****</code>
+aws.amazon.com</p>
+
+<hr />
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[新年首登高]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/379"/>
+    <updated>2012-01-01T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/379</id>
+    <content type="html"><![CDATA[<p>2012年的第一天，醒来把昨晚没看完的电影看掉，又不想睡懒觉，那就出去转转吧！不过这种天人挤人的车也不好坐，就打算骑车去爬山，记得大前年的时候元旦和弧线一起去爬山，当时我的车还是ATX680，过了那么多年，车了换掉了。</p>
+<p>起床收拾东西，顺便煮了去年剩下的两个鸡蛋，一开始还纠结骑哪辆车，骑山地的话穿锁鞋下山时候一定会把脚指头冻掉的，摸了两个车的轮胎都没气，反正都要打气，那就骑折叠吧，穿戴整齐到办公室把气打好就出发了。</p>
+<p>今天的骑行不是算是个半锻炼状态，不赶时间，不比速度，路上拍些风景，呼吸下新鲜空气。</p>
+<p><img alt="huzh's photo" src="https://lh6.googleusercontent.com/-VrC2wTIcdcM/Tv_-RMn-NHI/AAAAAAAAAm0/e1TDpgPISpA/w449-h336-k/DSCF3422.JPG" title="水库" /></p>
+<p><img alt="huzh's photo" src="https://lh5.googleusercontent.com/-TieyywRF72w/Tv_-PiTDMFI/AAAAAAAAAmU/yj7rR9OP6Jw/w198-h149-k/DSCF3423.JPG" title="mybike" /></p>
+<p><img alt="huzh's photo" src="https://lh6.googleusercontent.com/-zh8MEAjCW0E/Tv_-P3u79GI/AAAAAAAAAmY/8ctA2utIHXU/w200-h150-k/DSCF3424.JPG" title="钓鱼的人" /></p>
+<p>今天的天气还算不错，我骑得也不快，出门比较晚，到山脚已经快十一点了，不过人还是很多，门口的大妈和我说自行车不能上山，让我把车停山下，不能上山就白来了，那就拍张大门照吧。</p>
+<p><img alt="huzh's photo" src="https://lh6.googleusercontent.com/-3cf-ha_Cpm8/Tv_-RCumEbI/AAAAAAAAAmo/zBROPc1grAo/w198-h149-k/DSCF3426.JPG" title="大蜀山" /></p>
+<p>既然北门不让我让，那我就去南门吧，从开福寺门口经过，看牌子才知道今天腊八，腊八是要喝腊八粥的，寺庙给行人提供了免费的腊八粥喝，但有一个条件，一定要喝干净。刚好也是中午我，我就去喝点粥垫下肚子吧。</p>
+<p><img alt="huzh's photo" src="https://lh5.googleusercontent.com/-ODjem3NE1cA/Tv_-SfCgOhI/AAAAAAAAAm4/y4azx5BkL8w/w200-h150-k/DSCF3427.JPG" title="开福寺" /></p>
+<p>开福寺免费腊八粥挺不错，打粥的大妈还给我加了两勺红糖，三下五除二就把粥喝完了，边上有义工收碗，我真还没想到在这种地方会遇到义工。顺便吐槽一下，有些人看到免费的东西恨不得全把它弄回家，有那个盆大的碗来盛的，还有些人想把碗顺走，真是太过份了。</p>
+<p><img alt="huzh's photo" src="https://lh4.googleusercontent.com/-2iYqDeG6mEU/Tv_-TmZOlUI/AAAAAAAAAnQ/df0rn21AON8/w174-h130-n-k/DSCF3434.JPG" title="腊八粥" /></p>
+<p>喝完粥绕去南门上山，也许我去的比较晚子，就遇到一个骑车的哥们，我也不知道花了多久上山，反正不是很累，再上一张折叠照。</p>
+<p><img alt="huzh's photo" src="https://lh6.googleusercontent.com/-PEeTHKF7gfM/Tv_-VVFJZwI/AAAAAAAAAnc/OxNiV2amdRQ/w263-h198-k/DSCF3440.JPG" title="山顶" /></p>
+<p>今天山顶的空气不是太好，雾蒙蒙的，拍了张照片远处啥也看不见，也就不上了。车子的后轮有点慢撒气，为了在新年的头天不遇到意外，只好早点下山。</p>
+<p>ps:更新个数据</p>
+<p><img alt="huzh's photo" src="https://lh6.googleusercontent.com/-MJZu_ipZL3Y/TwAMAXkQNkI/AAAAAAAAAoY/Fs_a9R4rwXY/w288-h195-k/cycle_1_1" title="data" /></p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/01/wpid382-vimpress_4f00074e_mkd.txt wpid382-vimpress_4f00074e_mkd.txt --></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2011总结]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/368"/>
+    <updated>2011-12-31T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/368</id>
+    <content type="html"><![CDATA[<p>在2011的最后一天，看着大家都在写总结，也跟风写个流水账吧。</p>
+<p>2011注定是辛苦的一年，没有太多的惊喜，但也不是平淡，上半年基本上是在找工作和写毕业论文中度过，下半年就在写计划，做实验，看文献，写报告中度过。总体来说玩得少了，工作得多了。日子过得挺艰辛，但确能让我快速的成长。这么多年来，2011年应该是我收获最大的一年，总是在“舍”与“得”之间选择，所有的结果都是自己来乘担，使得我做出的每一项决定都更加小心。</p>
+<p>也没有太多好总结的，能让自己记住的也就这么多。</p>
+<ul>
+<li>拿到毕业证</li>
+<li>找到工作</li>
+<li>搭建个人博客</li>
+<li>买了ipad</li>
+<li>一次长途旅行</li>
+<li>和父母过中秋</li>
+<li>一次短途旅行</li>
+<li>买了kindle</li>
+<li>读了几本书　 </li>
+<p></ul><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2011/12/wpid373-vimpress_4efee53f_mkd.txt wpid373-vimpress_4efee53f_mkd.txt --></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[几件要坚持的事]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/364"/>
+    <updated>2011-12-30T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/364</id>
+    <content type="html"><![CDATA[<p>要新年了，该总结的地方要总结，最近想到的一些事情，多写点吧！有些事情坚持了很久，已经成了习惯，希望能够继续保持。</p>
+<ol>
+	<li>每天
+	<ol>
+		<li>记账<br />
+<p>自从工作以来，想对自己的开支有所了解，到底钱是怎么花掉的，于是从８月份来开始保持每天记账的习惯，到现在为止已经坚持了四个多月了，是一件非常好的事情。当时一直在为这账怎么记发愁，还在小本子上记了几天的账，还好现在有比较智能的软件每月的开支。下载了很多免费的都不怎么好用，要么就是小公司做的还要钱，既然收钱了我不如买大公司的产品，那样服务就更多，为了在电脑，ipad上能够同步，狠心花了20块钱搞了个随手记的pro版，主要是为了他的PC上那个软件，到时候回家也可以给爸妈用。</p><br />
+<p>虽然说该花的钱还是要花，但天天记账总能做到心中有数，记账初期记得还比较详细，后来只能精确到圆，再后来只能精确到十圆了，还好是一个数量级内的差多少也无所谓。</p></li>
+		<li>写日记<br />
+<p>写日记的习惯是前一阵装了vimwiki才开始的，以前也写过一阵子，但是由于自己太懒，坚持一阵子就不想写了，现在又重拾起来，反正写日记又不写什么心得，流水账似的记一下就好，花不了多少时间，如果把一件事当做和每天的吃饭，长久了一定能养成习惯。</p></li>
+		<li>阅读<br />
+<p>住的地方离办公室比较近，平时就窝在办公室里，所以也没有装宽带，晚上回去也就洗漱一下就睡了，但也是会有睡不着的时候，看书是最好的催眠方式，自从买了kindle3以后，晚上睡前浏览翻几页书，也是很惬意的。</p></li>
+	</ol></li>
+	<li>每周
+	<ol>
+		<li>锻炼<br />
+<p>以前还挺喜欢运动的，每周至少要打两到三次篮球或者出去骑骑车，自从工作以来去锻炼的次数就越来越少越来越少已经减到现在的没有。上周末的羽毛球比赛由于长时间不锻炼体力不支被别人打爆以后，就想着每周总该抽点时间出去锻炼下，一是为了身体健康，二还能放松放松。可是这大冷天的，打球又不太合适，骑车又太冷，实在想不出什么项目，又是那句话，等明年开春吧，不知道又要肥多少斤。年底了，对来年总有个计划吧，这个应该是工作之余排在前面的。</p></li>
+		<li>写博客<br />
+<p>自从四月份搭建了个人博客到现在８个月不到250多天已经写了50多篇博客之后，现在翻翻原来的记录，还是挺有意思的，虽然文笔不好比不上那些自由撰稿人，但是能为自己写点东西也是挺不错的。还记得大学毕业时bingjie带我一起玩始玩的，也在不同的地方写的，什么live space，qq zone，然后就是现在自己搭的这个，前一阵有空把以前写的东西再翻出来，好多事情已经不太记得了，但是笔下的那些文字又让我回忆起了从前，很有意思。现在也不追求要写出多么好的东西，能写点是一点，养成习惯就好。</p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2011/12/vimpress_4efda010_mkd.txt vimpress_4efda010_mkd.txt --></li>
+	</ol></li>
+</ol>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Markdown常用命令笔记]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/350"/>
+    <updated>2011-12-30T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/350</id>
+    <content type="html"><![CDATA[<p>今天又复习了下markdown，既然学了，就该好好学一下，还做了点笔记写在纸上，只是随便写的，怕到时候丢了找不到，就记到博客上吧。</p>
+
+	<ol>
+		<li>链接<br />
+<p>&lt;url&gt;</p><br />
+<p>[文字](url)</p><br />
+<p>[文字](url &#8220;文字&#8221;)</p><br />
+<p>[文字][标记]</p><br />
+<p>[标记]: url　“文字说明”</p></li>
+		<li>标题<br />
+<p>##### 标题<br />
+标题<br />
+==</p></li>
+		<li>粗体斜体<br />
+<p><strong>文字</strong>  <em>文字</em><br />
+<strong><em>文字</strong></em> <em><em>文字</em></em></p></li>
+		<li>粗斜体<br />
+<p>***文字*** ___文字___</p></li>
+		<li>引用<br />
+<p>&gt;文字</p></li>
+		<li>原文输出<br />
+<p>`文字`</p></li>
+		<li>列表<br />
+<p>* 列表１</li>
+	</ol></li>
+	<li>列表２<br />
++ 列表３<br />
+- 列表４</p>
+	<ol>
+		<li>转义<br />
+<p>\</p></li>
+		<li>换行<br />
+<p>句子后两个空格</p></li>
+		<li>段落<br />
+<p>空行</p></li>
+		<li>水平线<br />
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+<strong><strong><em></strong></em></strong><strong>*</strong></p><br />
+<hr /><br />
+<p>这篇笔记就是在vim-vimpress下使用markdown语言编写，但是小标题的文字并没有被加大加粗。</p><br />
+<p>找到原因了，和vimwiki的语法还是有点不一样，小标题应该用#才行的。</p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/01/wpid365-vimpress_4efd8c36_mkd.txt wpid365-vimpress_4efd8c36_mkd.txt --></li>
+	</ol>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Markdown语言学习]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/336"/>
+    <updated>2011-12-29T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/336</id>
+    <content type="html"><![CDATA[<p>===========</p>
+<p>这几天折腾Vimwiki发现一种叫markdown的语言，貌似挺多人用挺多，我们常用邮件中常用的语言也是markdown的。刚好这几天用vimpress写博客，在twitter上也看人家转发了markdown语言的语法，就想学习下。</p>
+<p>刚学习的时候看的是一个台湾的教程，它和html混在一起写，又是繁体字，没仔细看，觉得TMD太麻烦了，都有点想放弃了，后来又google了一份中语的才看明白，回过头再看台湾教程就简单多了。</p>
+<p>============</p>
+<p>下面参考文章，读一遍源码有助于深刻理解！！</p>
+<blockquote>
+<p>[牧码志]:http://sinolog.it/?p=378<br />
+http://markdown.tw/<br />
+https://raw.github.com/othree/markdown-syntax-zhtw/master/syntax.md</p>
+<p></blockquote><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2011/12/wpid345-vimpress_4efc5455_mkd.txt wpid345-vimpress_4efc5455_mkd.txt --></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[安徽博物馆新馆&&金渤瀚]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/299"/>
+    <updated>2011-12-28T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/299</id>
+    <content type="html"><![CDATA[<p>首先应该感谢国家，感谢党，感谢研究院团委，能让我在光荣退团的前一天去安徽博物馆参观并奉上一顿鲜美的自助餐。</p>
+<p>&nbsp;</p>
+<p>年底各个组织都要完成年底计划，都会带大家出去玩玩，以前也参加过此类活动。一周前收到通知说要去参观博物馆，虽然实验有点小忙，还是抽出了一个下午准备去放松放松。以前去过南京博物苑，这个馆相当于苑应该是小了不少，但是免费的午餐当然要去尝尝。</p>
+<p>&nbsp;</p>
+<p>下午准时集合乘单位的车到了博物馆，开车的师傅也是第一次过去，绕了不少路才到。刚到博物馆就被这建筑给震住了，修得确实气派。博物馆是不收门票的，但是找了个导游为我们讲解花了不少钱。</p>
+<p>&nbsp;<br />
+<p style="text-align: center;"><img class="aligncenter" title="meseum1" src="https://lh3.googleusercontent.com/-c6wpWiu1EAw/TvsdQ2yk0eI/AAAAAAAAAhc/wNW_QUTWRww/w449-h336-k/DSCF3379.JPG" alt="" width="448" height="336" /><br />
+<img class="alignleft" title="meseum2" src="https://lh3.googleusercontent.com/-PrlrA5xZPOs/Tvsct1V4EKI/AAAAAAAAAhM/dyy0jqG25oM/w233-h174-k/DSCF3380.JPG" alt="" width="232" height="174" /><br />
+<img class="aligncenter" title="meseum3" src="https://lh6.googleusercontent.com/-iQ2OEf_G1hk/TvsdP-jPzbI/AAAAAAAAAhU/KetCq6Q0H3o/w233-h174-k/DSCF3381.JPG" alt="" width="232" height="174" /></p><br />
+<p style="text-align: center;"><img class="alignleft" title="meseum4" src="https://lh4.googleusercontent.com/-tlgM7PFtK9M/TvseORYHQZI/AAAAAAAAAh0/MflnuNvsSZY/w200-h150-k/DSCF3384.JPG" alt="" width="200" height="150" /><br />
+<img class="aligncenter" title="meseum5" src="https://lh4.googleusercontent.com/-FoAPhVP73vE/TvsebFIYpDI/AAAAAAAAAh8/5j7w9lxlto8/w200-h150-k/DSCF3386.JPG" alt="" width="200" height="150" /><br />
+博物馆总共有五个馆，要都玩过来也不是很现实，而且我们只有一个小时的时间，随后就要去金渤瀚，所以我们只能走马观花得过一遍，最近博物馆有李自健的油画展在一楼，也顺便走进去看了看，我们的目标是博物馆的主馆&#8212;安徽文明史阵列馆。<br />
+<img class="aligncenter" title="meseum6" src="https://lh3.googleusercontent.com/-OdPMLs35ROU/TvsjkG4PY4I/AAAAAAAAAl4/jiDwGcbD_58/w270-h203-k/DSCF3420.JPG" alt="" width="270" height="202" /><br />
+以前并没有觉得油画好看，但进去看了才让我震惊，画得实在太像了，如果远看，除档画框，就像一真人在眼前，我也拍了几张照片，但是小卡片效果一般再加上拍照水平较差，实在是惨不忍睹了。<br />
+<img class="alignleft" title="museum7" src="https://lh5.googleusercontent.com/--bhIuc1xNd4/Tvsg--9mjKI/AAAAAAAAAjg/8RYdL_ObXGM/w227-h170-k/DSCF3398.JPG" alt="" width="226" height="170" /><br />
+<img class="aligncenter" title="meseum8" src="https://lh3.googleusercontent.com/-0v-pyGzwvjQ/Tvse09rMWyI/AAAAAAAAAiE/5JAK9eshsiI/w281-h210-k/DSCF3387.JPG" alt="" width="280" height="210" /><br />
+<img class="alignleft" title="museum9" src="https://lh5.googleusercontent.com/-QjvVwsk0Dzc/TvsfPHKNuKI/AAAAAAAAAiM/bOoyqg9QPj4/w281-h210-k/DSCF3388.JPG" alt="" width="280" height="210" /><br />
+<img class="aligncenter" title="museum10" src="https://lh4.googleusercontent.com/-hstyrLn7avY/TvsfYAvotLI/AAAAAAAAAig/-Xo5m48NLI0/w158-h210-k/DSCF3389.JPG" alt="" width="158" height="210" /><br />
+<img class="alignleft" title="museum11" src="https://lh5.googleusercontent.com/-KGhW0YoOzco/TvsfbpmvO_I/AAAAAAAAAio/OXf8mnmwc8I/w159-h212-k/DSCF3390.JPG" alt="" width="159" height="212" /><br />
+<img class="aligncenter" title="museum13" src="https://lh5.googleusercontent.com/-KGhW0YoOzco/TvsfbpmvO_I/AAAAAAAAAio/OXf8mnmwc8I/w159-h212-k/DSCF3390.JPG" alt="" width="159" height="212" /><br />
+<img class="alignleft" title="museum14" src="https://lh3.googleusercontent.com/-TSe5d5Exxh4/TvsfumoBWgI/AAAAAAAAAi4/xhuKbQzbnkU/w105-h140-n-k/DSCF3392.JPG" alt="" width="105" height="140" /><br />
+<img class="aligncenter" title="museum15" src="https://lh3.googleusercontent.com/-fOf604dmEZQ/Tvsf7_uIK1I/AAAAAAAAAjA/4B333tSFNZQ/w158-h210-k/DSCF3393.JPG" alt="" width="158" height="210" /><br />
+<img class="alignleft" title="museum16" src="https://lh4.googleusercontent.com/-iyRYChsxOEo/TvsgbZLf75I/AAAAAAAAAjQ/E1W0viMRubU/w282-h212-k/DSCF3395.JPG" alt="" width="282" height="212" /><br />
+<img class="aligncenter" title="museum17" src="https://lh4.googleusercontent.com/-sM33yxC80JA/TvsgvqTKNiI/AAAAAAAAAjY/9lSSw5TyvaE/w282-h212-k/DSCF3396.JPG" alt="" width="282" height="212" /></p><br />
+参观完油画展后就径直去了主馆，但我们几个对油画比较留恋的人拖了后腿没看到主馆一开始的3D视频。馆内主要是一些从远古时期到现代的重要文物，仿制品居多，又加上相机掉链子，没留下几经照片真是可惜，就随便上几张吧。</p>
+<p>&nbsp;</p>
+<p><img class="alignleft" title="meseum17" src="https://lh6.googleusercontent.com/-n1FIl0pw_VA/TvshRVENPUI/AAAAAAAAAjo/JmyZZyd1ZFw/w151-h113-n-k/DSCF3399.JPG" alt="" width="151" height="113" /><br />
+<img class="aligncenter" title="meseum18" src="https://lh3.googleusercontent.com/-i9PdseJTdsM/TvshhAHvJ0I/AAAAAAAAAjw/m78SMrFOpw8/w128-h170-k/DSCF3400.JPG" alt="" width="128" height="170" /><br />
+<img class="alignleft" title="meseum19" src="https://lh4.googleusercontent.com/-MdPHm0Aw0r4/Tvshyb4_aqI/AAAAAAAAAj4/WCpGIyeWIC4/w228-h171-k/DSCF3402.JPG" alt="" width="228" height="171" /><br />
+<img class="aligncenter" title="meseum20" src="https://lh6.googleusercontent.com/-bzROv89RrXc/TvsilFvO1FI/AAAAAAAAAkY/auOs87X9z3Q/w261-h197-k/DSCF3406.JPG" alt="" width="261" height="196" /><br />
+<img class="aligncenter" title="meseum21" src="https://lh5.googleusercontent.com/-4Cs4TQef35w/TvsjRlEXDYI/AAAAAAAAAlI/OrWHg_oxHdo/w252-h189-k/DSCF3413.JPG" alt="" width="252" height="189" /><br />
+<img class="alignleft" title="meseum22" src="https://lh5.googleusercontent.com/-jWsXvzxRw0Q/TvsjdW1UwLI/AAAAAAAAAlo/HHo8pjx0CTA/w101-h134-n-k/DSCF3417.JPG" alt="" width="101" height="134" /><br />
+<img class="aligncenter" title="meseum23" src="https://lh4.googleusercontent.com/-bqzpy1kpVSM/TvsjhVK7DKI/AAAAAAAAAlw/FK_lUXWYZQM/w101-h134-n-k/DSCF3419.JPG" alt="" width="101" height="134" /></p>
+<p>为了避开堵车时间，我们早早结束了参观，奔向第二个目的地，我的目标主要是把成本吃回来，战果还不错，三盘白煮虾，两盘扇贝，少许水果，应该差不多了，再吐槽一下金渤瀚，自助吃不要紧，喝水要钱，而且尽是些没有汁的水果，吃多了口渴死。</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[test vimpress]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/286"/>
+    <updated>2011-12-25T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/286</id>
+    <content type="html"><![CDATA[<p>测试用vimpress写博客</p>
+<p>参考链接：</p>
+<blockquote>
+<p>http://klniu.com/post/vim-vimpress-blog/<br />
+http://apt-blog.net/vimpress-add-markdown-multiblog-support<br />
+http://apt-blog.net/release-of-vimrepress_cn<br />
+http://www.sdvil.com/vim/%E5%86%99blog%E4%B9%8B-vimpress-2/<br />
+http://blog.csdn.net/xiebiwei/article/details/6182547<br />
+http://www.emptykid.com/blog/archives/191<br />
+http://dango-akachan.appspot.com/?p=128001</p>
+</blockquote>
+<p>按照上面的链接折腾了一把以后，它1.X版本和后面的还有点变化，新版本的配置不在blog.vim里面了，直接是到.vimrc中修改，还支持多个博客切换，不过我是用不到，就一直在这里写吧。</p>
+<p>配置的时候遇到点问题，加我的博客加不进去，后来想起来我的博客不是放在要目录下的，而是在子目录下面，在域名后面又加上子目录的名称就好了。</p>
+<p>写好博管然后发布的时候又遇到问题，好像是没装xdotool的包，源里装上就可以发现了，一开始一直以为是没有vim-python呢，可是我在源里死活搜不到。</p>
+<p>最后，不太懂html的语法，只能这样纯文本的码点字了，看来还要去折腾点插件搞点html才好。</p>
+<p>更新：前两天一直用vimpress总是发不出博客，后来测试了几遍才发现strID留空就好了。</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2011/12/wpid-vimpress_4ef6cd75_mkd1.txt wpid-vimpress_4ef6cd75_mkd.txt --></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[12月读的几本书]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/285"/>
+    <updated>2011-12-25T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/285</id>
+    <content type="html"><![CDATA[<p>自从买了kindle以后，看的书也就越来越多了，对于以前不怎么看书的我来说，要是能在这设备上能看掉50本以上的书就算回本了，多看一本赚一本，这样算下来一本书20块钱吧，能用这种方式逼着自己多看些本我觉得值了。还有一点，就是有免费的3G用，正好可以多看点推，不过那浏览器太蛋疼了。</p>
+<p>&nbsp;<br />
+12月下半月也就看了这几本书，在这里做个记录，以后便于查找，等有空了我在把书摘整理下。</p>
+<p>&nbsp;</p>
+<p>&nbsp;<br />
+<ul><br />
+	<li>对我影响最大的几本书</li></p>
+</ul>
+<p><img class="aligncenter" title="对我影响最大的几本书" src="http://img3.douban.com/lpic/s6790095.jpg" alt="" width="291" height="453" /><br />
+季羡林老人家写的，整本书也就是他的散文集，心得体会和他对一些人的评价，没有提到对他影响最大的书，看完后有点小失望有感觉，未看之前，以为能看看有哪几本书对他影响那么大，也许就是这本在看的吧。这本书还有一点比较特别，一般的书都会有人写序，可是写这本书的人太牛了吧，90多岁还在写，没有人敢给这本书写序了，因为没怎么看过他写的书，不知道其它书是不是也没有序。<br />
+书里基本上是一些杂记，记录了他怎么怎么牛吧，印象最深的地方就是他老人家和胡适杠上了，书中很多地方都提到胡适，赞美不多，多是讽刺挖苦，老拿胡适“大胆假设，小心求证”说事。抓住一个人失误的地方不放，有点不太像大家风范。说起来一个是留在大陆的人，一个是去了台湾后来去美国的人，他们之间的恩恩怨怨谁又说得清楚？？</p>
+<p>&nbsp;</p>
+<p>&nbsp;<br />
+<ul><br />
+	<li>off学</li></p>
+</ul>
+<p><img class="aligncenter" title="off学" src="http://img1.douban.com/lpic/s2590342.jpg" alt="" width="309" height="432" /></p>
+<p>大前研一写的书，我也不知道是在哪偶尔看到的，就下载子让amazon推送到kindle上了，刚好昨天打羽毛球是看了，书本不长，乘打等球的中间看完了，书本的理念和我想的差不多，但是自己可能太贪玩了，好多地方都做不到，比如说如果培养一种兴趣就要坚持下来，要深入，否则就太泛泛，懂得多但是杂，也是很没意思的，还有就是要坚持锻炼，从昨天的比赛中已经发现明显的力不从心了，和原来同水平的人一起打球，他坚持打了两年，我两年没摸过拍子了，直接被打得满地捡球，不过还好，第二局乘自己还有点基本功灭了两个菜鸟。</p>
+<p>&nbsp;</p>
+<p>&nbsp;<br />
+<ul><br />
+	<li>盗墓笔记8·大结局（上）</li></p>
+</ul>
+<p><img class="aligncenter" title="盗墓笔记8 上" src="http://img3.douban.com/lpic/s7006073.jpg" alt="" width="315" height="423" /><br />
+<ul><br />
+	<li>盗墓笔记8·大结局（下）</li></p>
+</ul>
+<p><img class="aligncenter" title="盗墓笔记8 下" src="http://img3.douban.com/lpic/s7006075.jpg" alt="" width="315" height="423" /><br />
+这本书在上半年看了前几本，不能落下一本不看了，刚好知道这本书已经出完了，到网上搜了下，第一次还看到本假的，也不知道谁写的，看到后来没有了结局，后来功夫不负苦心人，终于找到了，花了一晚上看完，写得很不错，能让我集中精力看上两三个小时的书，强烈推荐下。</p>
+<p>&nbsp;<br />
+最后还有三本在看的书，一本是是布什传《抉择时刻》，已经翻了20多页了，因为不是在kindle上看，书有点重，字有点小，看得不是很快，争取过年前能看完吧。还有一本是康永哥的《蔡康永说话之道》，起床前翻了30％了，应该很快就能看完。另一本就是《正说清朝12臣》，看得有点乏味，所以和几本书混着看了。</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[实况、扑克和西甲德比]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/278"/>
+    <updated>2011-12-11T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/278</id>
+    <content type="html"><![CDATA[<p>好久没有放纵一下自己了，下了一堆电视电视都没看，该玩的时候没玩，该睡的时候也没好好睡，整天被实验弄得焦头烂额。实然帮TAN老师搬家，累得不行了，刚好凌晨五点有西甲的国家德比大战，大家熬一熬夜想看看这2011年最后一场世纪大战。</p>
+<p>&nbsp;<br />
+因为我现在住的地方没有网络，如果晚上呆办公室可能会惊动太多的人，我们只好选择在学生宿舍里看了，回去了时候买了很多吃的，水，瓜子，面包，饼干等等。从晚上11点熬到第二天5点时间虽然不长，但是晚上容易范困也要找点事做做。就打算先实况再打牌再实况然后就可以看球了。</p>
+<p>&nbsp;<br />
+实况我是2年前于2009年硕士同学毕业的时候才开始学着玩的，当时一点也不会，连传球都会点两下，水平太菜他们都不带我玩，后来同学都走了，PAN老板实在找不到人打实况只能培养我，真是一点点培养，从实况10打到实况2011，一直培养到他现在打不过我，其实我的水平还是很烂，打打一般的菜鸟还可以。玩实况并不难，就是熟能生巧的活，玩得多了，套路也就出来，和相同的人玩多了，他的每次传球，进攻路线，防守方式都能判断得很好，反而是有些失误时对方习惯性的动作也造成双方失误。</p>
+<p>&nbsp;<br />
+先用我们常用的队打了两局，他阿森纳VS我巴萨，巴萨也许是我用得最好的队，速度，转身，传球，射术一点都不差，再加上三叉戟进攻，基本上的队都可以拿下。先输了个1：3，还晚先进球，后来状态不佳，PAN和打了鸡血似的进攻，在快结束时候被进两球。第二局2：2，在上半场时候他已经进2球了，然后放狠话让我退出重打，还好下半场靠着运气进了一球才有搬回的可能，第二球单刀晃过守门员打空门打平挽回点颜面。后来就找个联赛大家随机选球队打，反而打得更好，因为差队的守门员太烂了。一直打实况有点累，保持精神高度集中状态10分钟连打几局确实有点受不了。大家开始准备打斗地主，三个人的斗地主是常大，四个人没打过，至少我觉得三个打一个基本上是打不成的，可是我们这几个人水平都太烂，打地主老是打成太不可以思议了。我们打牌就是娱乐，不记牌，不算牌，就是当工作之娱的一项休闲活动，大家觉得如果把打牌当做一项科研来做的话那也太累了。边玩玩吃玩说边笑玩到两点多大家实在困得不行了只好散去睡觉，四个人两张床肯定是睡不下的，我就拿出ipad看趴桌子上看男人帮，看了没几分钟实在困得不行就睡着了。虽然空调开了30度，还是给冻感冒了。</p>
+<p>&nbsp;<br />
+4：57准时被TAN老师吵醒，赶紧开电脑上zhibo8，才发现插件没装不能看，等一切弄好的时候发现巴萨已经被进球了，第一个球只能看了重播。后来看着看着网络不知道怎么断了，只好换到同学电脑看，三个大男生挤在一个小电脑前看实在太辛苦了，不过看球就要人多才有感觉。巴萨和皇马都是我们喜欢的球队，大家各有立场，我是倾向于巴萨能赢，因为这几年看这两支队来基本上都是巴萨赢得多，而且我踢实况基本上也是用巴萨，可是巴萨出师不利，开场就丢掉一球。不过还好，后来慢慢找到了感觉连搬三个实在太爽了。慢慢的终于熬完了两个小时，大家都困得不行了，但是，还要回去睡觉，路过菜场时习闻点早饭，看到路上的积水已经结冰了，TMD太冷了，人瞬间清醒了很多，回到家倒头就睡，一直睡到下午1点多，实在太爽了，好久好久没有这么放纵一下自己了。</p>
+<p>&nbsp;<br />
+下午到了办公室，发现还有好多事没做，明天又周一了，真不想上班，现在真有点上班厌烦证了。</p>
+<p>&nbsp;</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[两本流行小说(《失恋33天》和《那些年，我们一起追的女孩》)]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/269"/>
+    <updated>2011-12-07T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/269</id>
+    <content type="html"><![CDATA[<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>最近有两部小说改编的电影非常火，《失恋33天》和《那些年，我们一起追的女孩》，虽然平时工作很忙，但还是经不住诱惑想看一下，《失恋33天》电影票卖得很火，根本买不到票，枪版的实在是伤不起，正好有网友在网上共享了小说，那就先看小说吧。插点题外话，看这本小说的时候还没有买kindle，开始在电脑上看，觉得有点累，后来又把小说放到ipad里躺在床上看，还是有点累，花了两个晚上把它《失恋33天》看完。后来买了kindle，看《那些年，我们一起追的女孩》就不觉得很累了，心里作用吧。还有我看书很慢，喜欢一个字一个字的看，如果看快了就会不知道所云，这里还需要锻练吧！</p>
+<p>&nbsp;</p>
+<p>先说《失恋33天》，</p>
+<p><img class="aligncenter" title="失恋33天" src="http://img3.douban.com/lpic/s6980516.jpg" alt="" width="309" height="432" /></p>
+<p>看完小说，觉得一般般吧，没什么太多的新意，讲大城市里80后年青人的痛苦生活，看起来离我们生活很近，但又觉得很远，除了两个人一起贫嘴以外，书里找不出什么有特色的地方，电影是文章演的，我觉得他就适合演这种小男人形像，无论从演小贝，刘一阳等等，好像这角色就是为是量身定做的。因为先看了小说，再看电影，电影是我放ipad上看的，刚好AVPlayer软件可以2倍速播放，可以节省我一半时间浪费在这种肥皂剧上，因为同时还干着其它的工作，也就没怎么看，基本上就是带着耳机听，听到感兴趣的地方抬头看两眼，不知不觉的就结束了，真是没什么感觉，可能我鉴赏能力太差了吧。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>再说《那些年，我们一起追的女孩》</p>
+<p><img class="aligncenter" title="那些年，我们一起追的女孩" src="http://img3.douban.com/lpic/s1982025.jpg" alt="" width="300" height="431" /></p>
+<p>这是一部很值得期待的台湾电影，没想到也是由小说改编。早几个月已经在台湾上印了，但是由于大陆的一些审查，或许还有一些其它原因，到现在还没有上映，网上找到了下载的种子，但是下不动，这保护也做得太好了吧。这些天总看到大家在讨论《那些年》，但是还是不想看枪版，就下小说看吧。按小说里所里的是90年上初中，算起来比我们还早6年，不过那个年代共同的话题多了，70后的尾和80后的头所经历的生活都差不多。那时候没有手机，只要事先在电话里约定，无论在哪约会都会准时到地方，不像现在有了手机，可以随时通知你不来了。那个时候没有手机，大家都是买电话卡在学校IC卡电话亭里排着长队只为给自己的同学打个电话，无论多长的电话号码都可以死记在心里。那个时候没有手机，大家还是以书信的方适进行联络，曾经还有人和我说起他们比每个星期收到笔友的信谁的多，我们这一代人啊，现在小孩哪有我们这个经历，整天泡在网络上，周围的朋友都不认识。小说不长，花了一中午＋一晚上就看完了，因为经历过那个年纪，很多事情猜都可以猜得出来，边看着小说，边想着自己十几年前的事，发现很多事情怎么会那么的相似，喜欢一个人而去努力读书，从成绩倒数到全班全校的前几名，其实就和书中所说的一样，就是喜欢那种感觉而已，并没有想到以后会怎么样，就是个感觉和那种幼稚。下午没有做实验，就把《那些年》的原声MV看了一遍，不再乎到底是谁拍的电影，只在乎那些情节，只是短短的那几分钟，差点热泪盈框。电影一定是很不错的，期待上映！</p>
+<p>&nbsp;<br />
+<blockquote>you are the apple of  my eye</p>
+<p>官网：<a href="http://www.appleofmyeye.com.tw/">http://www.appleofmyeye.com.tw/</a></p>
+<p>&nbsp;</blockquote><br />
+最后引用一下大智若鱼的文章，写得很不错<br />
+<blockquote><a href="http://gongm.in/2011/12/you-re-the-apple-of-my-eye-ost/">http://gongm.in/2011/12/you-re-the-apple-of-my-eye-ost/</a></blockquote></p>]]></content>
+  </entry>
+  
+</feed>
