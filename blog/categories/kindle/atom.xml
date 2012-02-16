@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: kindle | 华华的OCTOPRESS BLOG]]></title>
+  <link href="http://dinohu.github.com/blog/categories/kindle/atom.xml" rel="self"/>
+  <link href="http://dinohu.github.com/"/>
+  <updated>2012-02-16T18:52:45+08:00</updated>
+  <id>http://dinohu.github.com/</id>
+  <author>
+    <name><![CDATA[Dinohu]]></name>
+    <email><![CDATA[ssshzh@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[三个转换6寸kindle pdf文档软件]]></title>
+    <link href="http://dinohu.github.com/blog/2012/02/14/3-convert-soft-4-kindle/"/>
+    <updated>2012-02-14T18:02:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/2012/02/14/3-convert-soft-4-kindle</id>
+    <content type="html"><![CDATA[<p>无奈kindle的屏幕实在太小，只有区区6寸，想要在kindle上看PDF是有点吃力，ipad的屏幕虽然大，但是ipad确实不太适合看文档，于是就想把文档转换成6寸的来看。对于一般的文字文档来说，直接发到amazon的邮箱让它去转好直接推送到kindle上了，对于有大量格式的文献就无能为力了，转换的基本上没法看，就开始着手于找转换软件。</p>
+
+<p>以前偶然下到过一个叫<a href="code.google.com/p/papercrop/">papercrop</a>的软件可以转换，版本还是比较老的，功能也没弄得太明白，于是它就在硬盘躺了很久。后来在网上随便搜了下，发现了一个用python写的<a href="http://gatherlight.info/blog/?page_id=1631">paper4kinde</a>的软件，在介绍里又找到一个同样用来转换的软件<a href="http://www.willus.com/k2pdfopt/">k2pdfopt</a> 。花心转每个软件都深研究了下，顺便比较一下。</p>
+
+<p>paper4kindle：用python写的，就是用了python功能把pdf文档切开，还是保持原来的文档格式，可以标记什么的，但是对于一张图横跨两栏就没办法，软件的作者是采用在附上整页来解决，我到是觉得这样翻页也挺麻烦的，软件的转换速度还是挺快的。</p>
+
+<p>papercrop:看paper4kindle软件介绍说是棒子写的，功能很强大，于是摸索了下，这个软件对于处理含各种样式的PDF文档处理很好，选好要剪切的地方，设置好自己需要的大小，行距，页边距等等，然后转换就好了，它还能自己探测文档格式自行处理，处理出来的结果也还不错，转换速度适中，我主要拿它来自定义处理，把文献中不想要的部分（比如参考文献）、页码都去掉。</p>
+
+<p>k2pdfopt:这个软件是针对为kindle2写的，kindle3，4屏幕都一样大，所以都能用，这个软件很强大，如果把文件夹拖上去，里面的PDF文档都可以处理，看介绍说djvu文档也行，不过我手头上没有这类文档。里面要设置的参数很多，基本上看了遍也试了下，看自己需要设置就行了，懒人就用默认的就好，转换出来的文档很不错。</p>
+
+<p>还有，后面两个软件基本上是先把文档处理成图片切割，最后再整合成PDF，因此就不用高亮和作标记了，这点是比较遗憾的。所以，如果对标记和高亮没要求，人勤快想自定义就用papercrop，文档太多人太懒就用k2pdfopt吧，如果以后再发现什么好用的转换软件继续补充。</p>
+]]></content>
+  </entry>
+  
+</feed>
