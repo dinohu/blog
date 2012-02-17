@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: kindle | 华华的OCTOPRESS BLOG]]></title>
-  <link href="http://dinohu.github.com/blog/categories/kindle/atom.xml" rel="self"/>
-  <link href="http://dinohu.github.com/"/>
-  <updated>2012-02-16T18:52:45+08:00</updated>
-  <id>http://dinohu.github.com/</id>
+  <link href="http://dinohu.github.com/blog/blog/categories/kindle/atom.xml" rel="self"/>
+  <link href="http://dinohu.github.com/blog/"/>
+  <updated>2012-02-17T21:18:50+08:00</updated>
+  <id>http://dinohu.github.com/blog/</id>
   <author>
     <name><![CDATA[Dinohu]]></name>
     <email><![CDATA[ssshzh@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[三个转换6寸kindle pdf文档软件]]></title>
-    <link href="http://dinohu.github.com/blog/2012/02/14/3-convert-soft-4-kindle/"/>
+    <link href="http://dinohu.github.com/blog/blog/2012/02/14/3-convert-soft-4-kindle/"/>
     <updated>2012-02-14T18:02:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/2012/02/14/3-convert-soft-4-kindle</id>
+    <id>http://dinohu.github.com/blog/blog/2012/02/14/3-convert-soft-4-kindle</id>
     <content type="html"><![CDATA[<p>无奈kindle的屏幕实在太小，只有区区6寸，想要在kindle上看PDF是有点吃力，ipad的屏幕虽然大，但是ipad确实不太适合看文档，于是就想把文档转换成6寸的来看。对于一般的文字文档来说，直接发到amazon的邮箱让它去转好直接推送到kindle上了，对于有大量格式的文献就无能为力了，转换的基本上没法看，就开始着手于找转换软件。</p>
 
 <p>以前偶然下到过一个叫<a href="code.google.com/p/papercrop/">papercrop</a>的软件可以转换，版本还是比较老的，功能也没弄得太明白，于是它就在硬盘躺了很久。后来在网上随便搜了下，发现了一个用python写的<a href="http://gatherlight.info/blog/?page_id=1631">paper4kinde</a>的软件，在介绍里又找到一个同样用来转换的软件<a href="http://www.willus.com/k2pdfopt/">k2pdfopt</a> 。花心转每个软件都深研究了下，顺便比较一下。</p>

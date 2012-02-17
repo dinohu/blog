@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[华华的OCTOPRESS BLOG]]></title>
-  <link href="http://dinohu.github.com/atom.xml" rel="self"/>
-  <link href="http://dinohu.github.com/"/>
-  <updated>2012-02-16T18:52:45+08:00</updated>
-  <id>http://dinohu.github.com/</id>
+  <link href="http://dinohu.github.com/blog/atom.xml" rel="self"/>
+  <link href="http://dinohu.github.com/blog/"/>
+  <updated>2012-02-17T21:18:50+08:00</updated>
+  <id>http://dinohu.github.com/blog/</id>
   <author>
     <name><![CDATA[Dinohu]]></name>
     <email><![CDATA[ssshzh@gmail.com]]></email>
@@ -14,10 +14,27 @@
 
   
   <entry>
+    <title type="html"><![CDATA[从零开始]]></title>
+    <link href="http://dinohu.github.com/blog/blog/2012/02/17/2012from-zero-to-start/"/>
+    <updated>2012-02-17T21:16:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blog/2012/02/17/2012from-zero-to-start</id>
+    <content type="html"><![CDATA[<p>回来后又做了两个星期的实验，看结果是做不出东西来，告诉老板已经进行不下去了，老板说那就快换项目吧，赶紧着手另外一个项目。</p>
+
+<p>实验做不出什么结果，我一点也不吃惊，其实早已有了心里准备，只是不愿意早点看到实验结果，但是，实验还是一天天的进行，拖到最后不能再拖的时候，处理下数据得到不能再做下去的结论，拖延的时间太长了，其实用上两三天就能得到这样的结论确用了一个星期。</p>
+
+<p>半年辛苦的实验化为乌有，不是不努力，也不是不认真，也许就像老板说的，没有科研的感觉，那种从刚开始就能预料结果的感觉，这种感觉是靠大量的实践积累出来的，可是，我没怎么做过实验，虽然说上手比较快，但对于做实验还是需要大量的实践经验。话说失败是成功之母，失败的经验也算是一种经验。</p>
+
+<p>下一个项目看起来要简单一些，我基本上没有接触过，但从原理上来看好做一点，大量的工作在后期的数据处理上，前期的工作需要大量的调试，基本上是别人带着我玩，因此容易了很多。</p>
+
+<p>半年过去了，一切又从零开始！</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[ 一月份的书]]></title>
-    <link href="http://dinohu.github.com/blog/2012/02/15/2012-january-books/"/>
+    <link href="http://dinohu.github.com/blog/blog/2012/02/15/2012-january-books/"/>
     <updated>2012-02-15T19:54:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/2012/02/15/2012-january-books</id>
+    <id>http://dinohu.github.com/blog/blog/2012/02/15/2012-january-books</id>
     <content type="html"><![CDATA[<p>我很懒，天气太冷，就懒得看书，懒得做记录。一月刚好是过年再家的日子，零零散散翻了半本书，另外半本回来花了半天就看完了。一个月才看了三本书，其实不是忙，就是太懒，宁可多睡会也懒得翻几页。但是，回来后发现开始忙几来了，睡觉前竟然会翻上几页书再睡，也许这也是一种放松的方式吧。</p>
 
 <p><img src="http://img3.douban.com/lpic/s3472159.jpg" title="牛棚杂忆" alt="牛棚杂忆" /></p>
@@ -58,9 +75,9 @@
   
   <entry>
     <title type="html"><![CDATA[三个转换6寸kindle pdf文档软件]]></title>
-    <link href="http://dinohu.github.com/blog/2012/02/14/3-convert-soft-4-kindle/"/>
+    <link href="http://dinohu.github.com/blog/blog/2012/02/14/3-convert-soft-4-kindle/"/>
     <updated>2012-02-14T18:02:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/2012/02/14/3-convert-soft-4-kindle</id>
+    <id>http://dinohu.github.com/blog/blog/2012/02/14/3-convert-soft-4-kindle</id>
     <content type="html"><![CDATA[<p>无奈kindle的屏幕实在太小，只有区区6寸，想要在kindle上看PDF是有点吃力，ipad的屏幕虽然大，但是ipad确实不太适合看文档，于是就想把文档转换成6寸的来看。对于一般的文字文档来说，直接发到amazon的邮箱让它去转好直接推送到kindle上了，对于有大量格式的文献就无能为力了，转换的基本上没法看，就开始着手于找转换软件。</p>
 
 <p>以前偶然下到过一个叫<a href="code.google.com/p/papercrop/">papercrop</a>的软件可以转换，版本还是比较老的，功能也没弄得太明白，于是它就在硬盘躺了很久。后来在网上随便搜了下，发现了一个用python写的<a href="http://gatherlight.info/blog/?page_id=1631">paper4kinde</a>的软件，在介绍里又找到一个同样用来转换的软件<a href="http://www.willus.com/k2pdfopt/">k2pdfopt</a> 。花心转每个软件都深研究了下，顺便比较一下。</p>
@@ -77,9 +94,9 @@
   
   <entry>
     <title type="html"><![CDATA[看房记]]></title>
-    <link href="http://dinohu.github.com/blog/2012/02/12/look-house/"/>
+    <link href="http://dinohu.github.com/blog/blog/2012/02/12/look-house/"/>
     <updated>2012-02-12T22:17:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/2012/02/12/look-house</id>
+    <id>http://dinohu.github.com/blog/blog/2012/02/12/look-house</id>
     <content type="html"><![CDATA[<p>准备在这个城市工作，房子还是必不可少的，虽然记所里的房子没买成，我也没有觉得有什么损失，毕竟买所里的房子是要签8年的卖身契，而且那房子还是个小产权，总有人和我说还是可以买到所里的房子的，但综合起来考虑，还是需要买个自己的房子。</p>
 
 <p>年前也观注了下感兴趣的楼盘，过年回家时候就已经有些准备了，老家出台了一些政策，再加上房价现在还处于我可以接受的价格，就决定要买了。暑假时候已经看过几个房，也调研的一番，可那时只是观望，有买的打算，但不知道什么时候买，现在如果各方面都合适的话很快就拿下了。</p>
@@ -104,9 +121,9 @@
   
   <entry>
     <title type="html"><![CDATA[假期结束]]></title>
-    <link href="http://dinohu.github.com/blog/2012/02/12/holiday-end/"/>
+    <link href="http://dinohu.github.com/blog/blog/2012/02/12/holiday-end/"/>
     <updated>2012-02-12T22:13:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/2012/02/12/holiday-end</id>
+    <id>http://dinohu.github.com/blog/blog/2012/02/12/holiday-end</id>
     <content type="html"><![CDATA[<p>假期结束，明天上班了，在家快快活活过了半个月，现在回到单位却有点不太适应，习惯了每天早上睡到九点起床，中午还要睡上一两个钟头，晚上早早的睡觉。今天中午处是假期最后一天睡懒觉吧，早上睡到10点起，中午又回去补了一会。</p>
 
 <p>这个寒假是过得最舒服的一次，没有看书，没有写文章，看春晚，天天抱着IPAD上推，和爸妈抢电脑玩三国杀，去了一次宁波，帮堂妹把她所有的家档搬回来，包饺子，打球，喝酒，K歌，参加伙伴的婚礼，去看同学新生的小孩，玩得乐不思蜀。</p>
@@ -133,9 +150,9 @@
   
   <entry>
     <title type="html"><![CDATA[包饺子]]></title>
-    <link href="http://dinohu.github.com/blog/2012/01/25/dumpling/"/>
+    <link href="http://dinohu.github.com/blog/blog/2012/01/25/dumpling/"/>
     <updated>2012-01-25T18:16:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/2012/01/25/dumpling</id>
+    <id>http://dinohu.github.com/blog/blog/2012/01/25/dumpling</id>
     <content type="html"><![CDATA[<p>每次过年都是要吃饺子的，母亲一大早起来就开始剁饺子馅，和面等等准备工作，因为我包的不好看还容易煮烂，住年也就象征性的包上几个，今年和老爸老妈一起包起饺子来。</p>
 
 <p>对于包饺子，我是不怎么会包的，虽然小学时候参加过什么包饺子大赛，那些包出来的饺子简直不能吃，还没了个专门包脚子的东西，像河蚌一样，把面皮和馅放好就能出来个比较漂亮的。这些都是娱乐，要是吃的话还是要手工来包，没有饭店里包得好看好吃</p>
@@ -150,9 +167,9 @@
   
   <entry>
     <title type="html"><![CDATA[过年]]></title>
-    <link href="http://dinohu.github.com/blog/2012/01/24/new-year/"/>
+    <link href="http://dinohu.github.com/blog/blog/2012/01/24/new-year/"/>
     <updated>2012-01-24T20:14:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/2012/01/24/new-year</id>
+    <id>http://dinohu.github.com/blog/blog/2012/01/24/new-year</id>
     <content type="html"><![CDATA[<p>十九号回到家很快就到二十二号过年了，这时间过得也太快了，基本上就是吃了睡了，睡了玩，玩了吃。家里也实在太是太冷了，冷得什么都不想干。</p>
 
 <p>现在已经没有过年的感觉，除了隆隆的炮竹声，其它也没什么区别，刚好第一年工作，钱没赚多少，但压岁钱还是要发的，意思意思嘛。</p>
@@ -175,9 +192,9 @@
   
   <entry>
     <title type="html"><![CDATA[octopress参考]]></title>
-    <link href="http://dinohu.github.com/blog/2012/01/17/octopresscan-kao/"/>
+    <link href="http://dinohu.github.com/blog/blog/2012/01/17/octopresscan-kao/"/>
     <updated>2012-01-17T21:04:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/2012/01/17/octopresscan-kao</id>
+    <id>http://dinohu.github.com/blog/blog/2012/01/17/octopresscan-kao</id>
     <content type="html"><![CDATA[<p>今天上班时候实在不想看书，就搜索了一些关于octopress的文章，收获挺大了，follow了几个geek，翻了下他们的blog。在我看来wordpress更方便点，而octopress让人更喜欢点，那就两个就同步更新吧。</p>
 
 <h1>参考链接</h1>
@@ -218,9 +235,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://dinohu.github.com/blog/2012/01/16/hello-world/"/>
+    <link href="http://dinohu.github.com/blog/blog/2012/01/16/hello-world/"/>
     <updated>2012-01-16T20:08:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/2012/01/16/hello-world</id>
+    <id>http://dinohu.github.com/blog/blog/2012/01/16/hello-world</id>
     <content type="html"><![CDATA[<p> Hello World!
  My first octopress article!</p>
 ]]></content>
@@ -228,9 +245,9 @@
   
   <entry>
     <title type="html"><![CDATA[折腾octopress]]></title>
-    <link href="http://dinohu.github.com/blog/2012/01/06/octopress_build/"/>
+    <link href="http://dinohu.github.com/blog/blog/2012/01/06/octopress_build/"/>
     <updated>2012-01-06T20:25:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/2012/01/06/octopress_build</id>
+    <id>http://dinohu.github.com/blog/blog/2012/01/06/octopress_build</id>
     <content type="html"><![CDATA[<h2>重新更新</h2>
 
 <blockquote><p>在<a href="https://twitter.com/dofine">@dofine</a> 同学的鼓励下，又开始重新折腾。先是把包管理器内的ruby全删干净，然后在按参考文章里的方法手动安装了ruby1.9.2，现在再用gem装其它的包，其它的包可以被墙了，我只能挂上代理让他慢慢的装，有时候代理找不到的时候还要慢慢弄，真是功夫不负有心人，终于把ruby和rake折腾好了，但是rake不是官网上说的0.9版本，我装了1.9.1，但是可以用了，也就不管它了。</p>
@@ -270,9 +287,9 @@
   
   <entry>
     <title type="html"><![CDATA[amazon退款记]]></title>
-    <link href="http://dinohu.github.com/blog/2012/01/06/amazon-aws/"/>
+    <link href="http://dinohu.github.com/blog/blog/2012/01/06/amazon-aws/"/>
     <updated>2012-01-06T20:25:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/2012/01/06/amazon-aws</id>
+    <id>http://dinohu.github.com/blog/blog/2012/01/06/amazon-aws</id>
     <content type="html"><![CDATA[<p>在这里不得不说amazon是一家非常不错的公司，我误用了它static IP服务，再我的申诉下它给我退款了，也就区区$6.11，工作人员给我很详细的回了邮件，并在邮件中教我怎么样取消服务。</p>
 
 <p>在看了 <a href="https://twitter.com/#!/wangpei">@wangpei</a>老师写得在amazon被猫买误买书退款书的文章下，我想我也可以试试，如果成功了，挽回了自己的损失，不成，就当花钱买个教训，谁让自己手欠开这么多服务呢？！
@@ -356,9 +373,9 @@ aws.amazon.com</p>
   
   <entry>
     <title type="html"><![CDATA[新年首登高]]></title>
-    <link href="http://dinohu.github.com/blogs/379"/>
+    <link href="http://dinohu.github.com/blog/blogs/379"/>
     <updated>2012-01-01T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blogs/379</id>
+    <id>http://dinohu.github.com/blog/blogs/379</id>
     <content type="html"><![CDATA[<p>2012年的第一天，醒来把昨晚没看完的电影看掉，又不想睡懒觉，那就出去转转吧！不过这种天人挤人的车也不好坐，就打算骑车去爬山，记得大前年的时候元旦和弧线一起去爬山，当时我的车还是ATX680，过了那么多年，车了换掉了。</p>
 <p>起床收拾东西，顺便煮了去年剩下的两个鸡蛋，一开始还纠结骑哪辆车，骑山地的话穿锁鞋下山时候一定会把脚指头冻掉的，摸了两个车的轮胎都没气，反正都要打气，那就骑折叠吧，穿戴整齐到办公室把气打好就出发了。</p>
 <p>今天的骑行不是算是个半锻炼状态，不赶时间，不比速度，路上拍些风景，呼吸下新鲜空气。</p>
@@ -380,9 +397,9 @@ aws.amazon.com</p>
   
   <entry>
     <title type="html"><![CDATA[2011总结]]></title>
-    <link href="http://dinohu.github.com/blogs/368"/>
+    <link href="http://dinohu.github.com/blog/blogs/368"/>
     <updated>2011-12-31T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blogs/368</id>
+    <id>http://dinohu.github.com/blog/blogs/368</id>
     <content type="html"><![CDATA[<p>在2011的最后一天，看着大家都在写总结，也跟风写个流水账吧。</p>
 <p>2011注定是辛苦的一年，没有太多的惊喜，但也不是平淡，上半年基本上是在找工作和写毕业论文中度过，下半年就在写计划，做实验，看文献，写报告中度过。总体来说玩得少了，工作得多了。日子过得挺艰辛，但确能让我快速的成长。这么多年来，2011年应该是我收获最大的一年，总是在“舍”与“得”之间选择，所有的结果都是自己来乘担，使得我做出的每一项决定都更加小心。</p>
 <p>也没有太多好总结的，能让自己记住的也就这么多。</p>
@@ -401,9 +418,9 @@ aws.amazon.com</p>
   
   <entry>
     <title type="html"><![CDATA[几件要坚持的事]]></title>
-    <link href="http://dinohu.github.com/blogs/364"/>
+    <link href="http://dinohu.github.com/blog/blogs/364"/>
     <updated>2011-12-30T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blogs/364</id>
+    <id>http://dinohu.github.com/blog/blogs/364</id>
     <content type="html"><![CDATA[<p>要新年了，该总结的地方要总结，最近想到的一些事情，多写点吧！有些事情坚持了很久，已经成了习惯，希望能够继续保持。</p>
 <ol>
 	<li>每天
@@ -428,9 +445,9 @@ aws.amazon.com</p>
   
   <entry>
     <title type="html"><![CDATA[Markdown常用命令笔记]]></title>
-    <link href="http://dinohu.github.com/blogs/350"/>
+    <link href="http://dinohu.github.com/blog/blogs/350"/>
     <updated>2011-12-30T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blogs/350</id>
+    <id>http://dinohu.github.com/blog/blogs/350</id>
     <content type="html"><![CDATA[<p>今天又复习了下markdown，既然学了，就该好好学一下，还做了点笔记写在纸上，只是随便写的，怕到时候丢了找不到，就记到博客上吧。</p>
 
 	<ol>
@@ -477,9 +494,9 @@ aws.amazon.com</p>
   
   <entry>
     <title type="html"><![CDATA[Markdown语言学习]]></title>
-    <link href="http://dinohu.github.com/blogs/336"/>
+    <link href="http://dinohu.github.com/blog/blogs/336"/>
     <updated>2011-12-29T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blogs/336</id>
+    <id>http://dinohu.github.com/blog/blogs/336</id>
     <content type="html"><![CDATA[<p>===========</p>
 <p>这几天折腾Vimwiki发现一种叫markdown的语言，貌似挺多人用挺多，我们常用邮件中常用的语言也是markdown的。刚好这几天用vimpress写博客，在twitter上也看人家转发了markdown语言的语法，就想学习下。</p>
 <p>刚学习的时候看的是一个台湾的教程，它和html混在一起写，又是繁体字，没仔细看，觉得TMD太麻烦了，都有点想放弃了，后来又google了一份中语的才看明白，回过头再看台湾教程就简单多了。</p>
@@ -494,9 +511,9 @@ https://raw.github.com/othree/markdown-syntax-zhtw/master/syntax.md</p>
   
   <entry>
     <title type="html"><![CDATA[安徽博物馆新馆&&金渤瀚]]></title>
-    <link href="http://dinohu.github.com/blogs/299"/>
+    <link href="http://dinohu.github.com/blog/blogs/299"/>
     <updated>2011-12-28T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blogs/299</id>
+    <id>http://dinohu.github.com/blog/blogs/299</id>
     <content type="html"><![CDATA[<p>首先应该感谢国家，感谢党，感谢研究院团委，能让我在光荣退团的前一天去安徽博物馆参观并奉上一顿鲜美的自助餐。</p>
 <p>&nbsp;</p>
 <p>年底各个组织都要完成年底计划，都会带大家出去玩玩，以前也参加过此类活动。一周前收到通知说要去参观博物馆，虽然实验有点小忙，还是抽出了一个下午准备去放松放松。以前去过南京博物苑，这个馆相当于苑应该是小了不少，但是免费的午餐当然要去尝尝。</p>
@@ -535,9 +552,9 @@ https://raw.github.com/othree/markdown-syntax-zhtw/master/syntax.md</p>
   
   <entry>
     <title type="html"><![CDATA[test vimpress]]></title>
-    <link href="http://dinohu.github.com/blogs/286"/>
+    <link href="http://dinohu.github.com/blog/blogs/286"/>
     <updated>2011-12-25T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blogs/286</id>
+    <id>http://dinohu.github.com/blog/blogs/286</id>
     <content type="html"><![CDATA[<p>测试用vimpress写博客</p>
 <p>参考链接：</p>
 <blockquote>
@@ -558,9 +575,9 @@ http://dango-akachan.appspot.com/?p=128001</p>
   
   <entry>
     <title type="html"><![CDATA[12月读的几本书]]></title>
-    <link href="http://dinohu.github.com/blogs/285"/>
+    <link href="http://dinohu.github.com/blog/blogs/285"/>
     <updated>2011-12-25T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blogs/285</id>
+    <id>http://dinohu.github.com/blog/blogs/285</id>
     <content type="html"><![CDATA[<p>自从买了kindle以后，看的书也就越来越多了，对于以前不怎么看书的我来说，要是能在这设备上能看掉50本以上的书就算回本了，多看一本赚一本，这样算下来一本书20块钱吧，能用这种方式逼着自己多看些本我觉得值了。还有一点，就是有免费的3G用，正好可以多看点推，不过那浏览器太蛋疼了。</p>
 <p>&nbsp;<br />
 12月下半月也就看了这几本书，在这里做个记录，以后便于查找，等有空了我在把书摘整理下。</p>
@@ -596,9 +613,9 @@ http://dango-akachan.appspot.com/?p=128001</p>
   
   <entry>
     <title type="html"><![CDATA[实况、扑克和西甲德比]]></title>
-    <link href="http://dinohu.github.com/blogs/278"/>
+    <link href="http://dinohu.github.com/blog/blogs/278"/>
     <updated>2011-12-11T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blogs/278</id>
+    <id>http://dinohu.github.com/blog/blogs/278</id>
     <content type="html"><![CDATA[<p>好久没有放纵一下自己了，下了一堆电视电视都没看，该玩的时候没玩，该睡的时候也没好好睡，整天被实验弄得焦头烂额。实然帮TAN老师搬家，累得不行了，刚好凌晨五点有西甲的国家德比大战，大家熬一熬夜想看看这2011年最后一场世纪大战。</p>
 <p>&nbsp;<br />
 因为我现在住的地方没有网络，如果晚上呆办公室可能会惊动太多的人，我们只好选择在学生宿舍里看了，回去了时候买了很多吃的，水，瓜子，面包，饼干等等。从晚上11点熬到第二天5点时间虽然不长，但是晚上容易范困也要找点事做做。就打算先实况再打牌再实况然后就可以看球了。</p>
@@ -611,31 +628,6 @@ http://dango-akachan.appspot.com/?p=128001</p>
 <p>&nbsp;<br />
 下午到了办公室，发现还有好多事没做，明天又周一了，真不想上班，现在真有点上班厌烦证了。</p>
 <p>&nbsp;</p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[两本流行小说(《失恋33天》和《那些年，我们一起追的女孩》)]]></title>
-    <link href="http://dinohu.github.com/blogs/269"/>
-    <updated>2011-12-07T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blogs/269</id>
-    <content type="html"><![CDATA[<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>最近有两部小说改编的电影非常火，《失恋33天》和《那些年，我们一起追的女孩》，虽然平时工作很忙，但还是经不住诱惑想看一下，《失恋33天》电影票卖得很火，根本买不到票，枪版的实在是伤不起，正好有网友在网上共享了小说，那就先看小说吧。插点题外话，看这本小说的时候还没有买kindle，开始在电脑上看，觉得有点累，后来又把小说放到ipad里躺在床上看，还是有点累，花了两个晚上把它《失恋33天》看完。后来买了kindle，看《那些年，我们一起追的女孩》就不觉得很累了，心里作用吧。还有我看书很慢，喜欢一个字一个字的看，如果看快了就会不知道所云，这里还需要锻练吧！</p>
-<p>&nbsp;</p>
-<p>先说《失恋33天》，</p>
-<p><img class="aligncenter" title="失恋33天" src="http://img3.douban.com/lpic/s6980516.jpg" alt="" width="309" height="432" /></p>
-<p>看完小说，觉得一般般吧，没什么太多的新意，讲大城市里80后年青人的痛苦生活，看起来离我们生活很近，但又觉得很远，除了两个人一起贫嘴以外，书里找不出什么有特色的地方，电影是文章演的，我觉得他就适合演这种小男人形像，无论从演小贝，刘一阳等等，好像这角色就是为是量身定做的。因为先看了小说，再看电影，电影是我放ipad上看的，刚好AVPlayer软件可以2倍速播放，可以节省我一半时间浪费在这种肥皂剧上，因为同时还干着其它的工作，也就没怎么看，基本上就是带着耳机听，听到感兴趣的地方抬头看两眼，不知不觉的就结束了，真是没什么感觉，可能我鉴赏能力太差了吧。</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>再说《那些年，我们一起追的女孩》</p>
-<p><img class="aligncenter" title="那些年，我们一起追的女孩" src="http://img3.douban.com/lpic/s1982025.jpg" alt="" width="300" height="431" /></p>
-<p>这是一部很值得期待的台湾电影，没想到也是由小说改编。早几个月已经在台湾上印了，但是由于大陆的一些审查，或许还有一些其它原因，到现在还没有上映，网上找到了下载的种子，但是下不动，这保护也做得太好了吧。这些天总看到大家在讨论《那些年》，但是还是不想看枪版，就下小说看吧。按小说里所里的是90年上初中，算起来比我们还早6年，不过那个年代共同的话题多了，70后的尾和80后的头所经历的生活都差不多。那时候没有手机，只要事先在电话里约定，无论在哪约会都会准时到地方，不像现在有了手机，可以随时通知你不来了。那个时候没有手机，大家都是买电话卡在学校IC卡电话亭里排着长队只为给自己的同学打个电话，无论多长的电话号码都可以死记在心里。那个时候没有手机，大家还是以书信的方适进行联络，曾经还有人和我说起他们比每个星期收到笔友的信谁的多，我们这一代人啊，现在小孩哪有我们这个经历，整天泡在网络上，周围的朋友都不认识。小说不长，花了一中午＋一晚上就看完了，因为经历过那个年纪，很多事情猜都可以猜得出来，边看着小说，边想着自己十几年前的事，发现很多事情怎么会那么的相似，喜欢一个人而去努力读书，从成绩倒数到全班全校的前几名，其实就和书中所说的一样，就是喜欢那种感觉而已，并没有想到以后会怎么样，就是个感觉和那种幼稚。下午没有做实验，就把《那些年》的原声MV看了一遍，不再乎到底是谁拍的电影，只在乎那些情节，只是短短的那几分钟，差点热泪盈框。电影一定是很不错的，期待上映！</p>
-<p>&nbsp;<br />
-<blockquote>you are the apple of  my eye</p>
-<p>官网：<a href="http://www.appleofmyeye.com.tw/">http://www.appleofmyeye.com.tw/</a></p>
-<p>&nbsp;</blockquote><br />
-最后引用一下大智若鱼的文章，写得很不错<br />
-<blockquote><a href="http://gongm.in/2011/12/you-re-the-apple-of-my-eye-ost/">http://gongm.in/2011/12/you-re-the-apple-of-my-eye-ost/</a></blockquote></p>]]></content>
   </entry>
   
 </feed>

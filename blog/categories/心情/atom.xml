@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: 心情 | 华华的OCTOPRESS BLOG]]></title>
-  <link href="http://dinohu.github.com/blog/categories/心情/atom.xml" rel="self"/>
-  <link href="http://dinohu.github.com/"/>
-  <updated>2012-02-16T18:52:45+08:00</updated>
-  <id>http://dinohu.github.com/</id>
+  <link href="http://dinohu.github.com/blog/blog/categories/心情/atom.xml" rel="self"/>
+  <link href="http://dinohu.github.com/blog/"/>
+  <updated>2012-02-17T21:18:50+08:00</updated>
+  <id>http://dinohu.github.com/blog/</id>
   <author>
     <name><![CDATA[Dinohu]]></name>
     <email><![CDATA[ssshzh@gmail.com]]></email>
@@ -14,10 +14,27 @@
 
   
   <entry>
+    <title type="html"><![CDATA[从零开始]]></title>
+    <link href="http://dinohu.github.com/blog/blog/2012/02/17/2012from-zero-to-start/"/>
+    <updated>2012-02-17T21:16:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blog/2012/02/17/2012from-zero-to-start</id>
+    <content type="html"><![CDATA[<p>回来后又做了两个星期的实验，看结果是做不出东西来，告诉老板已经进行不下去了，老板说那就快换项目吧，赶紧着手另外一个项目。</p>
+
+<p>实验做不出什么结果，我一点也不吃惊，其实早已有了心里准备，只是不愿意早点看到实验结果，但是，实验还是一天天的进行，拖到最后不能再拖的时候，处理下数据得到不能再做下去的结论，拖延的时间太长了，其实用上两三天就能得到这样的结论确用了一个星期。</p>
+
+<p>半年辛苦的实验化为乌有，不是不努力，也不是不认真，也许就像老板说的，没有科研的感觉，那种从刚开始就能预料结果的感觉，这种感觉是靠大量的实践积累出来的，可是，我没怎么做过实验，虽然说上手比较快，但对于做实验还是需要大量的实践经验。话说失败是成功之母，失败的经验也算是一种经验。</p>
+
+<p>下一个项目看起来要简单一些，我基本上没有接触过，但从原理上来看好做一点，大量的工作在后期的数据处理上，前期的工作需要大量的调试，基本上是别人带着我玩，因此容易了很多。</p>
+
+<p>半年过去了，一切又从零开始！</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[看房记]]></title>
-    <link href="http://dinohu.github.com/blog/2012/02/12/look-house/"/>
+    <link href="http://dinohu.github.com/blog/blog/2012/02/12/look-house/"/>
     <updated>2012-02-12T22:17:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/2012/02/12/look-house</id>
+    <id>http://dinohu.github.com/blog/blog/2012/02/12/look-house</id>
     <content type="html"><![CDATA[<p>准备在这个城市工作，房子还是必不可少的，虽然记所里的房子没买成，我也没有觉得有什么损失，毕竟买所里的房子是要签8年的卖身契，而且那房子还是个小产权，总有人和我说还是可以买到所里的房子的，但综合起来考虑，还是需要买个自己的房子。</p>
 
 <p>年前也观注了下感兴趣的楼盘，过年回家时候就已经有些准备了，老家出台了一些政策，再加上房价现在还处于我可以接受的价格，就决定要买了。暑假时候已经看过几个房，也调研的一番，可那时只是观望，有买的打算，但不知道什么时候买，现在如果各方面都合适的话很快就拿下了。</p>
@@ -42,9 +59,9 @@
   
   <entry>
     <title type="html"><![CDATA[假期结束]]></title>
-    <link href="http://dinohu.github.com/blog/2012/02/12/holiday-end/"/>
+    <link href="http://dinohu.github.com/blog/blog/2012/02/12/holiday-end/"/>
     <updated>2012-02-12T22:13:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/2012/02/12/holiday-end</id>
+    <id>http://dinohu.github.com/blog/blog/2012/02/12/holiday-end</id>
     <content type="html"><![CDATA[<p>假期结束，明天上班了，在家快快活活过了半个月，现在回到单位却有点不太适应，习惯了每天早上睡到九点起床，中午还要睡上一两个钟头，晚上早早的睡觉。今天中午处是假期最后一天睡懒觉吧，早上睡到10点起，中午又回去补了一会。</p>
 
 <p>这个寒假是过得最舒服的一次，没有看书，没有写文章，看春晚，天天抱着IPAD上推，和爸妈抢电脑玩三国杀，去了一次宁波，帮堂妹把她所有的家档搬回来，包饺子，打球，喝酒，K歌，参加伙伴的婚礼，去看同学新生的小孩，玩得乐不思蜀。</p>
@@ -71,9 +88,9 @@
   
   <entry>
     <title type="html"><![CDATA[包饺子]]></title>
-    <link href="http://dinohu.github.com/blog/2012/01/25/dumpling/"/>
+    <link href="http://dinohu.github.com/blog/blog/2012/01/25/dumpling/"/>
     <updated>2012-01-25T18:16:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/2012/01/25/dumpling</id>
+    <id>http://dinohu.github.com/blog/blog/2012/01/25/dumpling</id>
     <content type="html"><![CDATA[<p>每次过年都是要吃饺子的，母亲一大早起来就开始剁饺子馅，和面等等准备工作，因为我包的不好看还容易煮烂，住年也就象征性的包上几个，今年和老爸老妈一起包起饺子来。</p>
 
 <p>对于包饺子，我是不怎么会包的，虽然小学时候参加过什么包饺子大赛，那些包出来的饺子简直不能吃，还没了个专门包脚子的东西，像河蚌一样，把面皮和馅放好就能出来个比较漂亮的。这些都是娱乐，要是吃的话还是要手工来包，没有饭店里包得好看好吃</p>
@@ -88,9 +105,9 @@
   
   <entry>
     <title type="html"><![CDATA[过年]]></title>
-    <link href="http://dinohu.github.com/blog/2012/01/24/new-year/"/>
+    <link href="http://dinohu.github.com/blog/blog/2012/01/24/new-year/"/>
     <updated>2012-01-24T20:14:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/2012/01/24/new-year</id>
+    <id>http://dinohu.github.com/blog/blog/2012/01/24/new-year</id>
     <content type="html"><![CDATA[<p>十九号回到家很快就到二十二号过年了，这时间过得也太快了，基本上就是吃了睡了，睡了玩，玩了吃。家里也实在太是太冷了，冷得什么都不想干。</p>
 
 <p>现在已经没有过年的感觉，除了隆隆的炮竹声，其它也没什么区别，刚好第一年工作，钱没赚多少，但压岁钱还是要发的，意思意思嘛。</p>
@@ -108,92 +125,6 @@
 <p>都是很久没见的高中同学了，大家都变得有点发福，和我们一起应该是还在上大学的学弟，他们年经能跑啊，把我们这些老人们要折腾死，不过我们还是靠着体重和经验赢了他们，否则丢人啊。</p>
 
 <p>前几天一直盼着下雪它不下，过起年来下得格外大，安排在大年初二晚上的高中同学茶话会被迫取消，出去转了圈太冷了，老老实实呆家里看看GR写写文章吧。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[amazon退款记]]></title>
-    <link href="http://dinohu.github.com/blog/2012/01/06/amazon-aws/"/>
-    <updated>2012-01-06T20:25:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/2012/01/06/amazon-aws</id>
-    <content type="html"><![CDATA[<p>在这里不得不说amazon是一家非常不错的公司，我误用了它static IP服务，再我的申诉下它给我退款了，也就区区$6.11，工作人员给我很详细的回了邮件，并在邮件中教我怎么样取消服务。</p>
-
-<p>在看了 <a href="https://twitter.com/#!/wangpei">@wangpei</a>老师写得在amazon被猫买误买书退款书的文章下，我想我也可以试试，如果成功了，挽回了自己的损失，不成，就当花钱买个教训，谁让自己手欠开这么多服务呢？！
-wangpei老师的两篇文章：</p>
-
-<blockquote><p><a href="http://www.baibanbao.net/mylife/when-my-cat-bought-me-a-book-on-amazon/">http://www.baibanbao.net/mylife/when-my-cat-bought-me-a-book-on-amazon/</a>
-<a href="http://www.baibanbao.net/tech/no-one-can-stop-amazon/">http://www.baibanbao.net/tech/no-one-can-stop-amazon/</a></p></blockquote>
-
-<p>amazon aws服务并没有留下联系邮箱，至少我找了很久没找到，于是在contract us页面里找到Email AWS Account and Billing Support后填写了一个单子，包括邮件地址，AWS账号，姓名等，然后大概一天多以后收到了它们邮件的回复说可以退钱给我，但要等几个工作日。</p>
-
-<p>邮件大致的意思说，我账户产生的费用是正常的，费用是我选取了额外服务所产生的，但是出于第一次礼貌，可以把钱退给我，钱将会在几个工作日退还到我的信用卡中。</p>
-
-<p>我可真的没有想到amazon会把钱退给我，它真是一个伟大的公司。</p>
-
-<p>下面是邮件的内容：</p>
-
-<hr />
-
-<p>---- Original message: ----</p>
-
-<p>AWS AccountId           0696924<code>*****</code>
-email           <code>*****</code>@gmail.com
-accountnumber           0696924<code>*****</code>
-name            <code>*****</code>
-subject         about Amazon Web Services the bill
-message         Dear sir:</p>
-
-<p>Sorry to tell you that I am in trouble. Half a year ago, your AWS service and static IP service is free. Last month, I applied  your AWS service and static IP, but there is no prompt to tell me that the static IP service has started charging. In the case of unknown I have used this service for a month. When I in the bus the bank send a sms to tell the the credit card is charged. I don't know what has happened. So I called the bank to suspend the credit card. I think you also have some responsibility, because you did not inform the user the charging of the services .</p>
-
-<p>I wonder if you could kindly refund me for this accidental use? I have canceled all aws services. My account is ***@gmail.com.</p>
-
-<p>Thank you for your attention.</p>
-
-<p>Yours Sincerely</p>
-
-<hr />
-
-<p>amazon aws的回复：</p>
-
-<hr />
-
-<p>Hello <code>***</code>,</p>
-
-<p>I'm sorry for the inconvenience this may have caused you. I've researched your account and confirmed that the charges incurred on your account are correct.  Although your account is eligible for the AWS Free Usage Tier, your usage charges were based on activity that was outside the specifications of the offer.</p>
-
-<p>As a one-time courtesy, we've approved a refund of the charges in the amount of $6.11. Please allow 3-5 business days for this refund to process.</p>
-
-<p>I've reinstated your account for you to log in and release the Un-attached elastic IP address and stop any running instance. Once you have done so you can close your AWS account as you like.</p>
-
-<p>You can use the EC2 API command line tools to release the Elastic IP address with this command:</p>
-
-<pre><code>  ec2-release-address
-</code></pre>
-
-<p>You can also release the Elastic IP address using the AWS Management Console:</p>
-
-<p><a href="http://console.aws.amazon.com/ec2">http://console.aws.amazon.com/ec2</a></p>
-
-<p>If you are unsure which AWS Region your Elastic IP Address resides in, please be sure to check in each Region using the Region drop-down list in the upper portion of the left hand navigation panel.</p>
-
-<p>I hope this helps.</p>
-
-<p>Thank you for your recent inquiry. Did I solve your problem?</p>
-
-<p>If yes, please click here:</p>
-
-<blockquote><p><a href="http://www.amazon.com/gp/help/survey?p=A2DCX6DWVDCETG&amp;k=hy">http://www.amazon.com/gp/help/survey?p=A2DCX6DWVDCETG&amp;k=hy</a></p></blockquote>
-
-<p>If no, please click here:</p>
-
-<blockquote><p><a href="http://www.amazon.com/gp/help/survey?p=A2DCX6DWVDCETG&amp;k=hn">http://www.amazon.com/gp/help/survey?p=A2DCX6DWVDCETG&amp;k=hn</a></p></blockquote>
-
-<p>Best regards,</p>
-
-<p><code>*****</code>
-aws.amazon.com</p>
-
-<hr />
 ]]></content>
   </entry>
   
