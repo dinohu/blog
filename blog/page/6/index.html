@@ -9,8 +9,11 @@
   <meta name="author" content="Dinohu">
 
   
-  <meta name="description" content="一直想用苹果的系统，可是没钱买啊，两年前知道在PC上可以装黑苹果，当时把能装的黑苹果都装了，可是我那不争气的显卡，只要重启就花屏，所以只好放弃。
-苹果系统一直吸引着我，所以用虚拟机搞了个苹果系统，记得当时是用vbox装的原版，但是在linux下权限太严格，始终搞不定USB问题， &hellip;">
+  <meta name="description" content="折腾了好几个星期的黑苹果终于搞定了，升级到10.6.7最新的系统，不过还是有些不完美的地方，但是已经可心正常的使用了。
+电脑是x61 7673cv3
+硬盘500G，显卡x3100，内存3G，CPU　T8100
+下面先说下不完美的地方
+１显卡虽然被驱动了，但是显存只有６４M， &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -78,6 +81,115 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/blogs/79">在X61上用U盘安装黑苹果IANTARES OSx86</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-06-06T00:00:00+08:00" pubdate data-updated="true">Jun 6<span>th</span>, 2011</time>
+        
+         | <a href="/blog/blogs/79#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>折腾了好几个星期的黑苹果终于搞定了，升级到10.6.7最新的系统，不过还是有些不完美的地方，但是已经可心正常的使用了。</p>
+<p>电脑是x61 7673cv3</p>
+<p>硬盘500G，显卡x3100，内存3G，CPU　T8100</p>
+<p>下面先说下不完美的地方</p>
+<p>１显卡虽然被驱动了，但是显存只有６４M，看高清电影卡得和幻灯片一样</p>
+<p>２mic被驱动了，但是关不掉，声音大一点就嗷嗷叫，我用一个耳机把mic的孔塞住不让他输入好很多</p>
+<p>３无线网卡搞不定，４９６５的无线网卡是硬伤，只能换无线网卡来解决</p>
+<p>４左侧的USB有点小问题，插上键盘不认，U盘可以，移动硬盘未知。读卡器不能驱动。指纹识别未知。蓝牙是在安装好系统后驱动了一次，但是重启就找不到硬件。</p>
+<p>５有线网卡虽然被驱动了，但是正常启动的话不能上网，启动时候加-f就可以，我也是偶然试到的。为了这个重装了很多次</p>
+<p>６不能睡眠，刚在网上看到１０.６.７睡眠驱动，还未测试。</p>
+<p>７timemachine不能使用，用的时候会有卡住，试了很多次都这样</p>
+<p>８自带的预览不能查看图片，换了个软件查看，问题不算大</p>
+<p>安装过程：</p>
+<p>准备工作：</p>
+<p>１８GU盘１只</p>
+<p>２IANTARES OSx86安装镜像</p>
+<p>首先将镜像写入到U盘当中，方法有很多，我参考的是《使用U盘装mac os x系统的方法》</p>
+<p>接着就是插入U盘启动安装，因为安装过很多次，前面一些设置基本上都能背下来，最重要的就是选择驱动，为了选择驱动重装了N次。</p>
+<p>下面是我选择的驱动：</p>
+<p>默认的全装</p>
+<p>变色龙启动器</p>
+<p>机型识别自己看着办</p>
+<p>内核补丁不装</p>
+<p>声卡选删除自带AppleHDA和VoodooHDA</p>
+<p>有线网卡选Intel82566MM</p>
+<p>键盘选PS2Controller</p>
+<p>芯片组选AppleATIATA</p>
+<p>USB选择USB驱动回滚</p>
+<p>其它全装</p>
+<p>实用工具全装</p>
+<p>大概等２０分钟左右安装完成，提示重启电脑，先后经过一系列的注册就进入系统。</p>
+<p>对于升级，自动升级很快，下载离线升级包也可以，两者的效果是一样。</p>
+<p>安装的软件</p>
+<p>Acorn.app       查看图片工具</p>
+<p>Paragon <span class="caps">NTFS</span> for Mac OS X  NTFS读写工具</p>
+<p>App Store.app            10.6.7上才有，感觉用处不大</p>
+<p>AppyDays.app                       查找限免的软件</p>
+<p>QQ.app       QQ不多说</p>
+<p>Reeder.app   mac上的googlereader工具，评测很好</p>
+<p>Cloud.app                   苹果将推出的云端工具，可以免费使用但受限</p>
+<p>Secret Socks.app   ssh工具，装了ipuff后没用过了</p>
+<p>Speed Download 5   mac上的下载工具</p>
+<p>Dockdrop.app            也是一下载工具</p>
+<p>DropDownloadURL.app                    同上</p>
+<p>The Unarchiver.app      解压缩工具</p>
+<p>Evernote.app</p>
+<p>FaceboxPro.app                     facebook</p>
+<p>Twitter.app　　　　　　　mac的twitter很好用</p>
+<p>FileZilla.app                            FTP工具</p>
+<p>Firefox.app</p>
+<p>VirtualBox.app                      虚拟机</p>
+<p>Welly.app                     mac下的term</p>
+<p>aMule.app                   电驴</p>
+<p>Google Chrome.app</p>
+<p>Lyn.app                                  查看图片工具</p>
+<p>MPlayer <span class="caps">OSX</span> Extended.app   免费视频软件</p>
+<p>iPuff.app             翻墙工具</p>
+<p>Microsoft Messenger.app     <span class="caps">MSN</span></p>
+<p>iWork &#8217;09</p>
+<p>Microsoft Office 2011</p>
+<p>uTorrent.app     BT工具</p>
+<p>MindNode.app           思维导图</p>
+<p>金山词霸.app</p>
+<p>&nbsp;</p>
+<p>补一些照片吧，照得不太清楚</p>
+<p><img class="alignnone" title="系统参数" src="https://lh5.googleusercontent.com/-EnmM0xGIKhc/TmWOS878V4I/AAAAAAAAAbE/TmR0WI2wtks/s640/DSCF3122.JPG" alt="" width="640" height="480" /></p>
+<p>&nbsp;</p>
+<p><img class="alignnone" title="系统配置" src="https://lh4.googleusercontent.com/-vlKHDZQIBnw/TmWOI2VrdXI/AAAAAAAAAbA/iNofrikuB2k/s640/DSCF3123.JPG" alt="" width="640" height="480" /></p>
+<p>&nbsp;</p>
+<p><img class="alignnone" title="桌面" src="https://lh3.googleusercontent.com/-2ZSvW5mES1k/TmWOUyXCgbI/AAAAAAAAAbI/Cwo0_ZD3uQU/s640/DSCF3121.JPG" alt="" width="640" height="480" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong> </strong></p></div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -545,47 +657,6 @@
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/blogs/52">关于通知</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-04-20T00:00:00+08:00" pubdate data-updated="true">Apr 20<span>th</span>, 2011</time>
-        
-         | <a href="/blog/blogs/52#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><span style="font-family: 宋体;"><span style="font-family: 宋体; font-size: x-small;">今天填写毕业论文评阅人被小郁闷了一下，就是传话不到位造成的。同学的导师通知了他评阅人，然后他就把评阅人告诉我们，可他的评阅人里有我的导师啊，总得换一个，然后在这里就出问题了。最后弄清楚是他导师说他通知他的学生，然后我导师以为他会通知学生（所有学生），两个导师关系本来就不好，这里出岔了，把错全怪我头上，我要毕业啊，只能扛着，得罪了哪个导师都不好。</span></span></p>
-<p>&nbsp;</p>
-<p><span style="font-family: 宋体; font-size: x-small;">记得以前看过一篇文章关于通知的效率，想引用一下可是怎么都找不到了。就还记得口头通知的效率是最低的。如果要通知别人，最好是用正式文档的形式，比如邮件，公文什么的，对方收到要签名，如果是邮件最好抄送给第三方知道，到时候说得清楚。其实以前也遇到过很多次这样的事，比如班长在群了通知了某件重要的事情让大家知道，可是某人没QQ什么的，通知不到位，然后就可以扯皮了。发短信也是，对方收到然后删掉说没收到，谁都说不清楚。虽然我早已养成发邮件用正式公文形式，署名，日期什么每次都加上，下次看来还要用抄送，回执什么的，以免造成误会。</span></p>
-<p>&nbsp;</p>
-<p><span style="font-family: 宋体; font-size: x-small;">再抽空找找那篇文章好好看看，以后工作了还是有很多地方要注意的。</span></p></div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/blog/page/7/">&larr; Older</a>
@@ -610,6 +681,10 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/blog/2012/02/18/2012new-route/">新路线</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/blog/2012/02/17/2012from-zero-to-start/">从零开始</a>
       </li>
     
@@ -623,10 +698,6 @@
     
       <li class="post">
         <a href="/blog/blog/2012/02/12/look-house/">看房记</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/blog/2012/02/12/holiday-end/">假期结束</a>
       </li>
     
   </ul>

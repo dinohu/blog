@@ -9,7 +9,7 @@
   <meta name="author" content="Dinohu">
 
   
-  <meta name="description" content="收到特殊的来信，还让我猜密码，哈哈：）一年了，记念一下！ 我的心，忽然又活了从再见到你的那一刻原来我也有过，这样的激动只是在习惯自我保护后忘了想聊的故事太长了反而就都沉默的笑着金色阳光洒在 你双手上头看起来好暖 &hellip;">
+  <meta name="description" content="precission n.精确(性)，精密(度) accuracy n.准确(性)，精确(性) 老板给出的解释是，比如射箭，如果每次都能命中的靶上，无论几环，则说明精确性很高，用precission.如果每次都是十环，则说明是accuracy，真生动的比喻啊，以前还搞不懂这两个词的区别。   ">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -77,6 +77,43 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/blogs/507">20080316</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-03-16T00:00:00+08:00" pubdate data-updated="true">Mar 16<span>th</span>, 2009</time>
+        
+         | <a href="/blog/blogs/507#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><div id="msgcns!4C0B1116CE3249F6!842" class="bvMsg"><p><font face="微软雅黑" size="4">precission</font></p> <p><font face="微软雅黑" size="4">n.精确(性)，精密(度)</font> <p><b><font face="微软雅黑" size="4">accuracy</font></b></p> <p><font face="微软雅黑" size="4">n.准确(性)，精确(性)</font> <p><strong><font face="微软雅黑" size="4">老板给出的解释是，比如射箭，如果每次都能命中的靶上，无论几环，则说明精确性很高，用precission.如果每次都是十环，则说明是accuracy，真生动的比喻啊，以前还搞不懂这两个词的区别。</font></strong></p> <p><strong><font face="微软雅黑"></font></strong> </p> <p><font face="微软雅黑"></font></p></div></div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -411,43 +448,6 @@
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/blogs/57">0111</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2009-01-11T00:00:00+08:00" pubdate data-updated="true">Jan 11<span>th</span>, 2009</time>
-        
-         | <a href="/blog/blogs/57#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><div id="msgcns!4C0B1116CE3249F6!639" class="bvMsg"><p>记录点latex的学习心得，最近写PPT，终于狠下心来用tex来写，不知道做ppt的时候会不会被老板痛批，不过做出来的PDF还是挺PP的，以前总是写一点就觉得很难放弃，继续使用powerpoint，这次装了office2007，可能很多东西都不会支持，所以干脆用PDF算了。</p> <p>写点tex的学习心得，beamer还是比较简单的，找个模版套套就差不多了。主要是烦在插图上面花去了不少的时间。</p> <p>frame&#123;&#125;写一页PPT</p> <p>frametitle&#123;&#125;PPT标题</p> <p>插图：</p> <p>usepackage&#123;subfloat&#125;</p> <p>begin&#123;figure&#125;<br />  centering<br />  subfloat[第一个小图形]&#123;%<br />    label&#123;fig:subfig1&#125;<br />    includegraphics&#123;hello.eps&#125;&#125;<br />  subfloat[第二个小图形。如果标题很长的话，它会自动换行，并且采用一种~hang 模式<br />，这个~caption 就是这样的例子。]&#123;%<br />    label&#123;fig:subfig2&#125;<br />    includegraphics&#123;hello.eps&#125;&#125;<br />  caption&#123;包含子图形的大图形。&#125;<br />  label&#123;fig:big1&#125;<br />end&#123;figure&#125; <p>figure环境中直接插入4幅图，即四个includegr&#8230;命令，每幅图大小设置略小于半文本宽度就行了。 <p>newenvironment&#123;figurehere&#125;<br />  &#123;def@captype&#123;figure&#125;&#125;<br />  &#123;&#125;<br />makeatother <p>renewcommand&#123;figurename&#125;&#123;<span class="caps">FIG</span>.&#125; <p>裁剪PDF文件，去除图像周围不需要的空白。“裁剪页面”-&gt; “删除白边距”即可。 <p>  <p>beamer是常用的幻灯片工具。但是pdflatex命令似乎不支持eps图片，必需用pdf格式。<br />下面的步骤其实是说明了如何把任意图片转换为pdf格式。  <p>a. 把要插入的图片打印为pdf格式（在acrobat中，可以先选择一个区域，然后执行<br />print的时候会只打印该区域）<br />b. 用acrobat professional打开该pdf图片，选择Document -&gt; Crop Pages -&gt; Remove <br />white margins去掉多余的白边。  <p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  这个对于pdf图片中上面有很多空白很管用，<br />不然插入到beamer里图要么很小，要么没法显示  <p>c. 这时就可以用includegraphics&#123;aaa.pdf&#125;了。 <p>两表格  <p>begin&#123;figure&#125;[htb]<br />  begin&#123;minipage&#125;[b]&#123;0.5textwidth&#125;<br />  centering<br />    begin&#123;tabular&#125;&#123;|c|c|c|c|&#125; hline<br />      Day &amp; Data1 &amp; Data2 &amp; Data3\ hlinehline<br />      Monday    &amp; 1.6 &amp; 1.6 &amp; 1.6 \<br />      Tuesday   &amp; 1.3 &amp; 1.6&amp; 1.6 \<br />      Wednesday &amp; 1.2&amp; 1.6&amp; 1.6 \<br />      Thursday  &amp; 1.5 &amp; 1.6&amp; 1.6\<br />      Friday    &amp; 1.9&amp; 1.6&amp; 1.6 \ hline<br />    end&#123;tabular&#125;  <p>    caption&#123;This is a  Table1&#125;  <p>    label&#123;table:by1&#125;<br />  end&#123;minipage&#125;%<br />  begin&#123;minipage&#125;[b]&#123;0.5textwidth&#125;<br />    centering<br />    begin&#123;tabular&#125;&#123;|c|c|c|c|&#125; hline<br />      Day &amp; Data4 &amp; Data5 &amp; Data6\ hlinehline<br />      Monday    &amp; 1.6 &amp; 1.6 &amp; 1.6 \<br />      Tuesday   &amp; 1.3 &amp; 1.6 &amp; 1.6 \<br />      Wednesday &amp; 1.2 &amp; 1.6 &amp; 1.6 \<br />      Thursday  &amp; 1.5 &amp; 1.6 &amp; 1.6\<br />      Friday    &amp; 1.9 &amp; 1.6 &amp; 1.6\ hline<br />    end&#123;tabular&#125;  <p>    caption&#123;This is a  Table2&#125;  <p>    label&#123;table:by2&#125;<br />  end&#123;minipage&#125;<br />end&#123;figure&#125;  <p>表格与图  <p>begin&#123;figure&#125;[htb]<br />  begin&#123;minipage&#125;[b]&#123;0.5textwidth&#125;<br />    centering<br />    includegraphics[width=0.5textwidth]&#123;cf1.eps&#125;<br />    caption&#123;This is a Figure&#125;<br />    label&#123;fig:by:fig&#125;<br />  end&#123;minipage&#125;%<br />  begin&#123;minipage&#125;[b]&#123;0.5textwidth&#125;<br />  vspace&#123;-12em&#125;<br />    centering<br />    begin&#123;tabular&#125;&#123;|c|c|c|c|&#125; hline<br />      Day &amp; Data4 &amp; Data5 &amp; Data6\ hlinehline<br />      Monday    &amp; 1.6 &amp; 1.6 &amp; 1.6 \<br />      Tuesday   &amp; 1.3 &amp; 1.6 &amp; 1.6 \<br />      Wednesday &amp; 1.2 &amp; 1.6 &amp; 1.6 \<br />      Thursday  &amp; 1.5 &amp; 1.6 &amp; 1.6\<br />      Friday    &amp; 1.9 &amp; 1.6 &amp; 1.6\ hline<br />    end&#123;tabular&#125;<br />    caption&#123;This is a  Table&#125;<br />    label&#123;table:by:table&#125;<br />  end&#123;minipage&#125;<br />end&#123;figure&#125;  <p>两图  <p>begin&#123;figure&#125;[htb]<br />  begin&#123;minipage&#125;[b]&#123;0.5textwidth&#125;<br />    centering<br />    includegraphics[width=0.6textwidth]&#123;cf1.eps&#125;<br />    caption&#123;This is a Figure1&#125;<br />    label&#123;fig:by:fig1&#125;<br />  end&#123;minipage&#125;%<br />  begin&#123;minipage&#125;[b]&#123;0.5textwidth&#125;<br />     centering<br />    includegraphics[width=0.6textwidth]&#123;cf2.eps&#125;<br />    caption&#123;This is a Figure2&#125;<br />    label&#123;fig:by:fig2&#125;<br />  end&#123;minipage&#125;<br />end&#123;figure&#125;  <p>怎样使表格中的文字垂直居中 <p>法1：<br />usepackage&#123;array&#125;<br />begin&#123;tabular&#125;&#123;|c|m&#123;3em&#125;|m&#123;3em&#125;|&#125;<br />    hline<br />    Month &amp; 1,2,3,4 (A,B,C) &amp; 5,6,7,8 (E,F,G)\hline<br />end&#123;tabular&#125;  <p>法2：<br />usepackage&#123;multirow&#125;<br />begin&#123;tabular&#125;&#123;|c|c|c|&#125;<br />    hline<br />    multirow&#123;2&#125;&#123;*&#125;&#123;Month&#125; &amp; 1,2,3,4 &amp; 5,6,7,8 \<br />    &amp; (A,B,C) &amp; (E,F,G)\hline<br />end&#123;tabular&#125; <p>如果表格里的内容太长，超出页面宽度</p> <p>begin&#123;tabular&#125;&#123;l@&#123;hspace&#123;4ex&#125;&#125;l&#125;<br />    LaTeX &amp; 编译会生成.dvi文件用来预览\<br />    <span class="caps">CCT</span> &amp; LaTeX &amp; 用来编译中文。除了.dvi外，会生成ctextemp*的临时文件。可能<br />要编译两次\<br />    PDFLaTeX &amp; 优点是生成可以复制的中文pdf（参见ref&#123;cha:Copy <br />Problem&#125;,p.pageref&#123;cha:Copy Problem&#125;）。可以编译中英文，不生成dvi文件，直接<br />生成pdf。<br />end&#123;tabular*&#125; <p>要自动换行就要指定列宽度。用p&#123;width&#125;，或array宏包里的m&#123;width&#125;。  <p>documentclass&#123;article&#125;<br />usepackage&#123;array&#125;<br />begin&#123;document&#125;<br />begin&#123;tabular&#125;&#123;|*&#123;3&#125;&#123;&gt;&#123;hfil&#125;p&#123;3cm&#125;|&#125;&#125;<br />hline<br />This is only a test &amp; This is another test &amp; This is the last test\<br />hline<br />This is a very &amp; &amp; \<br />long sentence &amp; &amp;\ hline<br />end&#123;tabular&#125;<br />end&#123;document&#125;  <p>此法中，文字如果超出列宽就会折行，而不会居中。这时就应分行写。 <p>若总共有N列数据，选中前面N-1列，右键选“设置单元格格式”-&gt;自定义-&gt;G/通用格式  <p>把&quot;G/通用格式&quot;改成&quot;G/通用格式 &amp;&quot;确定即可  <p>很多都是这次遇到的问题，希望下次不要再遇到了，不过问题一个个解决的时候真的觉得很爽，呵呵，发现自己又学到了不少的东西，最幸运的是找到了邓老师的书，但是PS格式的，还不能转成PDF，有空研究一下，那样用PDF打印出来就好了。 <p>觉得有问题就是要主动去解决，然后把它写下来，过一段时间再去看看自己做了什么以后发现非常有成就感，也许人生在于这样的积累过和，我也我也该多记点东西了，不能光看，俗话说，好及筋不如烂笔头啊 </div></div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/blog/page/14/">&larr; Older</a>
@@ -472,6 +472,10 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/blog/2012/02/18/2012new-route/">新路线</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/blog/2012/02/17/2012from-zero-to-start/">从零开始</a>
       </li>
     
@@ -485,10 +489,6 @@
     
       <li class="post">
         <a href="/blog/blog/2012/02/12/look-house/">看房记</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/blog/2012/02/12/holiday-end/">假期结束</a>
       </li>
     
   </ul>
