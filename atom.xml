@@ -4,7 +4,7 @@
   <title><![CDATA[华华的OCTOPRESS BLOG]]></title>
   <link href="http://dinohu.github.com/blog/atom.xml" rel="self"/>
   <link href="http://dinohu.github.com/blog/"/>
-  <updated>2012-02-18T21:41:25+08:00</updated>
+  <updated>2012-02-23T21:29:51+08:00</updated>
   <id>http://dinohu.github.com/blog/</id>
   <author>
     <name><![CDATA[Dinohu]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ 海购第一单]]></title>
+    <link href="http://dinohu.github.com/blog/blog/2012/02/23/first-buy-global/"/>
+    <updated>2012-02-23T21:28:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blog/2012/02/23/first-buy-global</id>
+    <content type="html"><![CDATA[<p>从1月28号下单，到2月23号收到货，历时27天终于完成了自己第一次海外购。说起为什么要海外购，无非就是国外的东西便宜还没假货，收了税还能便宜不少，另外就是国内买不到的东西。但是海外购也有缺点，周期太长，快点的也要10来天，慢天的就没法说了。</p>
+
+<p>我是从<a href="http://www.smzdm.com">什么值得买</a>上了解到海外购这个名字的，在上面看到不少便宜又好的东西馋得直流口水，虽然自己有双币的信用卡，但是怕麻烦，怕担风险一直没有试过。去年11月时候看到Timex的手表的折扣，然后就随便找了个代购多花了30我块钱买一个手表，手表不是很贵，代购费就占了一大部分，后来朋友找我帮他买双“踢不烂”的鞋，当时实在太忙没时间折腾，又找了代购，每件物品的代购费100，算是邮费什么的就是200块钱了。</p>
+
+<p>后来看到<a href="http://twitter.com/wangpei">@wangpei</a>写的<a href="http://www.baibanbao.net/mylife/oversea-buy/">海淘记</a> ，准备开始自己的海外购。在看了大鱼老师<a href="https://twitter.com/#!/bfishadow">@bfishadow</a>博客后<a href="http://gongm.in/2011/07/fitbit/">Fitbit个人健身记录器</a>发现一件都东非常想买fitbit，刚好同事看到TI的计算器物价也想买，我们俩拼个单正好省个邮费，后来发现他那个计算器好大，说明书好厚，我那个fitbit好轻，我算亏大了。</p>
+
+<p>光看了<a href="http://twitter.com/wangpei">@wangpei</a>老师的教程是不够的，又到<a href="http://www.smzdm.com">什么值得买</a>上找了比较详细的教程确保万无一失。</p>
+
+<blockquote><p><a href="http://www.smzdm.com/buyglobal.html">海外购攻略</a>
+<a href="http://www.smzdm.com/common-transport-company-charges-port-and-logistics-of.html">常用转运公司收费、口岸及物流情况</a></p></blockquote>
+
+<p>我选择的是<a href="http://www.buytong.com">百通</a>转运，后来想想为什么选百通是因为那个教程是百通的，而且发现很多人应该都是这个原因选了百通，强烈建议其它公司也好好写写自己的教程。1月28号下单，虽然钱已经超过了25$但还是需要美国境内的运费，为了省掉这个运费试用了amazon prime服务，真的很赞，后来又花了100块人民币加入的<a href="https://twitter.com/#!/stonehoo">stonehoo</a>的prime家庭列表。两天后货就到了百通的转运仓库。</p>
+
+<p>入库很快，我开始搞错耽误了一天，接着说我悲惨的经历，百通这垃圾公司不事先说要搬仓库，搬的时候才出通知，然后就因为搬仓库的问题让我的东西又躺了四五天，每天去查都是已入库，接着到了2月4号东西才发到纽约机场，这下可高兴了，想情人节那天总能收到了吧，于是日日查，日日盼，可是每天都显示是到了纽约机场，问了下从纽约回来的同事，说16个小时就能到中国了。后面的日子还是一样，逛百通的BBS看反映问题的不见少数，终于到了10号才发现货有动静，等了三天后才飞到北京，不知道这飞机飞到哪去了，再又等了两天才到天津，真TMD不巧，周五到的遇到清不了关，于是又等了三天到周一清关，清关还算顺利，因为我买的计算器计步器两个超过1000块钱了怕被税，可是运气好当天就过了，接着就是转EMS，算是倒霉到家遇到国家最慢快递，发出来之后就不知道去哪了，哪像申通什么的还能看看货车到哪了，于是又开始每天刷EMS，刷也没用就不管了，等了三天，EMS到了，总算拿到了自己的货。</p>
+
+<p>第一次海外购，虽然说经历坎坷，不过收获也挺大，直是考验人的忍耐力，下次再海外购的话一定要找个好转运公司。于是，一气之下把百通账号里的钱都退回了支付宝，观注了几天海外网站又加了不少东西到wish list时面。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[新路线]]></title>
@@ -586,44 +610,6 @@ http://dango-akachan.appspot.com/?p=128001</p>
 <p>写好博管然后发布的时候又遇到问题，好像是没装xdotool的包，源里装上就可以发现了，一开始一直以为是没有vim-python呢，可是我在源里死活搜不到。</p>
 <p>最后，不太懂html的语法，只能这样纯文本的码点字了，看来还要去折腾点插件搞点html才好。</p>
 <p>更新：前两天一直用vimpress总是发不出博客，后来测试了几遍才发现strID留空就好了。</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2011/12/wpid-vimpress_4ef6cd75_mkd1.txt wpid-vimpress_4ef6cd75_mkd.txt --></p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[12月读的几本书]]></title>
-    <link href="http://dinohu.github.com/blog/blogs/285"/>
-    <updated>2011-12-25T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/blogs/285</id>
-    <content type="html"><![CDATA[<p>自从买了kindle以后，看的书也就越来越多了，对于以前不怎么看书的我来说，要是能在这设备上能看掉50本以上的书就算回本了，多看一本赚一本，这样算下来一本书20块钱吧，能用这种方式逼着自己多看些本我觉得值了。还有一点，就是有免费的3G用，正好可以多看点推，不过那浏览器太蛋疼了。</p>
-<p>&nbsp;<br />
-12月下半月也就看了这几本书，在这里做个记录，以后便于查找，等有空了我在把书摘整理下。</p>
-<p>&nbsp;</p>
-<p>&nbsp;<br />
-<ul><br />
-	<li>对我影响最大的几本书</li></p>
-</ul>
-<p><img class="aligncenter" title="对我影响最大的几本书" src="http://img3.douban.com/lpic/s6790095.jpg" alt="" width="291" height="453" /><br />
-季羡林老人家写的，整本书也就是他的散文集，心得体会和他对一些人的评价，没有提到对他影响最大的书，看完后有点小失望有感觉，未看之前，以为能看看有哪几本书对他影响那么大，也许就是这本在看的吧。这本书还有一点比较特别，一般的书都会有人写序，可是写这本书的人太牛了吧，90多岁还在写，没有人敢给这本书写序了，因为没怎么看过他写的书，不知道其它书是不是也没有序。<br />
-书里基本上是一些杂记，记录了他怎么怎么牛吧，印象最深的地方就是他老人家和胡适杠上了，书中很多地方都提到胡适，赞美不多，多是讽刺挖苦，老拿胡适“大胆假设，小心求证”说事。抓住一个人失误的地方不放，有点不太像大家风范。说起来一个是留在大陆的人，一个是去了台湾后来去美国的人，他们之间的恩恩怨怨谁又说得清楚？？</p>
-<p>&nbsp;</p>
-<p>&nbsp;<br />
-<ul><br />
-	<li>off学</li></p>
-</ul>
-<p><img class="aligncenter" title="off学" src="http://img1.douban.com/lpic/s2590342.jpg" alt="" width="309" height="432" /></p>
-<p>大前研一写的书，我也不知道是在哪偶尔看到的，就下载子让amazon推送到kindle上了，刚好昨天打羽毛球是看了，书本不长，乘打等球的中间看完了，书本的理念和我想的差不多，但是自己可能太贪玩了，好多地方都做不到，比如说如果培养一种兴趣就要坚持下来，要深入，否则就太泛泛，懂得多但是杂，也是很没意思的，还有就是要坚持锻炼，从昨天的比赛中已经发现明显的力不从心了，和原来同水平的人一起打球，他坚持打了两年，我两年没摸过拍子了，直接被打得满地捡球，不过还好，第二局乘自己还有点基本功灭了两个菜鸟。</p>
-<p>&nbsp;</p>
-<p>&nbsp;<br />
-<ul><br />
-	<li>盗墓笔记8·大结局（上）</li></p>
-</ul>
-<p><img class="aligncenter" title="盗墓笔记8 上" src="http://img3.douban.com/lpic/s7006073.jpg" alt="" width="315" height="423" /><br />
-<ul><br />
-	<li>盗墓笔记8·大结局（下）</li></p>
-</ul>
-<p><img class="aligncenter" title="盗墓笔记8 下" src="http://img3.douban.com/lpic/s7006075.jpg" alt="" width="315" height="423" /><br />
-这本书在上半年看了前几本，不能落下一本不看了，刚好知道这本书已经出完了，到网上搜了下，第一次还看到本假的，也不知道谁写的，看到后来没有了结局，后来功夫不负苦心人，终于找到了，花了一晚上看完，写得很不错，能让我集中精力看上两三个小时的书，强烈推荐下。</p>
-<p>&nbsp;<br />
-最后还有三本在看的书，一本是是布什传《抉择时刻》，已经翻了20多页了，因为不是在kindle上看，书有点重，字有点小，看得不是很快，争取过年前能看完吧。还有一本是康永哥的《蔡康永说话之道》，起床前翻了30％了，应该很快就能看完。另一本就是《正说清朝12臣》，看得有点乏味，所以和几本书混着看了。</p>]]></content>
   </entry>
   
 </feed>

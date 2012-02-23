@@ -9,7 +9,7 @@
   <meta name="author" content="Dinohu">
 
   
-  <meta name="description" content="一定会有人问为什么要消减兴趣爱好，不是别人都提倡多培养点兴趣爱好么。读研的时候曾经的舍友和我说过会一样精通的东西就能吃饭了，样样都玩没有一样玩得好的。不过也有这样的人，比如我现在的老板，玩什么什么精通，毕竟咱没他智商高，玩不了那么多东西。但是我还是找着乐子玩了不少东西，有些对学业上有点帮助， &hellip;">
+  <meta name="description" content="前两天同学要我帮他把两个Origin画的图弄成一个图，要是在以前，有原始数据的话我可能就把图重画了，不过他说有个图片合并的功能，但是不会弄。当时我办公室电脑上装的绿色版的Origin，死活没找到那个那个功能，在他电脑上用origin7.5折腾了半天也没成。今天下班前刚好还有点时间， &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -77,6 +77,46 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/blogs/165">Origin 8.X中图片merge和线性拟合线延长</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-09-08T00:00:00+08:00" pubdate data-updated="true">Sep 8<span>th</span>, 2011</time>
+        
+         | <a href="/blog/blogs/165#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>前两天同学要我帮他把两个Origin画的图弄成一个图，要是在以前，有原始数据的话我可能就把图重画了，不过他说有个图片合并的功能，但是不会弄。当时我办公室电脑上装的绿色版的Origin，死活没找到那个那个功能，在他电脑上用origin7.5折腾了半天也没成。今天下班前刚好还有点时间，打开自己笔记本上的Origin时候发现了merge graph功能，我想应该还是可以试着处理一下的。按照网上的教程，什么加图层加坐标轴试了都不行，那些都是origin7.X的操作方法。然后又再菜单里搜寻，终于在Graph菜单下找到了merge graph window，如果是origin7的话是在edit菜单下。然后在同一个Orign程序中打开两个图，不确定是不是要放到同一个文件夹下，然后点merge然后跳出菜单来，横排竖排排几列就自己选。本来想上个图做示例的，但是他文章还没发表，我手头上又没有origin的图，还是算了。</p>
+<p>&nbsp;</p>
+<p>还有个直线拟合的问题，同曲线要找它的拐点，要用两条直线去拟合他，拟合都会，直接选line fit就行了，但是坐标轴上范围也要选一下，这样就可以根据给定的范围内拟合直线了。但是拟合出来的直线需要延长一下，那就把输出output自定义取值一下就好了。这个问题是解决了，现在就是不知道如何去求两条拟合直接的交点，难道要把议程列出来解一下？以后再研究吧。</p>
+<p>&nbsp;</p></div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -532,62 +572,6 @@ http://www.weithenn.org/cgi-bin/wiki.pl?OpenSuse-VNC_Server%E9%81%A0%E7%AB%AF%E9
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/blogs/85">折腾ios5小记</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-06-13T00:00:00+08:00" pubdate data-updated="true">Jun 13<span>th</span>, 2011</time>
-        
-         | <a href="/blog/blogs/85#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>已经过去好几天了，今天才空下来记点折腾过的东西，本来是不想写的，但是花了钱折腾了这个空间又不想浪费，还是记录点吧，大部分都是回想，当时IOS5体验太差正在气头上也没有留下什么图片的记录。</p>
-<p>&nbsp;</p>
-<p>6月7号早上WWDC大会，睡过头了没看下，第二天下午就下了720P的视频欣赏了下，两个新系统，一个云服务都是我所期待的。lion系统没有MAC就折腾了，老老实实用黑苹果，估计黑苹果也用不久了，为了迎合老板的需求，还可能要降到XP，这也不多说。IOS5和icloud基本上可以算绑一起了，为了体验新系统和支服务，忍受不住诱惑就准备升级了。</p>
-<p>&nbsp;</p>
-<p>以往有虽然有折腾itouch的经验，但也事先做了点功课，weiphone上说有降不了级的，有也说开发都账号可以降级的。当确认了开发者账号是可以降级，于是开始到处求加UUID，在这里还要感谢@<a href="http://twitter.com/#!/chenym"><strong>chenym</strong></a> 和 @<a href="http://twitter.com/#!/nososo"><strong>nososo</strong></a> 给了加了UUID。</p>
-<p>&nbsp;</p>
-<p>不过当晚没动手，主要是装了黑苹果的硬盘放在实验室里了。第二天到实验室发现在win下也是可以刷机的，下好ios5的ipsw和itunes10.5。itunes10.5是鸟文的，界面什么的稍的点变化，不过我还是看得懂的。电脑C盘空间不够也就没有备份，就用了itools备份了下shsh4.3.3、软件、照片、电影等一些东西，这也导致我折腾了一晚上恢复数据，早知道就用itunes备份一下，什么记录账号都在了。</p>
-<p>&nbsp;</p>
-<p>刷机的过程比较曲折，用itunes恢复出现3194错误，查了下说host问题，改了host还是报错，连续报了5、6次搞得都没信心了，于是挂VPN再刷，居然通过了，可恶的GFW啊。刷机过程比想像的要快很多，大概就2分钟，不用pc激活，输入了一些信息后就可以用了，界面上和ios4没什么太大区别。第一部恢复软件，把所有装过的软件都恢复进去，这个过程比较漫长，100多个软件呢。接着就是导电子书，不知道怎么回事就是导不进去，电影同样不行，真把我气得够呛。先不折腾这些，因为事先知道了一些功能就急于体验了，什么拆分键盘，imessage，icloud都折腾了下。imessage不错，和@<a href="http://twitter.com/#!/wubuntust"><strong>wubuntust</strong></a> 聊了会，什么速度界面都刚刚的。icolud也还可以，速度并没有想像得慢，不过再没有深度体验下去时候我就想刷回4.3.3了，主要是bug太多。刷好了4.3.3后还是发现导入不了电子书和电影，这下完了，然后又卸载itunes装了10.3，抹掉所有的数据手势，光是这些工作就折腾了4个多小时，为了体验什么都没留下，又回到原点还没有备份，真是杯具啊。</p>
-<p>&nbsp;</p>
-<p>ios5的特性网上都很详细的列出了，也不想多写，主要是自己体验到的一些小bug，希望苹果在正式版本有所改进。</p>
-<p>&nbsp;</p>
-<p>1.ibooks图书无法导入<br />
-2.拆分键盘有时候无法正常滑动<br />
-3.拆分键盘在spotlight中无法正常显示中文<br />
-4.以前可以看的mp4也无法导入<br />
-5.手势经常失灵<br />
-6.设置界面里部分图标丢失</p>
-<p>&nbsp;</p>
-<p>先这么多，等待体验正式版的ios5，再也不做小白鼠了。</p></div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/blog/page/6/">&larr; Older</a>
@@ -612,6 +596,10 @@ http://www.weithenn.org/cgi-bin/wiki.pl?OpenSuse-VNC_Server%E9%81%A0%E7%AB%AF%E9
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/blog/2012/02/23/first-buy-global/"> 海购第一单</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/blog/2012/02/18/2012new-route/">新路线</a>
       </li>
     
@@ -625,10 +613,6 @@ http://www.weithenn.org/cgi-bin/wiki.pl?OpenSuse-VNC_Server%E9%81%A0%E7%AB%AF%E9
     
       <li class="post">
         <a href="/blog/blog/2012/02/14/3-convert-soft-4-kindle/">三个转换6寸kindle pdf文档软件</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/blog/2012/02/12/look-house/">看房记</a>
       </li>
     
   </ul>
