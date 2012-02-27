@@ -9,8 +9,10 @@
   <meta name="author" content="Dinohu">
 
   
-  <meta name="description" content="自从买了kindle以后，看的书也就越来越多了，对于以前不怎么看书的我来说，要是能在这设备上能看掉50本以上的书就算回本了，多看一本赚一本，这样算下来一本书20块钱吧，能用这种方式逼着自己多看些本我觉得值了。还有一点，就是有免费的3G用，正好可以多看点推，不过那浏览器太蛋疼了。
-&nbsp; &hellip;">
+  <meta name="description" content="测试用vimpress写博客
+参考链接： http://klniu.com/post/vim-vimpress-blog/
+http://apt-blog.net/vimpress-add-markdown-multiblog-support
+http://apt-blog.net/release &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -78,6 +80,58 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/blogs/286">Test Vimpress</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-12-25T00:00:00+08:00" pubdate data-updated="true">Dec 25<span>th</span>, 2011</time>
+        
+         | <a href="/blog/blogs/286#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>测试用vimpress写博客</p>
+<p>参考链接：</p>
+<blockquote>
+<p>http://klniu.com/post/vim-vimpress-blog/<br />
+http://apt-blog.net/vimpress-add-markdown-multiblog-support<br />
+http://apt-blog.net/release-of-vimrepress_cn<br />
+http://www.sdvil.com/vim/%E5%86%99blog%E4%B9%8B-vimpress-2/<br />
+http://blog.csdn.net/xiebiwei/article/details/6182547<br />
+http://www.emptykid.com/blog/archives/191<br />
+http://dango-akachan.appspot.com/?p=128001</p>
+</blockquote>
+<p>按照上面的链接折腾了一把以后，它1.X版本和后面的还有点变化，新版本的配置不在blog.vim里面了，直接是到.vimrc中修改，还支持多个博客切换，不过我是用不到，就一直在这里写吧。</p>
+<p>配置的时候遇到点问题，加我的博客加不进去，后来想起来我的博客不是放在要目录下的，而是在子目录下面，在域名后面又加上子目录的名称就好了。</p>
+<p>写好博管然后发布的时候又遇到问题，好像是没装xdotool的包，源里装上就可以发现了，一开始一直以为是没有vim-python呢，可是我在源里死活搜不到。</p>
+<p>最后，不太懂html的语法，只能这样纯文本的码点字了，看来还要去折腾点插件搞点html才好。</p>
+<p>更新：前两天一直用vimpress总是发不出博客，后来测试了几遍才发现strID留空就好了。</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2011/12/wpid-vimpress_4ef6cd75_mkd1.txt wpid-vimpress_4ef6cd75_mkd.txt --></p></div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -635,74 +689,6 @@
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/blogs/237">再装Ubuntu11.10</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-10-23T00:00:00+08:00" pubdate data-updated="true">Oct 23<span>rd</span>, 2011</time>
-        
-         | <a href="/blog/blogs/237#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><span style="font-size: small;">已经下决心把硬盘全格掉装</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">ubuntu</span></span><span style="font-size: small;">了，以后在自己的电脑上就一个系统</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">Ubuntu</span></span><span style="font-size: small;">，我想足以应付我手头上大部分事情。</span></p>
-<p>&nbsp;</p>
-<p><strong><span style="font-size: small;">准备工作：</span></strong></p>
-<p><span style="font-size: small;">主要是备份文件和制作</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">U</span></span><span style="font-size: small;">盘启动盘，备份资料前两天已经完成，下面就是制作启动盘，由于手头没有</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">linux</span></span><span style="font-size: small;">操作系统，只好在</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">win</span></span><span style="font-size: small;">下用</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">ultraISO</span></span><span style="font-size: small;">烧录了，这个过程还算比较顺利。以前安装的时候都是用</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">alternate</span></span><span style="font-size: small;">版本的，网上虽然查了这个不能用</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">U</span></span><span style="font-size: small;">盘安装，我还是想试试，结果刚分完区就出问题了报错不能安装，也不知道怎么回事。又下</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">desktop</span></span><span style="font-size: small;">的版本安装，还好用</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;"><span class="caps">USTC</span></span></span><span style="font-size: small;">的源下镜像几分钟就搞定，再用</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">ultraISO</span></span><span style="font-size: small;">烧到</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">U</span></span><span style="font-size: small;">盘，进入</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">U</span></span><span style="font-size: small;">盘系统，一切都很熟悉，画面变得漂亮多了，我就知道现在叫</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">gnome3</span></span><span style="font-size: small;">什么的，主要是太久不观注了。</span></p>
-<p>&nbsp;</p>
-<p><strong><span style="font-size: small;">开始安装：</span></strong></p>
-<p><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">U</span></span><span style="font-size: small;">盘</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">desktop</span></span><span style="font-size: small;">安装很方便，反正我是就一个硬盘装一个系统，不用考虑什么</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">grub</span></span><span style="font-size: small;">的问题，硬盘分了两个区，一个</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">/</span></span><span style="font-size: small;">分区</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">30G</span></span><span style="font-size: small;">，一个</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">home</span></span><span style="font-size: small;">分区</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">120G</span></span><span style="font-size: small;">，都是</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">ext4</span></span><span style="font-size: small;">的，现在有</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">3G</span></span><span style="font-size: small;">内在</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">swap</span></span><span style="font-size: small;">也就不要了。这次装系统不想像以前一样挂</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">7</span></span><span style="font-size: small;">，</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">8</span></span><span style="font-size: small;">个分区，因为以前觉得全部分开到时候重装系统时候会很方便，什么软件都不要重装了，但是一次也没用上，该重装的还是要重装，缺什么库文件太多了，也懒得折腾。</span></p>
-<p>&nbsp;</p>
-<p><span style="font-size: small;">安装过程很多，几分钟就搞定了，好久不用有点手生了，记得上次用</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">ubuntu</span></span><span style="font-size: small;">还是</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">9.04</span></span><span style="font-size: small;">的时候，一下子两年过去了。装完系统第一步就是加源，虽然我记得要做这件事，但是那</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">source.list</span></span><span style="font-size: small;">放在哪都找不到，只好再网上查，顺便又加了</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">ustc</span></span><span style="font-size: small;">的源，更新了下系统，然后装上极点五笔输入法，这样基本上我就能用了，实在不习惯拼音输入了。</span></p>
-<p>&nbsp;</p>
-<p><span style="font-size: small;">现在很懒，懒得折腾，搜到了一个</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">ubuntu</span></span><span style="font-size: small;">总结得比较好的个人网站，然后就跟着他的设置再按照自己需要安装。主要是参考了下面这个笨兔兔，还有一些结合了下</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">forum.ubuntu.org.cn</span></span><span style="font-size: small;">论坛的。</span></p>
-<p>&nbsp;<br />
-<blockquote><span style="font-size: small;">笨兔兔</span></p>
-<p><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;"><a href="http://www.bentutu.com/">http://www.bentutu.com/</a></span></span></p>
-<p><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">ubutnu</span></span><span style="font-size: small;">中文论坛</span></p>
-<p><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">forum.ubuntu.org.cn</span></span></blockquote><br />
-&nbsp;</p>
-<p><span style="font-size: small;">很大一部分软件都是能过</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">ubuntu</span></span><span style="font-size: small;">软件中心装的，只要能想到基本都有，比以前时候方便了很多，系统自带的是</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">libreoffice</span></span><span style="font-size: small;">，用着不太习惯，刚好院里是买了有永中的</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">office</span></span><span style="font-size: small;">，可是由于我安装的</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">64</span></span><span style="font-size: small;">位系统， 怎么搞也装不上，说少个什么</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">64</span></span><span style="font-size: small;">位的库文件。下面给出永中</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">office</span></span><span style="font-size: small;">的链接。</span></p>
-<p>&nbsp;<br />
-<blockquote><span style="font-size: small;">永中</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">office</span></span></p>
-<p><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;"><a href="http://www.yozosoft.com/office/yz2010.jsp">http://www.yozosoft.com/office/yz2010.jsp</a></span></span></blockquote><br />
-&nbsp;</p>
-<p><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">FQ</span></span><span style="font-size: small;">：</span></p>
-<p><span style="font-size: small;">基本上还是老套路，先装</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">Gstd</span></span><span style="font-size: small;">用</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">ssh</span></span><span style="font-size: small;">设置代理，然后再用</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">firefox+autoproxy</span></span><span style="font-size: small;">先设置成功，装</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">chrome</span></span><span style="font-size: small;">＋</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">switch proxy</span></span><span style="font-size: small;">，设置很方便，但是又遇到以前的问题，</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">chrome</span></span><span style="font-size: small;">经过一次上网后生成</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">pac</span></span><span style="font-size: small;">文件就不行了，还好在商店里又找到</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">switch proxy plus</span></span><span style="font-size: small;">，这个能用，很高兴，结合通道还很方便。</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;"><span class="caps">VPN</span></span></span><span style="font-size: small;">经过多次折腾也登录不了，不知道是</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">pptp</span></span><span style="font-size: small;">的问题还是怎么回事，能</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">FQ</span></span><span style="font-size: small;">了也就不管了。</span></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><span style="font-size: small;">常用的软件不太多，主要就是</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;"><span class="caps">BBS</span></span></span><span style="font-size: small;">，从在线商店里装了</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">Gemanx</span></span><span style="font-size: small;">，设置字体很丑，于是又想折腾字体，记得以前弄字体经常把系统搞挂，没想到现在这么方便，把</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">windows</span></span><span style="font-size: small;">下字体拷过来双击就安装了，真是一大改进啊！</span></p>
-<p>&nbsp;</p>
-<p><span style="font-size: small;">本来对在</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">ubuntu</span></span><span style="font-size: small;">下用苹果的设备不报有什么希望的，也就弄了个虚拟机</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">vbox</span></span><span style="font-size: small;">，这个</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">vbox</span></span><span style="font-size: small;">还是以前弄的才</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">10G</span></span><span style="font-size: small;">大小，根本扛不住的备份了。虚拟机的增强包没装上，所以外接</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;"><span class="caps">USB</span></span></span><span style="font-size: small;">在虚拟机里也没识别，只好做罢，不过还能淘宝一下也挺好的。把</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">ipad</span></span><span style="font-size: small;">插电脑上，居然挂载了两个分区，一个是可以看到系统文件，我没敢对里面东西操作，另一个就是软件，可以看到</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">ipad</span></span><span style="font-size: small;">上装每个软件的图标，点击图标可以看到里面的文件，尝试拷了几个文件进去，居然能用，真是太赞啊，这下我不用</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">itunes</span></span><span style="font-size: small;">也基本能用了，就是拷入速度慢了点，才</span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;">6.5M/s</span></span><span style="font-size: small;">左右。</span></p>
-<p>&nbsp;</p>
-<p><span style="font-size: small;">还折腾了很多东西，安装过了好几天了也记不太清楚，想到点加一点吧。</span></p>
-<p>&nbsp;</p></div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/blog/page/4/">&larr; Older</a>
@@ -727,6 +713,10 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/blog/2012/02/27/new-toy-fitbit/"> 新玩具：fitbit</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/blog/2012/02/23/first-buy-global/"> 海购第一单</a>
       </li>
     
@@ -740,10 +730,6 @@
     
       <li class="post">
         <a href="/blog/blog/2012/02/15/2012-january-books/"> 一月份的书</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/blog/2012/02/14/3-convert-soft-4-kindle/">三个转换6寸kindle pdf文档软件</a>
       </li>
     
   </ul>

@@ -4,7 +4,7 @@
   <title><![CDATA[华华的OCTOPRESS BLOG]]></title>
   <link href="http://dinohu.github.com/blog/atom.xml" rel="self"/>
   <link href="http://dinohu.github.com/blog/"/>
-  <updated>2012-02-23T21:29:51+08:00</updated>
+  <updated>2012-02-27T21:24:39+08:00</updated>
   <id>http://dinohu.github.com/blog/</id>
   <author>
     <name><![CDATA[Dinohu]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ 新玩具：fitbit]]></title>
+    <link href="http://dinohu.github.com/blog/blog/2012/02/27/new-toy-fitbit/"/>
+    <updated>2012-02-27T21:23:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blog/2012/02/27/new-toy-fitbit</id>
+    <content type="html"><![CDATA[<p>fitbit已经到手好几天了，经过这几天的折腾和研究，总算了解了个大概，再<a href="https://twitter.com/#!/bfishadow">@bfishadow</a>老师说写个评测吧，那就写点不专业的评测。</p>
+
+<p>先说为什么要买这个东西，最主要的原因是因为我是个胖子，虽然很多人不相信我有80KG的体重，但体重称是不会骗人的。偶然的一次看到这样一篇博客<a href="http://gongm.in/2011/07/fitbit/">Fitbit个人健身记录器</a>，当时就被它深深的吸引住了，原因是去年暑假曾天天爬山、跑步或长距离步行，用手记上的endomondo来通过GPS来记录自己的运动量，由于是免费版，功能相对于薄弱一些,想要点更多的数据。经过一系列的调研后发现fitbit能记录每天的行走的步数，监测睡眠等，网站的分析功能也很强大，可以分析行走速度，爬楼高度等，于是很想买一个，但国内购买不方便，fitbit只能在美国，加拿大和英国购买，后来还是通过海外转运才买到的。</p>
+
+<p>经过一系列的折腾，终于到手了，当天手上没相机，就用手机拍了一张。fitbit个头很小，装在盒子里空荡荡的，背后有个夹子很紧，搞了半天才弄下来。</p>
+
+<p><img src="https://lh6.googleusercontent.com/-mf4l4a6dxmg/T0txyhUzlPI/AAAAAAAAAqY/XWSz-wfjNqE/s693/IMG-20120223-00178.jpg" alt="开箱照" /></p>
+
+<p>看下实际大小，比1元硬币稍大一点，可以放口袋里或者别在腰上，有专门卡裤带上的夹子，女性还可以把它夹在内衣上。</p>
+
+<p><img src="https://lh4.googleusercontent.com/-blbeR_9z6Fc/T0txxdLmETI/AAAAAAAAAqY/DpOzrtEQby4/s693/DSCF3457.JPG" alt="实际大小" /></p>
+
+<p>配有一个腕带（睡眠监测用）和充电底座，底座即可以充电，又可以无线传输数据，查了下官方手册，就是和大多数电脑无线鼠标用的2.4G是一样的。只要离底座5米就会上传，上传间隔15分钟一次，也可以把fitbit直接插入强行上它上传数据。不过想要它上传数据还要装相应的驱动，官主只提供的Win和Mac的驱动，只用Linux的我被迫找了台Windows电脑来上传数据。</p>
+
+<p><img src="https://lh5.googleusercontent.com/-YSN7qdQDAWY/T0txzJIBQ0I/AAAAAAAAAqY/XGlGmZyF_9g/s693/DSCF3459.JPG" alt="在底座上" /></p>
+
+<p>经过了一系列的调研后，只了解了一些简单的功能。fitbit到手后终于可以好好的摆弄了下。刚开始的时候对这个东西的原理很感兴趣，查了下原理，里面放了两个传感器，一个加速度计，是压电式的，一个高度计，是气压式的，因此fitbit是不防水的，不可以带着去游泳。</p>
+
+<p>fitbit只有一个按键，想要设置一些功能的话都要到它的官网设置，然后同步一下就好。想监测某一断时间的运动量，可以按住按钮两秒会出现start，将会有个秒表开始计时，结束时再按两秒，数据上传到网上后就会认为此断时间为活动的，睡眠也如此，不过活动量比较少的睡眠在网上自动就会被归类到睡眠，如果是其它活动还要在网站上自己弄一下。其实我发现，不用自己去设置什么时候开始，什么时候结束，因为fitbit会把7天记每一分钟的数据都存下来上传到网上，你只要去设置一下这段时间就行，他就会把这段时间的运动提取出来，不过30的数据就会存一整天的数据。根据官方的说明来看，fitbit电量是3到7天，如果没有网络不方便上传3天传一次是可以保存每一分钟的数据的。</p>
+
+<p>下面来看下我今天的活动量，早上和中午宿舍走到办公室的记录。</p>
+
+<p><img src="https://lh5.googleusercontent.com/-vQFYuVJr2l8/T0txy8D2vMI/AAAAAAAAAqY/V4H0uwEHEM8/s520/activity" alt="Activity Records" /></p>
+
+<p>下面是我早晨我中午的睡眠记录，很强大吧，躺下就能睡着，睡眠质量超好。第一天监测睡眠的时候，我把它夹在送的腕带上，可能我晚上睡觉不老实，三个小时以后fitbit掉了，现在都夹在袖口上。</p>
+
+<p><img src="https://lh6.googleusercontent.com/-3byHZHojfbk/T0txzCVauWI/AAAAAAAAAqY/DXDQ8DYtcE0/s572/sleep" alt="Sleep" /></p>
+
+<p>fitbit还能测量高度数据，不过它记录的是多少层，用那高度计算的，由于每个楼层高度不一样，它就按照3米一层来算，显示每天爬了多少层楼，但不会记录下了多少层楼，我知道polor的手表是可以记录爬升高度和下降高度的，这东西便宜没有。刚开始我不太适应看它显示到底多少层，它要是能显示多少米就好了，不过也没关系，乘上3就知道多少米了。</p>
+
+<p>fitbit只能用来记录步行或比较慢的运动（睡眠中手臂的活动应该也算），如果坐在车上速度大于多少无论怎么动是不记录的，我看过欧姆龙的计步器是大于多少KM/h才记录步数，两个原理应该差不多。我也不知道什么在网上看到了cycle这个单词带着它去骑车，骑了40KM才给我记录了4KM的运动量，后来在网上好好找了下才发现那个自行车运动量是要自己填的。</p>
+
+<p>经过几天的佩戴，我俨然一副数据男形象，然后被同学吐槽说，你都知道每天走了多远，睡眠有多好，还偏偏买个这么个东西测量一些没用的数据，真是有病。但是我发现这些图形化的数据确实也能刺激到人，看着运动量有点不够或许会去外面再溜一圈，病得不轻。</p>
+
+<p>最后附上我的<a href="http://www.fitbit.com/user/22F8F3">锻炼记录</a>和<a href="http://www.fitbit.com/group/229BXW">中国fitbit小组地址</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ 海购第一单]]></title>
@@ -26,8 +69,9 @@
 
 <p>光看了<a href="http://twitter.com/wangpei">@wangpei</a>老师的教程是不够的，又到<a href="http://www.smzdm.com">什么值得买</a>上找了比较详细的教程确保万无一失。</p>
 
-<blockquote><p><a href="http://www.smzdm.com/buyglobal.html">海外购攻略</a>
-<a href="http://www.smzdm.com/common-transport-company-charges-port-and-logistics-of.html">常用转运公司收费、口岸及物流情况</a></p></blockquote>
+<blockquote><p><a href="http://www.smzdm.com/buyglobal.html">海外购攻略</a></p>
+
+<p><a href="http://www.smzdm.com/common-transport-company-charges-port-and-logistics-of.html">常用转运公司收费、口岸及物流情况</a></p></blockquote>
 
 <p>我选择的是<a href="http://www.buytong.com">百通</a>转运，后来想想为什么选百通是因为那个教程是百通的，而且发现很多人应该都是这个原因选了百通，强烈建议其它公司也好好写写自己的教程。1月28号下单，虽然钱已经超过了25$但还是需要美国境内的运费，为了省掉这个运费试用了amazon prime服务，真的很赞，后来又花了100块人民币加入的<a href="https://twitter.com/#!/stonehoo">stonehoo</a>的prime家庭列表。两天后货就到了百通的转运仓库。</p>
 
@@ -587,29 +631,6 @@ https://raw.github.com/othree/markdown-syntax-zhtw/master/syntax.md</p>
 <img class="alignleft" title="meseum22" src="https://lh5.googleusercontent.com/-jWsXvzxRw0Q/TvsjdW1UwLI/AAAAAAAAAlo/HHo8pjx0CTA/w101-h134-n-k/DSCF3417.JPG" alt="" width="101" height="134" /><br />
 <img class="aligncenter" title="meseum23" src="https://lh4.googleusercontent.com/-bqzpy1kpVSM/TvsjhVK7DKI/AAAAAAAAAlw/FK_lUXWYZQM/w101-h134-n-k/DSCF3419.JPG" alt="" width="101" height="134" /></p>
 <p>为了避开堵车时间，我们早早结束了参观，奔向第二个目的地，我的目标主要是把成本吃回来，战果还不错，三盘白煮虾，两盘扇贝，少许水果，应该差不多了，再吐槽一下金渤瀚，自助吃不要紧，喝水要钱，而且尽是些没有汁的水果，吃多了口渴死。</p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[test vimpress]]></title>
-    <link href="http://dinohu.github.com/blog/blogs/286"/>
-    <updated>2011-12-25T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/blogs/286</id>
-    <content type="html"><![CDATA[<p>测试用vimpress写博客</p>
-<p>参考链接：</p>
-<blockquote>
-<p>http://klniu.com/post/vim-vimpress-blog/<br />
-http://apt-blog.net/vimpress-add-markdown-multiblog-support<br />
-http://apt-blog.net/release-of-vimrepress_cn<br />
-http://www.sdvil.com/vim/%E5%86%99blog%E4%B9%8B-vimpress-2/<br />
-http://blog.csdn.net/xiebiwei/article/details/6182547<br />
-http://www.emptykid.com/blog/archives/191<br />
-http://dango-akachan.appspot.com/?p=128001</p>
-</blockquote>
-<p>按照上面的链接折腾了一把以后，它1.X版本和后面的还有点变化，新版本的配置不在blog.vim里面了，直接是到.vimrc中修改，还支持多个博客切换，不过我是用不到，就一直在这里写吧。</p>
-<p>配置的时候遇到点问题，加我的博客加不进去，后来想起来我的博客不是放在要目录下的，而是在子目录下面，在域名后面又加上子目录的名称就好了。</p>
-<p>写好博管然后发布的时候又遇到问题，好像是没装xdotool的包，源里装上就可以发现了，一开始一直以为是没有vim-python呢，可是我在源里死活搜不到。</p>
-<p>最后，不太懂html的语法，只能这样纯文本的码点字了，看来还要去折腾点插件搞点html才好。</p>
-<p>更新：前两天一直用vimpress总是发不出博客，后来测试了几遍才发现strID留空就好了。</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2011/12/wpid-vimpress_4ef6cd75_mkd1.txt wpid-vimpress_4ef6cd75_mkd.txt --></p>]]></content>
   </entry>
   
 </feed>
