@@ -9,10 +9,7 @@
   <meta name="author" content="Dinohu">
 
   
-  <meta name="description" content="已经下决心把硬盘全格掉装ubuntu了，以后在自己的电脑上就一个系统Ubuntu，我想足以应付我手头上大部分事情。
-&nbsp;
-准备工作：
-主要是备份文件和制作U盘启动盘，备份资料前两天已经完成，下面就是制作启动盘，由于手头没有linux操作系统，只好在win下用ultraISO烧录了， &hellip;">
+  <meta name="description" content="最近想用gaussian算点东西，windows下的效率实在太低，于是想在自己电脑上试试，笔记本上是新装的ubuntu11.10，去师兄那拷了gaussian09的linux版本来安装，从网上查了下说安装很简单，但是我还是折腾了好几天，主要是一个不起眼的地方出错了，也不知道是不是单机版的原因。 &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -80,6 +77,81 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/blogs/242">Linux下安装gaussian09</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-10-28T00:00:00+08:00" pubdate data-updated="true">Oct 28<span>th</span>, 2011</time>
+        
+         | <a href="/blog/blogs/242#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>最近想用<span style="font-family: 'Times New Roman', serif;">gaussian</span>算点东西，<span style="font-family: 'Times New Roman', serif;">windows</span>下的效率实在太低，于是想在自己电脑上试试，笔记本上是新装的<span style="font-family: 'Times New Roman', serif;">ubuntu11.10</span>，去师兄那拷了<span style="font-family: 'Times New Roman', serif;">gaussian09</span>的<span style="font-family: 'Times New Roman', serif;">linux</span>版本来安装，从网上查了下说安装很简单，但是我还是折腾了好几天，主要是一个不起眼的地方出错了，也不知道是不是单机版的原因。</p>
+<p>从网上查了不少安装办法，大致都是这个样子，顺便引用下师兄的文章：<br />
+<blockquote><span style="font-family: 'Times New Roman', serif;"><a href="http://blog.csdn.net/tengh/article/details/5996150"><span style="font-family: SimSun;"><span style="font-size: small;">http://blog.csdn.net/tengh/article/details/5996150</span></span></a></span></blockquote><br />
+高斯在<span style="font-family: 'Times New Roman', serif;">linux</span>下的安装很简单。首先把<span style="font-family: 'Times New Roman', serif;">gaussian09</span>的文件解压到目标文件夹。比如</p>
+<p><span style="font-family: 'Times New Roman', serif;">/home/zhuh/</span></p>
+<p>然后设置环境变量，如果是<span style="font-family: 'Times New Roman', serif;">root</span>用户，修改 <span style="font-family: 'Times New Roman', serif;">/etc/profile</span>文件，如果是一般用户，修改<span style="font-family: 'Times New Roman', serif;">/home/.bashrc</span>文件。</p>
+<p>添加以下几行：</p>
+<p>&nbsp;<br />
+<blockquote><span style="font-family: 'Times New Roman', serif;">export GAUSS_EXEDIR=/home/zhuh/g09/ </span></p>
+<p><span style="font-family: 'Times New Roman', serif;">export G09ROOT=/home/zhuh/g09/ export </span></p>
+<p><span style="font-family: 'Times New Roman', serif;">GAUSS_SCRDIR=/home/zhuh/tmp/g09/ </span></p>
+<p><span style="font-family: 'Times New Roman', serif;">export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/$G09ROOT </span></blockquote><br />
+其中<span style="font-family: 'Times New Roman', serif;">/home/zhuh/</span>改成自己的路径。然后保存。</p>
+<p>在命令行更新环境变量，<span style="font-family: 'Times New Roman', serif;">root</span>用户输入：</p>
+<p><span style="font-family: 'Times New Roman', serif;">source  /etc/profile</span></p>
+<p>普通用户输入：</p>
+<p><span style="font-family: 'Times New Roman', serif;">source  /home/zhuh/.bashrc</span></p>
+<p><span style="font-family: 'Times New Roman', serif;">/home/zhuh</span>改成你自己的用户路径。</p>
+<p>我按照这个设置，用了很多次运行就报错，报错内容如下：<br />
+<blockquote><span style="font-family: 'Times New Roman', serif;">Entering Gaussian System, Link 0=g09/g09 </span></p>
+<p><span style="font-family: 'Times New Roman', serif;"><span class="caps">PGFIO</span>/stdio: No such file or directory </span></p>
+<p><span style="font-family: 'Times New Roman', serif;"><span class="caps">PGFIO</span>-F-/<span class="caps">OPEN</span>/unit=11/error code returned by host stdio &#8211; 2. </span></p>
+<p><span style="font-family: 'Times New Roman', serif;">File name = /tmp/g09/Gau-3850.inp </span></p>
+<p><span style="font-family: 'Times New Roman', serif;">In source file ml0.f, at line number 182 </span></blockquote><br />
+从上面的内容看也看不出什么错，然后师兄提醒我这样安装<br />
+<blockquote><span style="font-family: 'Times New Roman', serif;">1</span>、<span style="font-family: 'Times New Roman', serif;">./configure</span></p>
+<p><span style="font-family: 'Times New Roman', serif;">2</span>、<span style="font-family: 'Times New Roman', serif;">make</span></p>
+<p><span style="font-family: 'Times New Roman', serif;">3</span>、<span style="font-family: 'Times New Roman', serif;">make install</span></blockquote><br />
+还是不行，文件夹里根本没有<span style="font-family: 'Times New Roman', serif;">./confiure</span>文件，快下班时候，师兄又过来给我折腾了半天还是不行，我都快崩溃了，已经放弃在<span style="font-family: 'Times New Roman', serif;">linux</span>使用<span style="font-family: 'Times New Roman', serif;">gaussian</span>，但最后还是想试下<span style="font-family: 'Times New Roman', serif;">gaussian03</span>行不行，于是又在网上随手搜了几篇<span style="font-family: 'Times New Roman', serif;">gaussian03</span>的文章<br />
+<blockquote><span style="font-family: 'Times New Roman', serif;"><a href="http://hi.baidu.com/curioz/blog/item/6324b37eb94b6e300dd7da6f.html"><span style="font-family: SimSun;"><span style="font-size: small;">http://hi.baidu.com/curioz/blog/item/6324b37eb94b6e300dd7da6f.html</span></span></a></span></p>
+<p><span style="font-family: 'Times New Roman', serif;"><a href="http://www.baisi.net/thread-14466-1-1.html"><span style="font-family: SimSun;"><span style="font-size: small;">http://www.baisi.net/thread-14466-1-1.html</span></span></a></span></blockquote><br />
+发现这两篇文章下面临时文件夹只是<span style="font-family: 'Times New Roman', serif;">/tmp</span>，于是就把<span style="font-family: 'Times New Roman', serif;">g09</span>去掉，然后按照前面的方法又来了一篇居然行了。</p>
+<p>现在贴出我的配置<br />
+<blockquote><span style="font-family: 'Times New Roman', serif;">export GAUSS_EXEDIR=/home/huzhenhua/g09 </span></p>
+<p><span style="font-family: 'Times New Roman', serif;">export G09ROOT=/home/huzhenhua/g09 </span></p>
+<p><span style="font-family: 'Times New Roman', serif;">export GAUSS_SCRDIR=/tmp </span></p>
+<p><span style="font-family: 'Times New Roman', serif;">export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/$G09ROOT </span></p>
+<p><span style="font-family: 'Times New Roman', serif;">export <span class="caps">PATH</span>=$<span class="caps">PATH</span>:/home/huzhenhua/g09 </span></blockquote><br />
+&nbsp;</p></div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -676,118 +748,6 @@ GazoPa网上搜到介绍到很牛B，不过上去发现不提供服务了。Gazo
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/blogs/177">Fortran77按行写入数据</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-09-14T00:00:00+08:00" pubdate data-updated="true">Sep 14<span>th</span>, 2011</time>
-        
-         | <a href="/blog/blogs/177#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>老板最近要做一个算散射的数据，matlab下面找不到现成的程序，找到能用的程序又不知道它是怎么算的，自已去编一个又不现实，不过早已经有别人编好fortran77的T-matrix程序拿来算，可是他又不会用fortran。鉴于我以前在linux下面用过别人的fortran程序，就把任务交给我了，我帮他编译好lapack库，让他的程序能用起来，还手把手教会它怎么使用程序，可他还是不满足于程序一次只能算一个数据。然后他自己捣鼓了三天能让程序算一列数据后，又让我再给它加个循环让程序一次能给出多组程序。可是我不会用啊，搜到的程序都是f90或者f95的，f77数组输出真得很弱，没办法只能慢慢弄，经过昨晚看书加今天早上半早上的努力，终于弄出来了，现在看看程序还是比较简单的，就是一开始不太懂fortran的语法，还有熟悉了现代化的语言后在用这古老的语言确实有点折腾。</p>
-<p>&nbsp;</p>
-<p>贴出这两个程序，高手们别笑我：<br />
-<div lang="zh-cn"><br />
-<div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"></pre></td><td class='code'><pre><code class=''></code></pre></td></tr></table></div></figure></div></notextile></p>
-</div>
-<fieldset><legend>test.f</legend></fieldset>
-<p>&nbsp;<br />
-<div lang="zh-cn"><br />
-<div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>PROGRAM main
-</span><span class='line'>      OPEN (6,FILE='test')
-</span><span class='line'>      do 10 i=1,5
-</span><span class='line'>C     行
-</span><span class='line'>      do 20 j=1,10
-</span><span class='line'>C     列      
-</span><span class='line'>      k=i*j
-</span><span class='line'>      write (6,100), k
-</span><span class='line'>100   FORMAT (I4,$)
-</span><span class='line'>C     $不换行
-</span><span class='line'>20    continue
-</span><span class='line'>      write (6,*) ' '
-</span><span class='line'>C     空格换行
-</span><span class='line'>10    continue
-</span><span class='line'>      END PROGRAM main</span></code></pre></td></tr></table></div></figure></div></notextile></p>
-</div>
-<p>&nbsp;<br />
-<fieldset><legend>test1.f</legend></fieldset><br />
-&nbsp;<br />
-<div lang="zh-cn"><br />
-<div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>program main
-</span><span class='line'>      integer M(9,18)
-</span><span class='line'>      OPEN (6,FILE='test')
-</span><span class='line'>C     定义整型数组
-</span><span class='line'>      do 10 i=1,9 
-</span><span class='line'>C     行
-</span><span class='line'>      do 10 j=1,18
-</span><span class='line'>C     列
-</span><span class='line'>      m(i,j)=i*j
-</span><span class='line'>
-</span><span class='line'>10    continue
-</span><span class='line'>      write (6,100) m
-</span><span class='line'>100   format(18i4)
-</span><span class='line'>C     格式化输出18列数据
-</span><span class='line'>      end program main</span></code></pre></td></tr></table></div></figure></div></notextile></p>
-</div>
-<p>&nbsp;</p></div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/blog/page/5/">&larr; Older</a>
@@ -812,6 +772,10 @@ GazoPa网上搜到介绍到很牛B，不过上去发现不提供服务了。Gazo
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/blog/2012/03/10/facing-the-chaohu-with-spring-blossoms/">面朝巢湖，春暖花开</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/blog/2012/02/27/new-toy-fitbit/"> 新玩具：fitbit</a>
       </li>
     
@@ -825,10 +789,6 @@ GazoPa网上搜到介绍到很牛B，不过上去发现不提供服务了。Gazo
     
       <li class="post">
         <a href="/blog/blog/2012/02/17/2012from-zero-to-start/">从零开始</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/blog/2012/02/15/2012-january-books/"> 一月份的书</a>
       </li>
     
   </ul>

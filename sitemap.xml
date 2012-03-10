@@ -833,15 +833,21 @@
         <lastmod>2012-02-27T21:24:24+08:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://dinohu.github.com/blog/blog/2012/03/10/facing-the-chaohu-with-spring-blossoms/
+        </loc>
+        <lastmod>2012-03-10T20:31:09+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://dinohu.github.com/blog/about/</loc>
         <lastmod>2012-01-23T11:28:16+08:00</lastmod>
     </url>
     <url>
         <loc>http://dinohu.github.com/blog/</loc>
-        <lastmod>2012-02-27T21:24:24+08:00</lastmod>
+        <lastmod>2012-03-10T20:31:09+08:00</lastmod>
     </url>
     <url>
         <loc>http://dinohu.github.com/blog/blog/archives/</loc>
-        <lastmod>2012-02-27T21:24:24+08:00</lastmod>
+        <lastmod>2012-03-10T20:31:09+08:00</lastmod>
     </url>
 </urlset>

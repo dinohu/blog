@@ -9,7 +9,9 @@
   <meta name="author" content="Dinohu">
 
   
-  <meta name="description" content="最近用证件照比较多，驾照需要白底的，毕业照需要蓝底的，还有其他需要照片的地方。前两天去照相馆花了10块钱洗了16张证件照。今天师兄过来传授了点经验，自己先排版好然后去冲洗，这样冲洗成本就能省到原来的1/10了。我当时怎么就没想到呢，以后洗证件照就是要这么多钱，其它只要把证件好排成5寸的， &hellip;">
+  <meta name="description" content="坐公交没事就用手机写吧！
+第一次被偷钱包，还来了下大的，身份证，银行卡，门卡，饭卡，若干现金，全部损失殆尽。最可气的就是把身份证和银行卡放到一起了，以前常常提醒别人不要这样做，没想到给别人的忠告自己没有履行。事后是又气又恨啊，真想把小偷的皮都扒了。
+现在都想不起来在哪里弄丢的，无锡站的时候买过水， &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -77,6 +79,46 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/blogs/61">钱包丢了</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-04-25T00:00:00+08:00" pubdate data-updated="true">Apr 25<span>th</span>, 2011</time>
+        
+         | <a href="/blog/blogs/61#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>坐公交没事就用手机写吧！</p>
+<p>第一次被偷钱包，还来了下大的，身份证，银行卡，门卡，饭卡，若干现金，全部损失殆尽。最可气的就是把身份证和银行卡放到一起了，以前常常提醒别人不要这样做，没想到给别人的忠告自己没有履行。事后是又气又恨啊，真想把小偷的皮都扒了。</p>
+<p>现在都想不起来在哪里弄丢的，无锡站的时候买过水，要么就在火车上，座位太空几乎躺下了，要么就在公交，我起身下车时候被碰了下。都怪自己太不小心了，在岛上呆了五年，习惯了乱放东西，因为岛上基本没有小偷。都怪自己太胖，可能腿太粗可能把钱包挤出来了。都怪自己穿了浅口袋的西裤，要是穿牛仔裤我自己都掏不太出来。算了，越想越心烦，以后注意就是。要是被我抓到小偷，肯定往死里打。</p>
+<p>由于钱包丢了，老是心不在焉的，买东西忘记找钱，公交坐过站 ,书包不拉拉链，状态太不好了。</p></div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -443,56 +485,6 @@
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/blogs/539">编译软件</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-01-21T00:00:00+08:00" pubdate data-updated="true">Jan 21<span>st</span>, 2011</time>
-        
-         | <a href="/blog/blogs/539#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>最近编译了几个软件，也想记录点心得，索性就写点东西。用ubuntu时，在没有编译过专业上用的软件之前，我一直以为所有的软件都可以从源里apt-get安装。后来专业上要用lblrtm，在ubuntu上装不上ifort，可能是我比较拙的原因，后来安装opensuse成功安装了。</p>
-<p>要编译软件，首先得先装好编译工具，一般就是gcc之类的，以前看过一些gcc编程，可是没有坚持下来，但是思想还是有一点的。对于专业上的软件，像我用的那些都是老外为服务器编写的，用intel的编译器可能会顺利些，其它gfortran也不是不可能编译，就是会遇到这样那样的麻烦，为了简单方便能装intel的编译器，连系统都换掉了。</p>
-<p>编译小软件一般比较简单，一般就是\<br />
-./configure\<br />
-make\<br />
-sudo makeinstall\<br />
-有脚本的就更简单，直接运行一下就成。</p>
-<p>先说昨天编译的几个软件:<br />
-vpnclient：前一阵一直以为是我电脑的问题，老是编译不了，后来仔细看log才发现电脑上少了个库文件，网上搜了下，直接链接到lib就成，接着就按照小软件的编译方法弄好</p>
-<p>recoll：这个软件我尝试着编译过好几次，可是都搞不定，说是缺少xapian-core支持，还有我./configure的时候有几个no，网上也没有找到比较好的教程。安装软件当然从库里安装最简单，opensuse比较好，可以从源里安装，还可以用package search安装一些不常用的软件，刚好搜到xapian-core就从源里安装了，但是xapian-omega没有，只好下源码自己来，编译时间很长不过幸运的是没有报错。既然已经编译了xapian-omega，于是又重新把xapian-core也编译了下，下面就是编译recoll的源码，一直很顺利，可是到最后链接时候出问题了，说找不到lpng库，google了一下什么都没有，这下难搞了。想法电脑上应该有些类库，于是按照编译vpnclient的方法，去链接了一个lpng库，再编译一切正常。运行recoll，程序是打不开xapian什么库，我肏，白折腾一晚上。软件用不了，那就删吧，先从源里删掉xapian，然后根据编译的路径删手动编译的库，期间还删掉以前用过但不常用的几个软件，清理文件夹的时候发现了recoll，和其它的文件混在一起，于是双击居然能运行，然后测试了搜索中文也行，太不可思议了。编译recoll到此结束。</p>
-<p>lblrtm：这个软件是我去年初编译的，最初编译时候是刚开始做项目时候，当时什么都不懂，也不会linux，折腾了好多天都搞不定，去年linux用得比较熟悉了，又装了ifort，按照说明书改了makefile文件，注释掉报错的程序，后来编译成功了，接着在win下也编译成功，这部分内容也成了我毕业论文的一部分。从编译这个软件一点收获是，编译这样的大程序，要用intel的编译器，需要会点makefile。这些大程序一般都是为服务器应用的，可能和我们小PC机有点不一样。</p>
-<p>sciatran：编译了sciatran后也想折腾出来了，后来发现不行，问别人是缺少库文件。这边很多资源都不共享，只好自己折腾，看了编译手册，需要自己编译两个库文件。于是动手，程序自带的makefile是针对gfortran，gmake以后一切正常，然后将编译好的库文件cp到lib，编译sciatran报错，一看原来程序运行是针对ifort的，难怪不行。现在唯一一条路就是统一编译器，要么全用gfortran，要么就用ifort。自己去改sciatran的makefile不现实，在网上求助大拿也没人理我，那只好去弄lapack的makefile了，找了几个例子胡填了下还真能运行，按手册cp，然后再用ifort编译sciatran就不出错了，很顺利的得到了编译好的文件。</p>
-<p>写了这么多，也算是点收获吧，以后遇到这样的问题应该好解决了</p>
-<p>PS：是上在cb上看到linux下安装vps，有人说apt-get安装软件飘过，然后被下在人狂骂说一桶水不满，半桶水晃。哈哈：）</p></div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/blog/page/8/">&larr; Older</a>
@@ -517,6 +509,10 @@ vpnclient：前一阵一直以为是我电脑的问题，老是编译不了，�
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/blog/2012/03/10/facing-the-chaohu-with-spring-blossoms/">面朝巢湖，春暖花开</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/blog/2012/02/27/new-toy-fitbit/"> 新玩具：fitbit</a>
       </li>
     
@@ -530,10 +526,6 @@ vpnclient：前一阵一直以为是我电脑的问题，老是编译不了，�
     
       <li class="post">
         <a href="/blog/blog/2012/02/17/2012from-zero-to-start/">从零开始</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/blog/2012/02/15/2012-january-books/"> 一月份的书</a>
       </li>
     
   </ul>
