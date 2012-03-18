@@ -9,8 +9,7 @@
   <meta name="author" content="Dinohu">
 
   
-  <meta name="description" content="一直想写一篇这样的文章，也可以给自己这几年用过的电脑操作系统做个总结。可是最近有严重的拖延症，想做的事一直都往后拖。
-到现在用过的操作系统有三个，windows, linux, masos，一直想选定一个最常用的操作系统，但是各有各和好处，很难抉择。下面的比较也分成两方面来写：工作和娱乐。 &hellip;">
+  <meta name="description" content="狗日的win7在没有经过我同意给我安装更新然后重启了，因为我设置开机首先进入opensuse，也懒得重启了，不过也好可以保持本子温度不太高，最近几天天气比较热再加上我怀疑风扇可能堵掉了，win7正常进行温度在60多度，如果再运行几个程序和加上腾迅那几个莫名其妙的进程，本子的工作温度在70多度， &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -78,6 +77,54 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/blogs/117">在ipad2上安装VNC View远程连接到opensuse</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-07-17T00:00:00+08:00" pubdate data-updated="true">Jul 17<span>th</span>, 2011</time>
+        
+         | <a href="/blog/blogs/117#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>狗日的win7在没有经过我同意给我安装更新然后重启了，因为我设置开机首先进入opensuse，也懒得重启了，不过也好可以保持本子温度不太高，最近几天天气比较热再加上我怀疑风扇可能堵掉了，win7正常进行温度在60多度，如果再运行几个程序和加上腾迅那几个莫名其妙的进程，本子的工作温度在70多度，尤其是掌托那个地方，我都不敢把手放在本子上面打字。</p>
+<p>用win7的时候冰点价买了splash top，这个软件非常好用，把远程的画面重新渲染了而且还可以使声音传到ipad上，看高清的电影也还算可以，可能由于网络的原因有时会有点小卡，冰点购入绝对对得起这个价格。</p>
+<p>可是这个软件只在win和mac下提供客户端，用了linux就没法用，如果半夜起来想看看电脑上的东西还要起床。不过还好，这些软件都是基于VNC的，在linux使用vnc应该不是难事。</p>
+<p>放狗随便搜一下说vnc view作为ipad上的客户端比较好，但是还需要在linux下面做一些配置。虽然我用opensuse，但是装软件都会去参考ubuntu的配置方法，实在不行再找suse的。刚开始从源装软件遇到了大问题，家里的网络不如所里面好，好多源都连不上，搞得我软件库不能刷新，删掉不能刷新的源，为此还折腾了大半天。等到软件库能刷新后去装vncserver，发现opensuse根本就不用安装，装系统的时候已经装好了。于是又放狗搜了下怎么配置，一开始觉得挺难，后来才发现非常简单，只需要几行命令就行。</p>
+<p>如何配置参照下面链接：<br />
+<blockquote><br />
+http://www.weithenn.org/cgi-bin/wiki.pl?OpenSuse-VNC_Server%E9%81%A0%E7%AB%AF%E9%80%A3%E7%B7%9A%E4%BC%BA%E6%9C%8D%E5%99%A8</p>
+<p>http://www.docin.com/p-41544271.html</p>
+<p>http://www.5dlinux.com/article/1/2008/linux_18759.html</p>
+</blockquote>
+<p>vncserver是配置好了，但是ipad总连不上，才发现是防火墙的问题，于是关掉防火墙就好了，为了打开防火墙又添加了相应端口。</p>
+<p>用ipad登录到电脑，发现和win下不一样，wind下是共用一个桌面，suse下面两个桌面完全没有关系，而且任务栏也没有了，真是个杯具，上BBS上问了也没人回答。于是又放狗搜分辨率的问题，可是总是改不了分辨率，就这样，不管这么多，能连上就好了。</p></div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -604,115 +651,6 @@
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/blogs/67">我在ipad上装的一些软件</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-04-29T00:00:00+08:00" pubdate data-updated="true">Apr 29<span>th</span>, 2011</time>
-        
-         | <a href="/blog/blogs/67#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>入手ipad一周了，也想记录一下写的软件。</p>
-<p>&nbsp;</p>
-<p>在未买ipad之间，被很多人灌输这想的思想“ipad就是一个大号的itouch”。当用几天之后，发现根本就不是这样，虽然说ipad10寸有屏比itouch3.5寸大很多，就因为屏幕大可以做的事情比itouch多实在太多了。</p>
-<p>&nbsp;</p>
-<p>网上的评测也很多，所以也不想多写，只想写点自己装的比较喜欢的软件，由于买来ipad的时候已经越狱过了，也被装了很多游戏，到手的第一件事就是把这个不需要的软件删掉。自带的软件就不说了，只说自己装过的。</p>
-<p>&nbsp;</p>
-<p>上网类：</p>
-<p>mercury：这个可以多标签，用起来比safari好用多了，safari只要后退就会重新刷新，非常的不爽</p>
-<p>Dowloads HD：应该也是个浏览器，装了还没用，听说比较好用</p>
-<p>AppShopper：英文的可以看有点些软件更新了，限名什么的</p>
-<p>Dropbox：网盘</p>
-<p>Evernote：做笔记很好</p>
-<p>Google：综合了google的多种服务，支持语音输入</p>
-<p>google 地球：地图类</p>
-<p>installous：装破解ipa软件</p>
-<p>iWeekly：周末画报</p>
-<p>Miu Term HD：上bbs专用</p>
-<p><span class="caps">IBBS</span> HD：同上</p>
-<p>Reader：google reader的客户端，感觉不怎么好用</p>
-<p>Shaxam：听声音识别歌曲</p>
-<p>Tuneln Radio：网络收音机</p>
-<p>ZAKER：功能很强的看新闻软件，支持read it later</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>游戏类：</p>
-<p>Angry Birds，这个游戏装了两个，一只公鸟一只母鸟的，玩了一下就退了，到时候打发时间玩</p>
-<p>Asphalt 6：类似极品飞车的，也只玩了一下，太忙没时间玩</p>
-<p>GuerrillaBob：打枪的，很像小时候玩的那个西部牛仔，挺有意思</p>
-<p>Labyrinth 2HD：平衡类游戏，ipad太重端着有点累</p>
-<p>PianoMan：钢琴游戏，没怎么玩</p>
-<p>TrainConduct：以前在itouch上装过，还不错的游戏，限免的时候装的，一直没玩</p>
-<p>捕鱼达从：游戏厅里那种抓鱼的，以前去玩的时候不怎么会玩，这个在ipad上可以实现一下了</p>
-<p>&nbsp;</p>
-<p>视频：</p>
-<p>airVideo：这个可以把电影放到电脑上，让电脑做服务器来看电影，如果格式不对自己会自动的转</p>
-<p>iDispaly：把电脑屏幕输出到ipad上，比较占CPU</p>
-<p>AVPlayerHD：非常喜欢的播放器，用他以后就不用转格式了，不过昨天看一个5G多720P的电影就有点卡，4G的还行</p>
-<p>BUZZPlayer：这个功能和上面的差不太多吧，没怎么用</p>
-<p>OPlayer HD：功能同上，视频的装太多了，有点重复</p>
-<p>凤凰移动台HD：看凤凰的，可我网络不给力，有点卡</p>
-<p>新浪大片：新浪视频的客户端</p>
-<p>&nbsp;</p>
-<p>社交类：</p>
-<p>Echofon：twitter的客户端，比官方的好就好有能收很多推，官方好像就200条就断了</p>
-<p>QQ HD：这个就不说了，大家都知道</p>
-<p>Twitter：twitter官方客户端，非常的喜欢，支持多种手势</p>
-<p>微博HD：不太喜欢新浪微博，但也时常上去看看</p>
-<p>&nbsp;</p>
-<p>工具类：</p>
-<p>Applinks：链接软件安装文件夹</p>
-<p>AppPusher：一个限名软件的push</p>
-<p>Compass：指南针，这个让我出乎意料</p>
-<p>Doit：doit.im的客户端，GTD软件，多平台具享，很好用</p>
-<p>GoodReader：强大的阅读软件，基本上什么格式都支持</p>
-<p>iBooks：官方的阅读软件，支持书架，和Gooder各有所长</p>
-<p>IFile：文件管理器</p>
-<p>iSHSHit：备份shsh用的</p>
-<p>Ithoughts HD：脑图软件，和电脑上imindmap差不多</p>
-<p>Mindo：脑图软件，和电脑上mind manger差不多</p>
-<p>Office2 HD：看office的软件，感觉一般</p>
-<p><span class="caps">PDF</span> Snapshot：可以生成PDF的软件</p>
-<p>PDFreader：PDF阅读器</p>
-<p>Stanza：阅读软件，支持epub和在线书库</p>
-<p>UPAD：做笔记的软件，要是有支电容笔就好了</p>
-<p>百度输入法：输入法，要是有五笔画就好了，带五笔，在这种屏幕上不会打字了</p>
-<p>&nbsp;</p>
-<p>网络视频：</p>
-<p>直接上网站上就行，toudou,youku,cctv,sina,souhu,pptv都有给ipad看视频的网站，不过电脑上用不了</p>
-<p>&nbsp;</p>
-<p>cydia:</p>
-<p>cydia里安了也不少，activator,pplist,GFWinterceptor好像不能用，Multifl0w，openssh,remove bsckground,RetinaPad好像不能用，Sbsettings，SwitcherMod等</p>
-<p>&nbsp;</p>
-<p>终于写完了，手放到掌托上好热，软件就总结这么多，以后再补充。</p></div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/blog/page/7/">&larr; Older</a>
@@ -737,6 +675,10 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/blog/2012/03/18/badminton-training-3/">羽毛球训练3</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/blog/2012/03/10/2012-february-books/"> 二月份的书</a>
       </li>
     
@@ -750,10 +692,6 @@
     
       <li class="post">
         <a href="/blog/blog/2012/02/23/first-buy-global/"> 海购第一单</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/blog/2012/02/18/2012new-route/">新路线</a>
       </li>
     
   </ul>
