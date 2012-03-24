@@ -4,7 +4,7 @@
   <title><![CDATA[华华的OCTOPRESS BLOG]]></title>
   <link href="http://dinohu.github.com/blog/atom.xml" rel="self"/>
   <link href="http://dinohu.github.com/blog/"/>
-  <updated>2012-03-18T21:22:22+08:00</updated>
+  <updated>2012-03-24T20:25:57+08:00</updated>
   <id>http://dinohu.github.com/blog/</id>
   <author>
     <name><![CDATA[Dinohu]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[FitBit 使用记录]]></title>
+    <link href="http://dinohu.github.com/blog/blog/2012/03/24/fitbit-use-record/"/>
+    <updated>2012-03-24T20:24:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blog/2012/03/24/fitbit-use-record</id>
+    <content type="html"><![CDATA[<p>fitbit使用一个月了，现在也有了一些数据，基本上可以代表我每天的活动量，fitbit自己有比较好的分析功能，但是要收费的,50$一年，实在是太贵了，他的7天免费试用被我浪费了，所以我就自己统计数据看看吧。</p>
+
+<p><img src="https://lh4.googleusercontent.com/-6PyVoHCI30U/T2256nQw46I/AAAAAAAAArs/GjQCvewQaxc/s573/Fitbit%2520Dashboard-195914.png" alt="卡路里消耗" /></p>
+
+<p><img src="https://lh5.googleusercontent.com/-le9-_IWJVcM/T2256ojFGGI/AAAAAAAAArw/vPUB1banFOo/s571/Fitbit%2520Dashboard-200047.png" alt="Step" /></p>
+
+<p><img src="https://lh4.googleusercontent.com/-zTIcdkY0hBE/T2256oyk6nI/AAAAAAAAAr0/eKVt4qOlDWw/s572/Fitbit%2520Dashboard-200405.png" alt="Distance" /></p>
+
+<p><img src="https://lh5.googleusercontent.com/-e5CpjNFqTSM/T2257NSzy7I/AAAAAAAAAsE/d8lBUUXHA2c/s570/Fitbit%2520Dashboard-200432.png" alt="Floors" /></p>
+
+<p><img src="https://lh3.googleusercontent.com/-RDtJ-4umy_g/T2257KblodI/AAAAAAAAAsI/WnEQKCxIRD0/s572/Fitbit%2520Dashboard-200458.png" alt="Active" /></p>
+
+<p><img src="https://lh5.googleusercontent.com/-jokTemZoBEg/T2257RG6wTI/AAAAAAAAAsU/jXxCxxCDCzs/s572/Fitbit%2520Dashboard-200604.png" alt="Sleep hour" /></p>
+
+<p> 从总的数据来看，每天消耗卡路里在2500左右，行走1000步，大约7公里，每天睡眠7个半小时，总得来说，还是比较健康的，但是为了减肥，还需要加大点运动量才好。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[羽毛球训练3]]></title>
@@ -580,33 +603,6 @@ aws.amazon.com</p>
 <li>买了kindle</li>
 <li>读了几本书　 </li>
 <p></ul><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2011/12/wpid373-vimpress_4efee53f_mkd.txt wpid373-vimpress_4efee53f_mkd.txt --></p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[几件要坚持的事]]></title>
-    <link href="http://dinohu.github.com/blog/blogs/364"/>
-    <updated>2011-12-30T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/blogs/364</id>
-    <content type="html"><![CDATA[<p>要新年了，该总结的地方要总结，最近想到的一些事情，多写点吧！有些事情坚持了很久，已经成了习惯，希望能够继续保持。</p>
-<ol>
-	<li>每天
-	<ol>
-		<li>记账<br />
-<p>自从工作以来，想对自己的开支有所了解，到底钱是怎么花掉的，于是从８月份来开始保持每天记账的习惯，到现在为止已经坚持了四个多月了，是一件非常好的事情。当时一直在为这账怎么记发愁，还在小本子上记了几天的账，还好现在有比较智能的软件每月的开支。下载了很多免费的都不怎么好用，要么就是小公司做的还要钱，既然收钱了我不如买大公司的产品，那样服务就更多，为了在电脑，ipad上能够同步，狠心花了20块钱搞了个随手记的pro版，主要是为了他的PC上那个软件，到时候回家也可以给爸妈用。</p><br />
-<p>虽然说该花的钱还是要花，但天天记账总能做到心中有数，记账初期记得还比较详细，后来只能精确到圆，再后来只能精确到十圆了，还好是一个数量级内的差多少也无所谓。</p></li>
-		<li>写日记<br />
-<p>写日记的习惯是前一阵装了vimwiki才开始的，以前也写过一阵子，但是由于自己太懒，坚持一阵子就不想写了，现在又重拾起来，反正写日记又不写什么心得，流水账似的记一下就好，花不了多少时间，如果把一件事当做和每天的吃饭，长久了一定能养成习惯。</p></li>
-		<li>阅读<br />
-<p>住的地方离办公室比较近，平时就窝在办公室里，所以也没有装宽带，晚上回去也就洗漱一下就睡了，但也是会有睡不着的时候，看书是最好的催眠方式，自从买了kindle3以后，晚上睡前浏览翻几页书，也是很惬意的。</p></li>
-	</ol></li>
-	<li>每周
-	<ol>
-		<li>锻炼<br />
-<p>以前还挺喜欢运动的，每周至少要打两到三次篮球或者出去骑骑车，自从工作以来去锻炼的次数就越来越少越来越少已经减到现在的没有。上周末的羽毛球比赛由于长时间不锻炼体力不支被别人打爆以后，就想着每周总该抽点时间出去锻炼下，一是为了身体健康，二还能放松放松。可是这大冷天的，打球又不太合适，骑车又太冷，实在想不出什么项目，又是那句话，等明年开春吧，不知道又要肥多少斤。年底了，对来年总有个计划吧，这个应该是工作之余排在前面的。</p></li>
-		<li>写博客<br />
-<p>自从四月份搭建了个人博客到现在８个月不到250多天已经写了50多篇博客之后，现在翻翻原来的记录，还是挺有意思的，虽然文笔不好比不上那些自由撰稿人，但是能为自己写点东西也是挺不错的。还记得大学毕业时bingjie带我一起玩始玩的，也在不同的地方写的，什么live space，qq zone，然后就是现在自己搭的这个，前一阵有空把以前写的东西再翻出来，好多事情已经不太记得了，但是笔下的那些文字又让我回忆起了从前，很有意思。现在也不追求要写出多么好的东西，能写点是一点，养成习惯就好。</p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2011/12/vimpress_4efda010_mkd.txt vimpress_4efda010_mkd.txt --></li>
-	</ol></li>
-</ol>]]></content>
   </entry>
   
 </feed>
