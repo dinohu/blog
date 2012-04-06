@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 博客技术 | 华华的OCTOPRESS BLOG]]></title>
   <link href="http://dinohu.github.com/blog/blog/categories/博客技术/atom.xml" rel="self"/>
   <link href="http://dinohu.github.com/blog/"/>
-  <updated>2012-03-25T21:43:52+08:00</updated>
+  <updated>2012-04-06T21:34:52+08:00</updated>
   <id>http://dinohu.github.com/blog/</id>
   <author>
     <name><![CDATA[Dinohu]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ 又要一年续费时]]></title>
+    <link href="http://dinohu.github.com/blog/blog/2012/04/06/renewals/"/>
+    <updated>2012-04-06T21:33:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blog/2012/04/06/renewals</id>
+    <content type="html"><![CDATA[<p>最近太忙了，回家，同学婚礼，清明节，连着一个多星期除了玩就是玩了，回来又要折腾其它事情，等忙完了就又可以清闲一下。</p>
+
+<p><a href="http://hengtian.org">衡天小张</a>还算不错，续费的单子在一个月前就已经发到我邮箱，还有半个月又提醒怕我忘记了续费了。本来想着等有给力的活动时候续费一下，最近除了315之外就没给力活动，之后又拖了几天一直没活动了，再拖下去域名空间都要过期，之后麻烦事就多了，虽然说空间每周都进行备份，我还有一个<a href="http://dinohu.github.com/blog">备份博客</a>，暂时还没有域名，只好先用github的二级域名，这个域名应该被墙了，有手段的同学访问应该没有问题，等有时间再折腾个便宜点的域名。</p>
+
+<p>去年买空间100块，然后送了一个域名和一个SSH，但是今年续费的费用就高了，空间费用100块没变，域名续费要150，如果自己去年自己申请一个域名今年再续费也要100多块，为了避免不必要的麻烦，就多花点钱找个代理商买吧，可是这个域名控制权不在自己手里真不爽，到时候想转让都转让不了，我想我应该不会转的吧。</p>
+
+<p>细数了一下从去年买了空间和域名自己搭建独立博客以后，总共写了70多篇博客，基本上能达到5天记一些流水账，多年以后再翻翻应该会有很多感慨。买了空间和域名，不但学会了如何搭博客，怎么FQ，搭建API，学了点点php，markdown还有octopress，虽然说浪费了不少的时间，还是有些收获。</p>
+
+<p>不管怎么样，花了250续了空间和域名的费用，来年继续努力，坚持下去。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[octopress参考]]></title>

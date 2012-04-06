@@ -4,7 +4,7 @@
   <title><![CDATA[华华的OCTOPRESS BLOG]]></title>
   <link href="http://dinohu.github.com/blog/atom.xml" rel="self"/>
   <link href="http://dinohu.github.com/blog/"/>
-  <updated>2012-03-25T21:43:52+08:00</updated>
+  <updated>2012-04-06T21:34:52+08:00</updated>
   <id>http://dinohu.github.com/blog/</id>
   <author>
     <name><![CDATA[Dinohu]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ 又要一年续费时]]></title>
+    <link href="http://dinohu.github.com/blog/blog/2012/04/06/renewals/"/>
+    <updated>2012-04-06T21:33:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blog/2012/04/06/renewals</id>
+    <content type="html"><![CDATA[<p>最近太忙了，回家，同学婚礼，清明节，连着一个多星期除了玩就是玩了，回来又要折腾其它事情，等忙完了就又可以清闲一下。</p>
+
+<p><a href="http://hengtian.org">衡天小张</a>还算不错，续费的单子在一个月前就已经发到我邮箱，还有半个月又提醒怕我忘记了续费了。本来想着等有给力的活动时候续费一下，最近除了315之外就没给力活动，之后又拖了几天一直没活动了，再拖下去域名空间都要过期，之后麻烦事就多了，虽然说空间每周都进行备份，我还有一个<a href="http://dinohu.github.com/blog">备份博客</a>，暂时还没有域名，只好先用github的二级域名，这个域名应该被墙了，有手段的同学访问应该没有问题，等有时间再折腾个便宜点的域名。</p>
+
+<p>去年买空间100块，然后送了一个域名和一个SSH，但是今年续费的费用就高了，空间费用100块没变，域名续费要150，如果自己去年自己申请一个域名今年再续费也要100多块，为了避免不必要的麻烦，就多花点钱找个代理商买吧，可是这个域名控制权不在自己手里真不爽，到时候想转让都转让不了，我想我应该不会转的吧。</p>
+
+<p>细数了一下从去年买了空间和域名自己搭建独立博客以后，总共写了70多篇博客，基本上能达到5天记一些流水账，多年以后再翻翻应该会有很多感慨。买了空间和域名，不但学会了如何搭博客，怎么FQ，搭建API，学了点点php，markdown还有octopress，虽然说浪费了不少的时间，还是有些收获。</p>
+
+<p>不管怎么样，花了250续了空间和域名的费用，来年继续努力，坚持下去。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ 羽毛球训练4]]></title>
@@ -499,92 +516,6 @@
 <a href="http://laoyang945.github.com/switch-to-octopress/">http://laoyang945.github.com/switch-to-octopress/</a>
 <a href="http://www.yangzhiping.com/tech/octopress.html">http://www.yangzhiping.com/tech/octopress.html</a>
 <a href="http://blog.fangjian.me/posts/2011/12/18/migrate-wordpress-to-octopress/">http://blog.fangjian.me/posts/2011/12/18/migrate-wordpress-to-octopress/</a></p></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[amazon退款记]]></title>
-    <link href="http://dinohu.github.com/blog/blog/2012/01/06/amazon-aws/"/>
-    <updated>2012-01-06T20:25:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/blog/2012/01/06/amazon-aws</id>
-    <content type="html"><![CDATA[<p>在这里不得不说amazon是一家非常不错的公司，我误用了它static IP服务，再我的申诉下它给我退款了，也就区区$6.11，工作人员给我很详细的回了邮件，并在邮件中教我怎么样取消服务。</p>
-
-<p>在看了 <a href="https://twitter.com/#!/wangpei">@wangpei</a>老师写得在amazon被猫买误买书退款书的文章下，我想我也可以试试，如果成功了，挽回了自己的损失，不成，就当花钱买个教训，谁让自己手欠开这么多服务呢？！
-wangpei老师的两篇文章：</p>
-
-<blockquote><p><a href="http://www.baibanbao.net/mylife/when-my-cat-bought-me-a-book-on-amazon/">http://www.baibanbao.net/mylife/when-my-cat-bought-me-a-book-on-amazon/</a>
-<a href="http://www.baibanbao.net/tech/no-one-can-stop-amazon/">http://www.baibanbao.net/tech/no-one-can-stop-amazon/</a></p></blockquote>
-
-<p>amazon aws服务并没有留下联系邮箱，至少我找了很久没找到，于是在contract us页面里找到Email AWS Account and Billing Support后填写了一个单子，包括邮件地址，AWS账号，姓名等，然后大概一天多以后收到了它们邮件的回复说可以退钱给我，但要等几个工作日。</p>
-
-<p>邮件大致的意思说，我账户产生的费用是正常的，费用是我选取了额外服务所产生的，但是出于第一次礼貌，可以把钱退给我，钱将会在几个工作日退还到我的信用卡中。</p>
-
-<p>我可真的没有想到amazon会把钱退给我，它真是一个伟大的公司。</p>
-
-<p>下面是邮件的内容：</p>
-
-<hr />
-
-<p>&#8212;- Original message: &#8212;-</p>
-
-<p>AWS AccountId           0696924<code>*****</code>
-email           <code>*****</code>@gmail.com
-accountnumber           0696924<code>*****</code>
-name            <code>*****</code>
-subject         about Amazon Web Services the bill
-message         Dear sir:</p>
-
-<p>Sorry to tell you that I am in trouble. Half a year ago, your AWS service and static IP service is free. Last month, I applied  your AWS service and static IP, but there is no prompt to tell me that the static IP service has started charging. In the case of unknown I have used this service for a month. When I in the bus the bank send a sms to tell the the credit card is charged. I don&#8217;t know what has happened. So I called the bank to suspend the credit card. I think you also have some responsibility, because you did not inform the user the charging of the services .</p>
-
-<p>I wonder if you could kindly refund me for this accidental use? I have canceled all aws services. My account is ***@gmail.com.</p>
-
-<p>Thank you for your attention.</p>
-
-<p>Yours Sincerely</p>
-
-<hr />
-
-<p>amazon aws的回复：</p>
-
-<hr />
-
-<p>Hello <code>***</code>,</p>
-
-<p>I&#8217;m sorry for the inconvenience this may have caused you. I&#8217;ve researched your account and confirmed that the charges incurred on your account are correct.  Although your account is eligible for the AWS Free Usage Tier, your usage charges were based on activity that was outside the specifications of the offer.</p>
-
-<p>As a one-time courtesy, we&#8217;ve approved a refund of the charges in the amount of $6.11. Please allow 3-5 business days for this refund to process.</p>
-
-<p>I&#8217;ve reinstated your account for you to log in and release the Un-attached elastic IP address and stop any running instance. Once you have done so you can close your AWS account as you like.</p>
-
-<p>You can use the EC2 API command line tools to release the Elastic IP address with this command:</p>
-
-<pre><code>  ec2-release-address
-</code></pre>
-
-<p>You can also release the Elastic IP address using the AWS Management Console:</p>
-
-<p><a href="http://console.aws.amazon.com/ec2">http://console.aws.amazon.com/ec2</a></p>
-
-<p>If you are unsure which AWS Region your Elastic IP Address resides in, please be sure to check in each Region using the Region drop-down list in the upper portion of the left hand navigation panel.</p>
-
-<p>I hope this helps.</p>
-
-<p>Thank you for your recent inquiry. Did I solve your problem?</p>
-
-<p>If yes, please click here:</p>
-
-<blockquote><p><a href="http://www.amazon.com/gp/help/survey?p=A2DCX6DWVDCETG&amp;k=hy">http://www.amazon.com/gp/help/survey?p=A2DCX6DWVDCETG&amp;k=hy</a></p></blockquote>
-
-<p>If no, please click here:</p>
-
-<blockquote><p><a href="http://www.amazon.com/gp/help/survey?p=A2DCX6DWVDCETG&amp;k=hn">http://www.amazon.com/gp/help/survey?p=A2DCX6DWVDCETG&amp;k=hn</a></p></blockquote>
-
-<p>Best regards,</p>
-
-<p><code>*****</code>
-aws.amazon.com</p>
-
-<hr />
 ]]></content>
   </entry>
   
