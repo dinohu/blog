@@ -1,0 +1,304 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>神经网络分类 - 华华的OCTOPRESS BLOG</title>
+  <meta name="author" content="Dinohu">
+
+  
+  <meta name="description" content="最近看文献又看到了BP神经网络和RBF神经网络分类，觉得这个很有意思，可以在上面做些工作，RBF是去年就看到过，研究过一阵，没有得到什么结果，这次有空来好好折腾一下就可以放手了。
+我用matlab比较多，刚好matlab也有神经网络的工具箱，顺手可以试下，但又想研究一下它的原理，只好自己写程序了， &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://dinohu.github.com/blog/blogs/742">
+  <link href="/blog/favicon.png" rel="icon">
+  <link href="/blog/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/blog/javascripts/modernizr-2.0.js"></script>
+  <script src="/blog/javascripts/ender.js"></script>
+  <script src="/blog/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/blog/atom.xml" rel="alternate" title="华华的OCTOPRESS BLOG" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-22809017-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/blog/">华华的OCTOPRESS BLOG</a></h1>
+  
+    <h2>我是华华，这是我的OCTOPRESS博客</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/blog/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:dinohu.github.com/blog" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/blog/">Blog</a></li>
+  <li><a href="/blog/blog/archives">Archives</a></li>
+  <li><a href="/blog/about">我是?!</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">神经网络分类</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-09-07T00:00:00+08:00" pubdate data-updated="true">Sep 7<span>th</span>, 2012</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>最近看文献又看到了BP神经网络和RBF神经网络分类，觉得这个很有意思，可以在上面做些工作，RBF是去年就看到过，研究过一阵，没有得到什么结果，这次有空来好好折腾一下就可以放手了。</p>
+<p>我用matlab比较多，刚好matlab也有神经网络的工具箱，顺手可以试下，但又想研究一下它的原理，只好自己写程序了，书上的原理全是工式基本上是看不懂，程序网上下的，用自己的数据试了下可以用，那就反过来先用再理解理。</p>
+<p>BP和RBF神经网络，大体上结构差不多，就是有个输入层，一个隐含层，再一个输出层，这样说可以不太好理解。我主要想拿它来做分类，说白点就是我拿一些乱七八糟的东西给仓库管理员，让它以我给定的规则分好类，这也就是神经网络所说的训练，这样东西就入库了，我再拿一些同样的东西来入库，管理员就会给我一个清单我这些东西放到了哪些地方，很多工具都是这么做的。</p>
+<p>先说下BP的方法，看起来比较简，算起来比较快，基本上分成三步走：BP神经网络构建，训练网络，再分类。数据是需要初始化的，一般就是做个归一化处理，否则预测误差会很大。再接着就是隐含层计算，输出层计算，计算观测和期望值误差，如果达不到标准，就更新权值，再算一遍，直到达到标准计算结束。尝试了几组数据，计算结果都还比较理想。</p>
+<p>RBF方法也差不多，原理公式上我也说不清楚，现在只达到了会用的阶段，算的速度比BP慢很多，但分类的准确性高了很多，时间换精度嘛，否则大家都用BP了，不过最近看的文献大家用BP比较多，应该是算的快的缘故吧。拿BP的数据测试了一下，如果不自己设置精度，有时候要算个大半天挺不爽，反正我是拿来用，只要是好用就行了。</p>
+<p>神经网络的方法还很多，文献里看到有预测股市的，有兴趣也可以拿来预测一下，不过以前看过卡尔曼滤波可以做，但一直没研究会，等有空折腾吧。</p>
+
+	<ol>
+		<li>参考资料<br />
+<p>MATLAB神经网络30个案例分析<br />
+ RBF人工神经网络的分类和回归方法的仿真实例</p></li>
+		<li>参考文献<br />
+<p>下得比较多，不列了，基本上没什么用，讲了一堆废话，没什么参考价值。</p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/09/wpid741-vimpress_5049e663_mkd.txt wpid741-vimpress_5049e663_mkd.txt --></li>
+	</ol></div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Dinohu</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-09-07T00:00:00+08:00" pubdate data-updated="true">Sep 7<span>th</span>, 2012</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://dinohu.github.com/blog/blogs/742" data-via="dinohu" data-counturl="http://dinohu.github.com/blog/blogs/742" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/blogs/733" title="Previous Post: 自驾九华山">&laquo; 自驾九华山</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/blogs/745" title="next Post: LIBS 自由定标方法">LIBS 自由定标方法 &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Contract Me</h1>
+  <p>A little something about me.</p>
+  <p>Gmail: ssshzh AT gmail.com</p>
+  <p>Blog: <a href="http://hzh.me">Blog</a></p>
+  <p>Twitter: <a href="http://twitter.com/dinohu">@Dinohu</a> </p>
+</section>
+<section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/blog/2012/09/29/sui-shou-lan-ji-liu-shui-zhang-20120505/">随手烂记流水账20120505</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/blog/2012/09/28/xing-che-%3Ahuan-dang-he-dai-dang-hua-xing/">行车：换档和带档滑行</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/blogs/790">写论文如同打怪</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/blogs/772">福克斯1.8mt开启瞬时油耗(平均)等</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/blogs/765">kindle3 3G+wifi 刷多看系统</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("dinohu", 4, false);
+    });
+  </script>
+  <script src="/blog/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/dinohu" class="twitter-follow-button" data-show-count="false">Follow @dinohu</a>
+  
+</section>
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Dinohu -
+  <span class="credit">Powered by <a href="http://hzh.me">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'dinohu.disqus.com';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://dinohu.github.com/blog/blogs/742';
+        var disqus_url = 'http://dinohu.github.com/blog/blogs/742';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
