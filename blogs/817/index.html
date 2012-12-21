@@ -1,0 +1,304 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Mutt 配置 - 华华的OCTOPRESS BLOG</title>
+  <meta name="author" content="Dinohu">
+
+  
+  <meta name="description" content="一开始玩Linux的时候就听说过mutt，只知道它是在命令行下的一个收发邮件的东西，对命令行不太感冒，所以也没怎么折腾过，看一些大牛都是用mutt收发邮件，觉得很有意思，但是一直来都比较依赖Thunderbird，收，发，备份，转移都很方便。也不知道哪根神经搭错，前一阵想折腾下mutt了， &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://dinohu.github.com/blog/blogs/817">
+  <link href="/blog/favicon.png" rel="icon">
+  <link href="/blog/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/blog/javascripts/modernizr-2.0.js"></script>
+  <script src="/blog/javascripts/ender.js"></script>
+  <script src="/blog/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/blog/atom.xml" rel="alternate" title="华华的OCTOPRESS BLOG" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-22809017-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/blog/">华华的OCTOPRESS BLOG</a></h1>
+  
+    <h2>我是华华，这是我的OCTOPRESS博客</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/blog/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:dinohu.github.com/blog" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/blog/">Blog</a></li>
+  <li><a href="/blog/blog/archives">Archives</a></li>
+  <li><a href="/blog/about">我是?!</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Mutt 配置</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-11-15T00:00:00+08:00" pubdate data-updated="true">Nov 15<span>th</span>, 2012</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>一开始玩Linux的时候就听说过mutt，只知道它是在命令行下的一个收发邮件的东西，对命令行不太感冒，所以也没怎么折腾过，看一些大牛都是用mutt收发邮件，觉得很有意思，但是一直来都比较依赖Thunderbird，收，发，备份，转移都很方便。也不知道哪根神经搭错，前一阵想折腾下mutt了，搜集了好多资料，看得云里雾里，也许是心急吃不了热豆腐，没有把别人配置看完就照葫芦画瓢搬到自己电脑上，一运行发现报错！！！刚好今天有空又看了遍，把自己没装的，没有的文件那几行都注释掉，运行后果然行了。</p>
+<p>我是按照篇<a href="http://home.ustc.edu.cn/~lixuebai/GNU/MuttConfig.html">文章</a>来配置的，因为我也有科大的邮箱，所以大体上差不多，差就差在我没有地址薄，所以运行时候报错了。</p>
+<p>我有三个常用的邮箱，分别收不同类别的邮件，弄好一个当然想再弄一个，gmail是比较常用，网上教程也比较我，可是我就弄不懂怎么在一个脚本里收三个邮箱，搜了好多资料，写得也不清楚，那慢慢试吧，从一个脚本里发现分别每个邮箱写一个配置，然后用脚本去收三个邮箱，但是这样在mutt下面按shift+g还是只收一个邮箱，用corntab自动收吧，实在不行就用命令行。</p>
+<p>按定第二个邮箱最后就剩下hotmail的，从thunderbird里查看了服务器配置，照搬上去发现成功了，刚开始入门是比较难，后来算是比较顺利了。平时不想打开胖大的thunderbird时候就用mutt检查下邮件应该也不错，：）</p>
+<ol>
+	<li>参考资料<br />
+<p>http://home.ustc.edu.cn/~lixuebai/<span class="caps">GNU</span>/MuttConfig.html<br />
+http://docs.huihoo.com/homepage/shredderyin/mutt_frame.html<br />
+http://blog.chinaunix.net/uid-22432395-id-3367862.html<br />
+http://yi1.com.cn/posts/725<br />
+http://blog.csdn.net/orzorz/article/details/5822680<br />
+http://bb2hh.blogbus.com/logs/36283857.html<br />
+http://xhc.me/wp-content/uploads/mutt/manual_1.5.19_zh.html<br />
+http://tieba.baidu.com/p/823132126</p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/11/vimpress_50a4a323_mkd.txt vimpress_50a4a323_mkd.txt --></li>
+</ol></div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Dinohu</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-11-15T00:00:00+08:00" pubdate data-updated="true">Nov 15<span>th</span>, 2012</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://dinohu.github.com/blog/blogs/817" data-via="dinohu" data-counturl="http://dinohu.github.com/blog/blogs/817" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/blogs/814" title="Previous Post: TracePro 学习">&laquo; TracePro 学习</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/blogs/825" title="next Post: focus安装定速巡航手柄并开通">focus安装定速巡航手柄并开通 &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Contract Me</h1>
+  <p>A little something about me.</p>
+  <p>Gmail: ssshzh AT gmail.com</p>
+  <p>Blog: <a href="http://hzh.me">Blog</a></p>
+  <p>Twitter: <a href="http://twitter.com/dinohu">@Dinohu</a> </p>
+</section>
+<section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/blogs/856">mac常用软件</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/blogs/841">macbook air 使用小记</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/blogs/835">关于买房</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/blogs/832">中期、开题</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/blogs/829">关于google reader</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("dinohu", 4, false);
+    });
+  </script>
+  <script src="/blog/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/dinohu" class="twitter-follow-button" data-show-count="false">Follow @dinohu</a>
+  
+</section>
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Dinohu -
+  <span class="credit">Powered by <a href="http://hzh.me">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'dinohu.disqus.com';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://dinohu.github.com/blog/blogs/817';
+        var disqus_url = 'http://dinohu.github.com/blog/blogs/817';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

@@ -4,7 +4,7 @@
   <title><![CDATA[华华的OCTOPRESS BLOG]]></title>
   <link href="http://dinohu.github.com/blog/atom.xml" rel="self"/>
   <link href="http://dinohu.github.com/blog/"/>
-  <updated>2012-09-29T08:42:32+08:00</updated>
+  <updated>2012-12-21T21:10:06+08:00</updated>
   <id>http://dinohu.github.com/blog/</id>
   <author>
     <name><![CDATA[Dinohu]]></name>
@@ -12,6 +12,268 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[mac常用软件]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/856"/>
+    <updated>2012-12-21T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/856</id>
+    <content type="html"><![CDATA[<p>经过近一周的折腾，按照我自己的习惯把常用的一些软件都装上了，因为不是本人使用，一些比较特别的软件也没有安装，比如说翻墙、科学计算、编程等等，还有一些插件也算了，反正是上网本就上网用吧。</p>
+<p>一共装了几十个软件，能限免的就直接到app store去下了，下不到那就破解吧，唯一一个遗憾就是有一个没装上，按照正常破解去做了还是不行。</p>
+<p><img alt="软件图" src="https://lh4.googleusercontent.com/-wLznWmsx0S0/UNRZZ9XnBrI/AAAAAAAABb8/Z2mbU71hDxA/s786/macbook+air%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6.png" title="macbook air 常用软件" /></p>
+<p>图是在mba上用mindnote pro画的，画好后转成freemind格式在自己电脑上一看，简直就是渣个，惨不忍睹！！</p>
+<p>实用工具<br />
+        AppDelete.app<br />
+        CleanMyDrive.app<br />
+        CleanMyMac.app<br />
+        Droplr.app<br />
+        Evernote.app<br />
+        FileZilla.app<br />
+        Growl.app<br />
+        BatteryHealth.app<br />
+        MusicSeekerX.app<br />
+        Parallels Desktop.app<br />
+        Remote Desktop Connection.app<br />
+        StuffIt Expander.app<br />
+        The Unarchiver.app<br />
+        iStat Menus.app<br />
+    参考<br />
+        Splashtop<br />
+        Thunder.app<br />
+        aMule.app<br />
+        有道词典.app<br />
+    娱乐<br />
+        MPlayerX.app<br />
+        iMovie.app<br />
+        NicePlayer.app<br />
+        Skitch.app<br />
+        Snip.app<br />
+        dRadio.app<br />
+        iPhoto.app<br />
+        iTunes.app<br />
+        uSketch.app<br />
+    工作<br />
+        Autodesk<br />
+        Keynote.app<br />
+        Microsoft Office 2011<br />
+        MindNode pro.app<br />
+        Numbers.app<br />
+        OmmWriter.app<br />
+        Pages.app<br />
+        Sparrow.app<br />
+    社交网络<br />
+        Microsoft Messenger.app<br />
+        QQ.app<br />
+    阅读<br />
+        Kindle.app<br />
+        calibre.app<br />
+        Pocket.app<br />
+        Reeder.app<br />
+        iBooks Author.app</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/12/vimpress_50d45bf8_mkd.txt vimpress_50d45bf8_mkd.txt --></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[macbook air 使用小记]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/841"/>
+    <updated>2012-12-19T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/841</id>
+    <content type="html"><![CDATA[<p>在mba上写了几行实在是觉得苹果的五笔输入法太渣，用拼音又不顺利，索性换到自己的电脑上来写。</p>
+<p>当年我在换电脑的时候就想买一台macbook，但是因为工作的需要，我还是选择了tp x61，如果再让我选一次，可能会选macbook了。前几天@tinyziyu把她才买来才用没几个小时的macbook air丢给我让我帮忙装些软件，用久了win的人刚开始转mac是有点痛苦的，总是拿着win的思维在折腾，虽然我折腾过Hac和linux，有时候也犯晕，看到下载文件夹中的sougouinput.exe我都笑了。</p>
+<p>MBA拿到办公室第一件事就是连接网络，刚边上mac store就提示要更新了，那就更新吧，好再办公室网络比较羽，1个多G的东西几分钟就下完。重启下就开始安装软件，当然我用HAC已很多年，选把几个常用的软件先安上，一般来说就是office之类的，本来想到院ftp网站去下的，无奈没有找到合适的ftp工具上不去，从文件夹进入又是乱码，赶紧到macx.cn上去下个ftp软件，折腾了半天TMD就是装不上，装第三方不信任软件，当年还没有store的时候随便装啊，找了半天安全性里面改为信任任何来源，终于迈出安装软件的第一步。后来发现ftp里的mac软件几百年没更新了，那些又大又要花钱买的软件干脆到mac.cn去下吧，小软件直接在store里搞定。</p>
+<p>在下软件的同时放狗搜了“macbook air 常用软件”</p>
+<p>http://www.douban.com/group/topic/29204728/<br />
+http://irising.me/2011/11/12434/<br />
+http://blog.libing.org/macbook-air.html</p>
+<p>把上面提到我觉得需要装的软件都装上，基本上没有难装的，就是比较烦，特别是在破解时候找文件夹的时候，记得最早时候还有路径可以选，现在不行了，可能有办法让它显示出来，我直接在显示那里转到某个文件夹下面。</p>
+<p><img alt="软件图" src="https://lh4.googleusercontent.com/-wLznWmsx0S0/UNRZZ9XnBrI/AAAAAAAABb8/Z2mbU71hDxA/s786/macbook+air%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6.png" /></p>
+<p>把该装的软件都装好才开始认真把玩下，看了下配置是i5处理器，4G内存，512显存，128G的SSD，铝合金一体成形外壳，这种天气不开空调觉得有点冷，键盘是带背光设计，关了灯看应该是很漂亮，屏幕开到一半就很亮了，可能是因为我4年的x61太老灯管不行了，13寸用1366*768的分辨率把我的x61爆出翔了。钢琴键盘用起来很舒服不费力，就是键程有点短了。</p>
+<p>按照我用电脑的习惯，一般就是打开十几个软件同时用，mba丝毫没有变慢的样子，查了下内存还有一个多G的剩余，safari上网速度非常快，比我在linux下用chrome快了很多，其它软件没多用就不多说。</p>
+<p>刚开始用触摸板挺不习惯的，后来越用越舒服，非常的方便，各种手势的操作，效率提高的很多。一开始上网不知道后退手热一直拿指针点后退好累，后来发现用command+&lt;-也可以，到触摸板操作说明里发现用双指往右一拨就行，还有些操作和ipad上差不多，慢慢摸索吧，如果具体想知道怎么用，直接到设置里慢慢看，还有动画演示，苹果这点做得真贴心。</p>
+<p>如果要拿ipad和mba比，那ipad不过只是个玩具，mba可以做比ipad更多的事情。说了mba这么多好处，自己也已经开始长草，但冷静下来想想该不该买，觉得现在还是老老实实用x61吧，明天ssd就到了，先装个win8玩玩也不错，还有一点，实在是太贵了。</p>
+<p>下面还有一篇文章<br />
+<a href="http://www.zhihu.com/question/20659268">2006 年至今都在使用第一代 MacBook 是怎样的体验？</a></p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/12/wpid840-vimpress_50d1a5e2_mkd.txt wpid840-vimpress_50d1a5e2_mkd.txt --></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[关于买房]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/835"/>
+    <updated>2012-12-13T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/835</id>
+    <content type="html"><![CDATA[<p>去年今年都在看房，也不知道看得什么东西，就拿个房型图，问个价格，回去也没有做些整理，现在想想还不如不去，去了也没什么收获，真是浪费时间。</p>
+<p>现在家里说可以买了，同事有的说可以买了，我也想想应该要出手了吧，虽然还没有买，但也已经有点意向</p>
+<p>下面是我选房的一些要求</p>
+<ol>
+	<li>买房几点考虑</li>
+	<li>买房原因<br />
+<ul><br />
+<li>钱房银行贬值太快，未很好利用</li><br />
+<li>安家</li><br />
+<li>刚性需求</li><br />
+</ul></li>
+	<li>购房选择<br />
+<ul><br />
+<li>地段&gt;</li><br />
+<li>学区&gt;</li><br />
+<li>周边配套&gt;</li><br />
+<li>户型</li><br />
+<li>物业</li><br />
+</ul></li>
+	<li>关于贷款<br />
+<p>必须使用公积金带款，贷款越多越好，时间越长压力越小，使用贷款最高额度与最高年限<br />
+公积金贷款利率较低、首付政策不变、贷款成数较高。</p><br />
+<p>从对房子各方面一点不懂到现在略懂一些，多亏了子羽带我去看房，方总给我做点指导，大宝给我一些建议和意见，丁老师给我一些科谱。</p><br />
+<p>现在多亏了有网络，很多东西都可以在网上查到，然后再做整理和分类，各类比较后再去现场看，看好再做比较，这样心里有数得多。把蜀山区和政务区的房子经过层层筛选后发现我能选的并不多了，这样也好，可以少路几家，省点汽油。折腾了两个星期，弄到一份楼市地图，自己做了个比较表，后来发现还没报纸上弄得好。估计再看个几周吧，现在还是有点纠结。</p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/12/vimpress_50c9c9cc_mkd.txt vimpress_50c9c9cc_mkd.txt --></li>
+</ol>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[中期、开题]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/832"/>
+    <updated>2012-12-13T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/832</id>
+    <content type="html"><![CDATA[<p>又到开题和中期报告的时候了，这应该是我经历的第六个中期开题，我也曾做过两次开题，一次中期，现在看来都离我比较遥远了。</p>
+<p>以前都是报着看热闹的心态来听开题中期的，无非是谁做得ppt好看，谁内容更充实，谁被老板批评得更厉害。现在来说，我主要是看这个能不能做，能出什么样的成果，主要关心研究了什么，而不是做了哪些事，所有使用的软件，仪器都是工具，大不了换一种也能得到同样的结论。很羡慕那些资深研究员能很犀利的抓出问题也在，把混乱的ppt理得条理清楚，大事化小，小事化了，小题大做，这还是需要很多真本事的。而对于我来说，在自己关心的领域还能理清楚，要是碰上不懂的理论，也搞得稀里糊涂，绕不清楚，看来历练的还不够。</p>
+<p>开题很简单，无非就是研究背景意义(为什么要做)，发展现状(别人怎么做)，研究目标，研究方法，可行性分析，目标越少越好，目标多了就没有目标，研究目标和技术路线我也不怎么分得清楚，反正就是怎么做吧，可行性很重要，没有前期的预判往往白费工夫，其实说起来简单，做起来难，经历了这么多年，写起来也常在上面发昏。</p>
+<p>中期比开题容易多了，和开题的内容差不多，把研究方法研究结果一列，然后得个什么结论，最重要就是看发了几篇文章，文章够了也就过了。</p>
+<p>在现在看来，一直在做技术上面的活，怎么做我很清楚，但是从大的背景意义上来说，就是老板说做什么就做什么，提不出一些大的想法，还需要继续锻炼，多写点有用的东西出来，实验、数据分析就交给能做的人吧。</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/12/vimpress_50c9b687_mkd.txt vimpress_50c9b687_mkd.txt --></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[关于google reader]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/829"/>
+    <updated>2012-12-13T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/829</id>
+    <content type="html"><![CDATA[<p>一直想写关于google reader的一些事，但是总是很懒，或者是不想写，放着，一直放着，看到这位师兄的<a href="http://blog.wangnan.me/">博客</a> ，觉得自己还是该记录点东西，否则长时间容易忘记。</p>
+<p>最早时候不知道google reader的时候，一般就在<a href="http://cnbeta.com">cnbeta</a>，<a href="http://www.pcbeta.com">远景</a>上看些新闻，再接着到了科大后就常到bbs上灌灌水，慢慢的想看的东西知道的多了得知有个叫rss的东西，一开始不知道怎么做就放收藏夹里，想看哪个点哪个，不是很方便，从自了解到google reader把这些rss整合到一块，它就是我各种信息的来源，虽然经常会有1000+的未阅读，但也不会影响到使用。</p>
+<p>以前还经常用网页版的google reader上看新闻，但是发现由于信息量太大太浪费时间，经常搞得一早上都在不停的看干不了什么活，自从有了ipad以后，尝试了各种google reader阅读软件，发现MobileRSS比较好用，就晚上回去睡觉前先离线把文章下下来回去躺床上看，看到睡着为止，被ipad砸脸也不是一次两次的事了。还有一个在ipad上大家公认比较不错的软件就是reeder，但是我不太喜欢它那种组织方式，有时候我想读几个比较关心的博客或新闻源就不行，它选接时间分类，再按rss源分类，我经常要翻出几页才能看到想要的。</p>
+<p>自从google经常被gfw墙以后，google reader也是三天两头的出问题，装了软件好像突破了这种限制，反正我离线下载没什么问题。</p>
+<p>使用google reader一个好处就是收藏和分享，原来文章都是放到收藏夹，越来越多，终于放不下或者放得太乱，要么重装系统忘记备份，有了google reader这一切都方便多了，点一个星号就收藏，也可以分享到twitter，或者看到好文章用邮件发送给朋友。或者文章太长不想在电脑上看，就直接发送到instapaper上看也是很好的选择。</p>
+<p>最后，奉上我的google reader收藏，我也是从别人的google reader里整理出一部分自己想看的，再经过一年多自己的添加和整理，现在这个样子。</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/12/vimpress_50c99707_mkd.txt vimpress_50c99707_mkd.txt --></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[focus安装定速巡航手柄并开通]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/825"/>
+    <updated>2012-12-09T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/825</id>
+    <content type="html"><![CDATA[<p>自从开了两次长途以后脚脖子酸疼就很羡慕一些高档的车子带定速巡航系统，focus虽然没有定速巡航，但还是有这个模块的，只要装个手柄然后用IDS软件开通一下就行了。在网上查了很多种定速手柄，有要切割方向盘的，比较便宜，还有就是改2.0那种音量控制手柄的。据我了解，这个手柄很简单，就是几个电阻，不同的按钮控制不同阻值就可以定速了，在论坛里看到一些车友自己改装的，不过我买的这种也是改装的，原装的定速不是这样的，这里做个广告吧</p>
+<p><a href="http://item.taobao.com/item.htm?id=4386771729">音量定速巡航控制手柄</a></p>
+<p>我的安装都是参考这个<a href="http://www.xcar.com.cn/bbs/viewthread.php?tid=17252833&amp;extra=&amp;showthread=&amp;page=1">教程</a> ，一开始我不想弄的，找车友推荐的那个店装一下再找4S店开通一下，后来由于收费太高，我就不想找他们弄了。修理店说帮我安装下加开通300块，4s店说开通200，安装300。据我了解，按网上的教程一般不熟练的人一个小时就能搞定，4S店和修理车的人总把任务艰巨化，说CD难拆啊，走线花时间啊。那我就自己弄吧，第一次螺丝刀没选对，也不会拆CD，搞了半小时搞定，走巡航线很简单，我又把以前的重新做了一遍，半小时就搞定了，还把上次拆CD时候一要线没接给接上，后来发现根本不影响使用。</p>
+<p>音响控制不用开通电脑，直接可以用了，音响打开，手柄可以控制音量，快进，后退，不同模式的切换，再也不用腾出一只手去按中控上的按键面分神了。</p>
+<p>定速开通没那么简单，还是需要专业设备的，可是去了4S店搞了半天也没弄成，后来发现他们的IDS版本太高，被厂家给屏蔽了，那只好开到修理厂让他们帮我弄了。谈好价格，4S店小工一通搞，结果电脑编程没编进去，反而把我原来的程序给删掉了，接着就发动机故障启动不了了，再刷，还是老样子，经过四五次刷，还是不是，于是尝试刷了自动档的数据，启动是可以了，但是不是我车用的啊，我下午又有事，直接把车丢那里让他给我搞了，后来得知找了个和我一样的车，把它的程序备份出来重新给我恢复，再刷定速就好了，反正我觉得修理店小工没经验。</p>
+<p>给我弄好了路试一下，刚开始不知道怎么弄，一通乱按看巡航灯亮了，按加号还有点推背感，按减号电脑自动收油，以后跑高速就省力了：）</p>
+<p>回去路上在高架上试了下，3档超过30码，要选按on打开巡航，再按加减就行，无论踩刹车或离合就可以取消。</p>
+<p>前几天还出现了丰田车巡航门事件，我觉得就是出来黑丰田车的，125kmph过收费站，那前面可有减速带啊，想想有什么后果，125kmph撞货车，想找死啊，可不是闹着玩的，如果巡航关不掉，推入空档就行了，那个不是电子控制的，反正有很多漏洞，不足以让人信服。</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/12/vimpress_50c49245_mkd.txt vimpress_50c49245_mkd.txt --></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mutt 配置]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/817"/>
+    <updated>2012-11-15T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/817</id>
+    <content type="html"><![CDATA[<p>一开始玩Linux的时候就听说过mutt，只知道它是在命令行下的一个收发邮件的东西，对命令行不太感冒，所以也没怎么折腾过，看一些大牛都是用mutt收发邮件，觉得很有意思，但是一直来都比较依赖Thunderbird，收，发，备份，转移都很方便。也不知道哪根神经搭错，前一阵想折腾下mutt了，搜集了好多资料，看得云里雾里，也许是心急吃不了热豆腐，没有把别人配置看完就照葫芦画瓢搬到自己电脑上，一运行发现报错！！！刚好今天有空又看了遍，把自己没装的，没有的文件那几行都注释掉，运行后果然行了。</p>
+<p>我是按照篇<a href="http://home.ustc.edu.cn/~lixuebai/GNU/MuttConfig.html">文章</a>来配置的，因为我也有科大的邮箱，所以大体上差不多，差就差在我没有地址薄，所以运行时候报错了。</p>
+<p>我有三个常用的邮箱，分别收不同类别的邮件，弄好一个当然想再弄一个，gmail是比较常用，网上教程也比较我，可是我就弄不懂怎么在一个脚本里收三个邮箱，搜了好多资料，写得也不清楚，那慢慢试吧，从一个脚本里发现分别每个邮箱写一个配置，然后用脚本去收三个邮箱，但是这样在mutt下面按shift+g还是只收一个邮箱，用corntab自动收吧，实在不行就用命令行。</p>
+<p>按定第二个邮箱最后就剩下hotmail的，从thunderbird里查看了服务器配置，照搬上去发现成功了，刚开始入门是比较难，后来算是比较顺利了。平时不想打开胖大的thunderbird时候就用mutt检查下邮件应该也不错，：）</p>
+<ol>
+	<li>参考资料<br />
+<p>http://home.ustc.edu.cn/~lixuebai/<span class="caps">GNU</span>/MuttConfig.html<br />
+http://docs.huihoo.com/homepage/shredderyin/mutt_frame.html<br />
+http://blog.chinaunix.net/uid-22432395-id-3367862.html<br />
+http://yi1.com.cn/posts/725<br />
+http://blog.csdn.net/orzorz/article/details/5822680<br />
+http://bb2hh.blogbus.com/logs/36283857.html<br />
+http://xhc.me/wp-content/uploads/mutt/manual_1.5.19_zh.html<br />
+http://tieba.baidu.com/p/823132126</p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/11/vimpress_50a4a323_mkd.txt vimpress_50a4a323_mkd.txt --></li>
+</ol>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[TracePro 学习]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/814"/>
+    <updated>2012-11-15T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/814</id>
+    <content type="html"><![CDATA[<p>以前折腾过一阵trace pro，因为不怎么上心，只学了会皮毛，时间久了也就忘记了。最近刚好需要画个光路图，只要光线追迹，不需要分析，所以又重新学习了一下。</p>
+<p>花了几天功夫，把所有的功能都熟悉了下，现在来说，简单的光路图可以画了，但是复杂的还要看手册。</p>
+<p>其实Trace Pro挺简单的的，大体流程如下：</p>
+<ul>
+<li>建立模型</li>
+<li>定义模型的光学特性</li>
+<li>建立光源</li>
+<li>追迹光线</li>
+<li>分析结果</li>
+</ul>
+<p>我只需要光路示意图，只要光路上没有太大偏差就能接受，因此分析结果对我也没什么用，如果要用到再细看吧。</p>
+<p>建立模型有很多种方式，可以从CAD或者SoildWorks等等软件中导入，也可以直接用软件的建模功能画，透镜什么的都有现成有，就看怎么组合了，我的光路简单，直接用软件自带的画也不麻烦，以后有时间用SoildWorks画个漂亮的导入追迹出光路应该会很不错，就是太耗时间。</p>
+<p>定义光学特性，主要是定义表面的一些参数，什么反射，透射，吸收等等，参数实在太多了，现在只会用默认的，默认的通用嘛，先用上再说。</p>
+<p>建立光源，什么格点光源，表面光源，档案光源，前两个比较简单，后面是定义好导入的，一般来说前两种很通用可以解决大部分问题。在这个上面花了比较久时间，一直想画个发散点光源，折腾半天也没画好。</p>
+<p>追迹光线比较简单，点下按钮软件自动计算，然后在模型中看光路，不对再调整，可能对整个不太熟悉，经常追迹不出光路来，不知道怎么的。</p>
+<p>学了几天发现用心了没什么难的，熟练了就好，最近还有好多东西要学，学以致用，加油！</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/11/vimpress_50a43f1f_mkd.txt vimpress_50a43f1f_mkd.txt --></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[几个贴子]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/809"/>
+    <updated>2012-11-09T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/809</id>
+    <content type="html"><![CDATA[<p>最近看了几个贴子，本来想整理成一下呢，后来发现太浪费时间，还是算了，直接贴地址吧，也不想发表自己的观点了。</p>
+<p>http://club.autohome.com.cn/bbs/thread-a-100024-17473629-1.html<br />
+http://club.autohome.com.cn/bbs/thread-c-364-17589321-1.html<br />
+http://club.autohome.com.cn/bbs/thread-c-871-17600303-1.html<br />
+http://club.autohome.com.cn/bbs/thread-c-364-17438710-1.html<br />
+http://club.autohome.com.cn/bbs/thread-c-364-17621762-1.html<br />
+http://club.autohome.com.cn/bbs/thread-c-871-17624102-1.html<br />
+http://club.autohome.com.cn/bbs/thread-c-871-17404131-1.html<br />
+http://club.autohome.com.cn/bbs/thread-c-364-17908386-1.html<br />
+http://club.autohome.com.cn/bbs/thread-c-364-17854311-1.html</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/11/wpid808-vimpress_509cf1d4_mkd.txt wpid808-vimpress_509cf1d4_mkd.txt --></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[快速处理理赔流程图]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/804"/>
+    <updated>2012-11-06T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/804</id>
+    <content type="html"><![CDATA[<p>单方责任</p>
+<p><img alt="单方责任" src="https://lh5.googleusercontent.com/-pur8DMJYKn0/UJkKCV3sBxI/AAAAAAAABbY/l4_mXRsN8Qc/s482/%E4%B8%80%E6%96%B9%E5%85%A8%E8%B4%A3.jpg" /></p>
+<p>双方同行责任</p>
+<p><img alt="双方同等责任" src="https://lh3.googleusercontent.com/-LR5CXXuxOK8/UJkKBj_PmXI/AAAAAAAABbQ/yCWY13u11kA/s459/%E5%8F%8C%E6%96%B9%E5%90%8C%E7%AD%89%E8%B4%A3%E4%BB%BB.jpg" /></p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/11/wpid803-vimpress_50990acc_mkd.txt wpid803-vimpress_50990acc_mkd.txt --></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[车险二三事]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/799"/>
+    <updated>2012-10-28T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/799</id>
+    <content type="html"><![CDATA[<p>重阳节那天晚上等红灯时被一辆奥德寒给追尾了，后保险杠坏，后背厢被挤掉一块漆，对方保险全赔，到4s店去修，4s到好，能换的换，一小块漆也重做，狠狠坑了保险一笔。</p>
+<p>以前被追尾和擦碰过都没出去保险，第一次自己花了20块钱抛光下，第二次别人私了直接赔了我400块钱，这次算比较严重了，我先打电话报警，从来没报过警，先打112，然后语音提示119火警。。。打122才对，接线员和我说交警马上到。我让追尾我的小伙子打电话叫保险，结果他叫来一些喝得醉熏熏的，上来就说没事，车是我的，保险全赔，然后想让小伙子走，我拖着他不肯，等交警过来处理。期间给师兄打了个电话问怎么办，师兄上个月也被追尾过，让我打电话给我自己的保险说明情况，明天把案子消掉就行，对我保费没影响。给我自己保险打电话是怕有人伤，虽然我没有责任也要赔钱，真搞不懂这是什么意思。我报我的名字打不到我的保险，还好带了保险单，后来用发动机号找到我的保险号。</p>
+<p>交警来了后让我们拿行驶证，驾驶证登记，填协议书，认定责任，这些很快，最后就是双方互留了电话去快赔处理，我不知道交警处理了算不算备案过，反正给我的协议书上连个章都没有。</p>
+<p>第二天那小伙联系我说去快赔，我又开车30公里去快赔中心，对方到好，找了个4s代办的人来搞，还好我事先查了下，该带的资料都带了，那个连交强险保单都没带，从车上把贴的揭下来复印一个给交警还好认了，否则今天就白跑。没想到交警填的协议书不行，到保险那又重填了份，后来我的那份不知道搞哪去了，就把他那份给拿来。对方保险是人保的，出来给我车定损，由于保险扛给挤进去了，怕伤到防撞梁，说要拆检，因为我去4s修，就让他们那里的人再给我定损一次。这些搞完后到民警那拿了认定书，后来民警给我说车修好拿发票，对方拿钱再到他车结案。走的时候那个保险代办的人让我到现代的去修就不用垫钱，否则要把钱先垫上拿发票来换，我就傻乎乎的信了。</p>
+<p>去4s定损，能换换，该做漆重做，检查防撞梁没事，我问都没问定了多少钱就让他修了，后来打电话问定损多少钱，还好和修的钱一样，否则就要扯皮了。车很快修好，修好后发现车又亮了许多，也没检察，觉得挺满意， 就爽快的把钱给交掉了，后来发现把我车标给贴歪了，我当时脑袋在想什么。</p>
+<p>晚上打电话给肇事人让他明天一起去结案把钱给我，第二天他打电话来说让我把发票先给他，他的钱会打到我账户，我说不行，给你的话你要是不给我钱怎么办，而且钱是打在车主账户的，让他先垫上钱，他说我一个打工的没那么多钱给不了你，等保险的钱到了再给，我又信了。后来到保险那一问，我不给他发票，他根本报不了钱，现在进入死循环了，等周一上班再说吧，我又有得忙了。</p>
+<p>前面写了那么多有点乱了，屡下流程：</p>
+<p>出事先报警，报保险，保险勘察员会过来，事故不大交警出协议书去快赔，2000块以下保险应该会先行赔付的。</p>
+<p>去快赔前先定损，这一步我搞错了。定损找对方保险和自己的保险都行，再不行就找第三方机构，定损的时候双方都要在场，这个我又搞错了，自己开个车就去了。比如说保险定1000块，去4s修要1600，这显然是不够的，那就再商量，商量到合适的价格就行，双方不同意就定不了。否则修好后大家就围绕着这600块扯皮。</p>
+<p>定完损到交警那处理事故，出认定书，出完认定书就算是结案了，我算被警察和理赔员都骗了我，说交换发票和钱才算结案，案子结了，对方车就可以正常年审了，交警的手续办完，和他一点事没有，如果大家有纠纷，他来调解，调解不成我就要起诉他，然后法院立案。。。。通过法律解决我也不知道该怎么办，要是对方就说没钱不见我也没招。</p>
+<p>吃一堑，长一智，下次再遇到就不这么傻了，先定损，定好后去修车那开发票让肇事人或者保险公司把钱付了，然后就没我什么事，修好车后我提车走人，他们该干嘛干嘛，本来很简单一件事，由于经验不足，被搞得这么麻烦，快气死了！！！ 期间我还让他赔我点损失费，他一句话也不说，理赔员说这里只管与车险有关的钱，其它钱需要通过法院，TNND，碰上无赖了真没办法。</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/10/wpid798-vimpress_508c9f39_mkd.txt wpid798-vimpress_508c9f39_mkd.txt --></p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[12年十一]]></title>
+    <link href="http://dinohu.github.com/blog/blogs/795"/>
+    <updated>2012-10-07T00:00:00+08:00</updated>
+    <id>http://dinohu.github.com/blog/blogs/795</id>
+    <content type="html"><![CDATA[<p>这次中秋加国庆一起放假8天，堪比过年放假，又加上过节高速免费通行，真是一个非常不错的黄金周。外公最近身体越来越不好了，我们做晚辈的也要回去看看。</p>
+<p>这个假期主要是以自驾为主了，先是在中秋那天赶回家吃团圆饭，这个团圆饭自从出去读书起十来年没一起吃过了，真是觉得非常难得，但是由于堵车的原因，我晚回了两个小时吃些剩饭，还是算团圆了。</p>
+<p>假期高速免费政策真的坑人啊，既然免费了还要拿卡，使得过收费站的时候通行速度降低了很多。因为觉得正常出行堵车肯定严重，于是我凌晨两点起来就出发了，从蜀山西上的高速，基本上没有几个车，为了不使自己犯困，采取跟车策略，就是找个同级别车跟一下，好车跟不上，比我差的又跑不过我，加上有了暑假高速行车经验后，高速上也不太紧张，到湖州前一直就几个车在跑，速度也跑得比较快，刷了油耗显示以后为了操持油耗没跑得太快，谁跟钱过不去啊。过了湖州天开始亮起来，车也慢慢的多了。不过对面方向杭州，上海到安徽基本上已经成了停车场。话说浙江的车子是有点不太安份，高速变线超车，如果动力不好，在杭宁高速上还是挺吃亏。这条路上大车多，不过都会靠右行驶，可是小车基本就是见缝插针，有空就钻，如果不让大灯喇叭伺候，素质低下。一路都很顺利，花了5个小时到达同学住处接人。</p>
+<p>从杭州回家的路已经走过一次，但是还是迷迷糊糊搞不清楚，上调高速发杭州差点又下高速回杭州，要不是高速太堵我转不下去就又进城了。由于第一天大家都出行，开始体验停车场了，一个小时开了30公里，心情真的很急躁，家里打电话过来说某个隧道会比较堵，让我早些下高速，我下了高速后走国道发现车并不见少，而且大家都不守规矩，加塞更加严重，有些没素质的人把对面车道也堵起来，大家就这么耗着，还好有交警指挥走了个乡间小道绕过堵来的地段，不知道多跑了多少路，总比堵着强吧。由于不太认识路，堵车又走错了，只好拿着手机来导航，该死的山路没有信号又没法定位，只好硬着头皮跑，还好径直走跑进诸暨市区，不幸的事来了，红绿灯时候被一外地车撞了翼子板，私了解决了。</p>
+<p>过了市区剩下的路以前骑自行车走过，开得比较快，但国道上车多人多不能超速，后来听说义乌到老家的路在修路，又只能绕路，好杯催啊，十个小时终于到家。前450公里花了5个小时，后150公里又5个小时。</p>
+<p>回到家的首要任务是见长辈，该去的都先去一下说回来了，走的时候然后再跑一遍说一声要回了，虽然麻烦，但还是必要的。看完长辈剩下的时间就可以自行安排，本来还带了电脑准备看些文献，都白背回来了。</p>
+<p>回家5天中有两个老板同学请吃饭，一个是在山中的水库吃鱼，自己开车过去走盘山公路，确实很爽，第次由于车比较多，大家就少开几辆，乘机坐了下同学x5，又大又稳噪音又小，不愧是好车啊。</p>
+<p>回程想到黄金周这那么的堵，又是凌晨出发，不过路上还好车并不多，等过了堵了半小时，也算可以接受，回去可能是开累了，没有心思去追别的车，就按自己的节奏开，想超我的就尽管超吧，一路上还是挺顺利，600公里加休息加堵车才开了8个小时，油耗6个，开得慢还是挺省的，比回家省了几十块钱。</p>
+<p>回到合肥呆了一天，第二天继续旅游，去了早已计划好去的万佛湖，还是自驾，不过这次不走高速了，这种小国道真心难走啊，特别是到了小县城，车多人多堵得一踏糊涂，跑上不小心还被前车带起的石子把前档弹了个小坑，现在已经有两个坑了，看着挺不爽。</p>
+<p>万佛湖没有想像中好玩，不过去玩的还是比较多，被景区的人给坑了，给他们10块停车费，好多车都是不交的，MLGBD，进入景区就是坐般到各个岛上玩，没有很特别的地方，后来坐船都坐得太累，实在不想动，可是又没有直接回去的般，只好一个岛一个岛的转，看好多人都不想玩了，没办法，上了贼船了。</p>
+<p>这个十一就这么过了，就一个字，累！</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/10/vimpress_5070e34d_mkd.txt vimpress_5070e34d_mkd.txt --></p>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[写论文如同打怪]]></title>
@@ -176,313 +438,6 @@ http://club.autohome.com.cn/bbs/thread-c-364-14461607-1.html</p>
 		<li>参考文献<br />
 <p>下得比较多，不列了，基本上没什么用，讲了一堆废话，没什么参考价值。</p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/09/wpid741-vimpress_5049e663_mkd.txt wpid741-vimpress_5049e663_mkd.txt --></li>
 	</ol>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[自驾九华山]]></title>
-    <link href="http://dinohu.github.com/blog/blogs/733"/>
-    <updated>2012-08-15T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/blogs/733</id>
-    <content type="html"><![CDATA[<p>放假回家返程路过九华山，于是想去玩一下，这样比从杭州那边回合肥多50多公里路吧，大致在科大bbs的motor版上问了下情况，在网上也查了不少信息，除了在哪下高速，其它还是稀里糊涂，就先到九华山下再说吧。</p>
-<p>早晨8点从义乌东上高速走杭金衢G25再转G3，花了三个朋小时跑到休宁服务区吃了点自带的干粮，洗把脸，活动的下筋骨，给家里打个电话报平安。正值中午，人有点开始累了，于是遇到一个服务区就会休息下，不至于疲劳驾驶。又花了一个多小时到青阳下高速右拐到318国道，跑上还搭了个人说到九华山景区，网上说了不要随便搭人但我还是好心搭这大姐一段路，大姐开始想坐车后面，我后座上东西放得比较多后面门也是锁着的没给她开，让她坐在副驾她好像有点不乐意，一路上就给我讲九华山佛教胜地，要带香火什么的我一律都拒绝，后来到一个什么大酒店的地方她就下了。跑了大概15公里到五溪大转盘左拐见第一个牌坊，再顺S219跑十公里左右到第二个牌坊，初次来不认识路看到加油站于是先去加了个油顺便问了路。牌坊后没多远左拐进去可以买票，省内身份证现在半价95，还没下车一堆导游就围上来搞得我心慌，还很热情的带我去买票。山上检票处也可以买，不过那里坡道停车一堵堵一堆车不太好。从买票处再跑十几公里山跑就可以进入景区，以前在网上查说什么交通管制不让上山没有遇到，就是车多时候会封闭半个道大家都慢慢走，后来看到九华山的微博说交通管制7天。山路还是比较陡，我前面1.6朗逸满载爬坡爬不动我逆向超它再超了几个车在弯道并线没并进去堵了一辆大巴，被过来疏通道路的警察叔叔教育了，后来就老老实实慢慢走，总共7公里山路走了一个多小时。在网上查随便停车没关系，停车场停车要收钱，于是跟着一马六到九华街边停车，它靠边停下留出一个多车位我就钻进去了，结果那丫侧方位停车水平不照没停好要倒一下，说我故意抢他车位，我懒得和他理论，把车开出来让给他我自己再去找位子。跑到九华街前面一个庙边上停车，一直想住庙里，问了一大圈就找到祗园寺可以住，20块一晚上，看条件比较差没住，在停车寺庙边上找了个太白旅馆80一晚，由于开车开得太累实在懒得去找就凑合下吧。晚上问了下老板娘怎么玩九华山，她给我指点了一下，说晚上可以去听讲佛，洗个澡稍做休息晚上又出去转了九华街和边上的几个寺庙。</p>
-<p>凌晨半睡半醒看了会奥运，早晨很早又被吵醒，吃了点干粮，于是早起继续开车上山去天台寺，觉得自己体力还行没有坐索道就选择徒步上去，一开始爬得比较猛体力消耗比较大些，爬了一半感觉体力不行稍做休息喝点水吃点糖继续，路上遇到一六十多大爷一起爬了一段，别人他年纪大了，脚步比我轻快多了。一路上遇到很多寺庙，主干道要凡是路过都进去看了下。花了两个小时终于爬到山顶，考虑到下山的路比较陡，下午赶回合肥就索道下山，索道票价75还是很值的。下山后到九华街吃了个午饭，一碗面20块，然后继续去百岁宫，问了路人说索道55，上山半小时左右，为了省钱还是选择了徒步，可能早上体力消耗比较大，小腿也比较酸，基本上一小段就要休息下，不过还好，用了40分钟到了山顶，下山的路没有天台寺那里的陡，花了半小时就下去了，多稍微休息下2点从山顶下去返回合肥，本来想去乘轮渡，可是刚下山就暴雨大作，雨刮最快都不管用，还是318转G3高速回合肥，开大灯双闪60的速度在跑，从九华街回合肥想省几块过跑费从严店下高速走103省道浪费了不少时间还省不了油，早知道就直接高速到蜀山西下高速。</p>
-<p>从家到九华山第二个牌坊处这总共450公里开了6个小时，顺便去加了个油，加了212跳枪，让加到220满出来了，涨价前在家加满的油跑了50公里综合道路，算了下220块跑了500公里6.2个油对1.8mt福克斯还是挺满意的。</p>
-
-	<ol>
-		<li>部分照片<br />
-<p>选了一些可以看的照片发到微博上，就不把所有照片传到google相册了，爬天台寺的时候拍了不少照片，后来爬百岁宫时候相机没电，遇到几只猴子也没有拍下来，实在是可惜。<br />
-<img alt="1" src="http://ww4.sinaimg.cn/large/6761a48fjw1dvw5m6jxwrj.jpg" /></p><br />
-<p><img alt="2" src="http://ww3.sinaimg.cn/large/6761a48fjw1dvw5ot0a1ej.jpg" /></p><br />
-<p><img alt="3" src="http://ww4.sinaimg.cn/large/6761a48fjw1dvw619l0g4j.jpg" /></p><br />
-<p><img alt="4" src="http://ww3.sinaimg.cn/large/6761a48fjw1dvw6t8tqhlj.jpg" /></p><br />
-<p><img alt="5" src="http://ww1.sinaimg.cn/large/6761a48fjw1dvw6w9btwrj.jpg" /></p><br />
-<p><img alt="6" src="http://ww3.sinaimg.cn/large/6761a48fjw1dvw73vyyzmj.jpg" /></p><br />
-<p><img alt="7" src="http://ww1.sinaimg.cn/large/6761a48fjw1dvw75ucnhlj.jpg" /></p><br />
-<p><img alt="8" src="http://ww3.sinaimg.cn/large/6761a48fjw1dvw77zelebj.jpg" /></p><br />
-<p><img alt="9" src="http://ww3.sinaimg.cn/large/6761a48fjw1dvw7gxg0mhj.jpg" /></p><br />
-<p><img alt="10" src="http://ww4.sinaimg.cn/large/6761a48fjw1dvw7jr3ml8j.jpg" /></p><br />
-<p><img alt="11" src="http://ww4.sinaimg.cn/large/6761a48fjw1dvw7ksv029j.jpg" /></p><br />
-<p><img alt="12" src="http://ww3.sinaimg.cn/large/6761a48fjw1dvw7ngfipnj.jpg" /></p><br />
-<p><img alt="13" src="http://ww3.sinaimg.cn/large/6761a48fjw1dvw7s2fvltj.jpg" /></p><br />
-<p><img alt="14" src="http://ww1.sinaimg.cn/large/6761a48fjw1dvw7tix0vmj.jpg" /></p></li>
-		<li>fitbit步行数据<br />
-<p><img alt="15" src="https://lh5.googleusercontent.com/-A7aamt4ropI/UCsILry-NPI/AAAAAAAABXE/eMXEKXbUIhw/s520/Track+My+Activities+on+Fitbit-152352.png" /></p></li>
-		<li>参考游记<br />
-<p>http://www.leakdeals.com/articles/ddj-n1573531/yang-zhou-jiu-hua-shan-zi-jia-you-you-ji-gong-lue.html</p><br />
-<p>http://www.leakdeals.com/articles/ddj-n1569842/jing-ji-fang-pian-jiu-hua-shan-bai-fo-lv-you-gong-lue-zhu-su-xing-cheng-lu-xian.html</p><br />
-<p>http://www.likefar.com/inn/2897/</p><br />
-<p>http://www.yododo.com/area/guide/0135E719A61416B6FF80808135E42EB7</p><br />
-<p>http://www.9ihs.com/line/2008/09/897.html</p><br />
-<p>http://www.jiuhuashan.name/youji/169/</p><br />
-<p>http://www.jiuhuashan.name/youji/170/</p><br />
-<p>http://www.jiuhuashantour.com/news.aspx?id=556</p><br />
-<p>http://sharound.lotour.com/x/20080718/n325657.shtml</p><br />
-<p>http://www.68trip.com/9/963.html</p><br />
-<p>http://www.lvping.com/showjournal-d182-r1325111-journals.html</p><br />
-<p>http://www.lvping.com/showjournal-d182-r1336031-journals.html</p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/08/wpid735-vimpress_502b0a77_mkd.txt wpid735-vimpress_502b0a77_mkd.txt --></li>
-	</ol>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[记账一周年]]></title>
-    <link href="http://dinohu.github.com/blog/blogs/730"/>
-    <updated>2012-08-15T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/blogs/730</id>
-    <content type="html"><![CDATA[<p>以前好像写过随手记的文章，这次到了记账一周年的时候，再次记念下。去年这个时候毕业开始工作，心想总算自己赚钱了，虽然也没赚几个钱，但也总要把收入和支出弄个清楚，到时候年底回顾时候也能做到有据可查。本来一开始是记本子上的，但是觉得麻烦，有时候还会忘记录入，后来在excel上记几天，发现项目太多，于是开始找专业的记账软件，在网上搜了一堆，都试用了下，基本上没有好用的，偶然搜过到随手记这个记账软件，金蝶公司旗下的，开发记账软件好多年，总比那些人个开发的要好的多。随手记有web版，记起来已经很方便了，但是为了更方便些，特别在在手机上记就好了，那时候随手记只有iphone版，我没有iphone，在ipad装免费可以用，20块买一个发贴认证以后就能成为会员，然后可以下载电脑版软件，电脑版软件有强大的统计功能这是我需要的，可以很直观的看出各项收支，虽然手机版的有统计功能，但相对电脑版还是相对弱一些，最初的电脑版界面很丑，后来经过改善，界面稍微漂亮了些，后来渐渐地有了ipad版，这个是随手记的开发人员送给我的，再后来有了android版，随手记有一次搞活动时候送的，当时还没有想到过使用android的手机，送的我就收下了。用随手记专业版的一个好处就是各种客户端直接可以同步，这样就不用局限在哪个客户端上单独记账了。看手头有什么设备，只要记上一篇有空同步一下就好，现在记账最多的地方就是手机，其次是网页，统计的话就用电脑版客户端。</p>
-<p>下面是三种不同客户端的截图</p>
-<p><img alt="电脑版" src="https://lh4.googleusercontent.com/-v6_sljR4W7A/UCpa25ZEPVI/AAAAAAAABWg/UmaiskVodCU/s647/%E9%9A%8F%E6%89%8B%E8%AE%B01.png" /></p>
-<p><img alt="手机版" src="https://lh3.googleusercontent.com/-xQxCRsL2q0s/UCpa6rLz47I/AAAAAAAABWo/wb-RpFABzDU/s473/%E9%9A%8F%E6%89%8B%E8%AE%B02.png" /></p>
-<p><img alt="ipad版" src="https://lh6.googleusercontent.com/-as3Fiod2Hqw/UCpbCR33ekI/AAAAAAAABWw/6g-_klNcN2Y/s631/%E9%9A%8F%E6%89%8B%E8%AE%B03.PNG" /></p>
-<p>功能上不多说了，网站有很详细的介绍，可以查看它的<a href="https://www.feidee.com/">官方网站</a>。</p>
-<p>对于自己来说，总算有一件事天天做坚持了一年，收获还是挺大的，将一年来的收支都统计下，虽然以前只知道自己花钱的总数，但现在总算知道了自己各项开支明细，还可以给每个月做出比较合适的预算控制开支。不过说来，该花的钱还是要花的，心里有个数还是比较好，希望这个习惯能永远保持下去。</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/08/vimpress_502ae474_mkd.txt vimpress_502ae474_mkd.txt --></p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[一个贴子引发的搜索]]></title>
-    <link href="http://dinohu.github.com/blog/blogs/727"/>
-    <updated>2012-08-07T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/blogs/727</id>
-    <content type="html"><![CDATA[<p>天天逛汽车之家，总会看到一些改装车辆的贴子，对于改外观没什么兴趣，无非是改得好看些，改动力就不一样了，驾驶起来感受就不一样。</p>
-<p>好车一般是不需要改了，记得鲁预有约里二环十三朗说如果给他一辆兰博基尼，他也不会改，只有买不起好车的人才会改车，不过还真有改兰博基尼的，改到1000p马力，都会喷火了。</p>
-<p>先是看到这么个贴子<a href="http://club.autohome.com.cn/bbs/thread-c-364-16415238-1.html">老福1.8马力计算</a></p>
-<p>于是引发了一系列搜索，有钱直接换发动机，上涡轮，没钱的基本上都是改进气，用kn57i比较多，再刷sct，再烧包点再改排气。顺便还科谱了下什么ECU，sct一些知识，ECU就是行车电脑啦，现在的车不像以前都是机械的控制的，大部分都是电脑控制，我爸这个开习惯老车的人很不习惯开现在这种车。弄了半天才搞明白sct是一个改车组织，只要把程序刷到行车电脑就会对动力有较大提升。</p>
-<p>于是搜了一堆资料备用吧，就当增加点知识，反正我也不会去折腾</p>
-<p>http://club.autohome.com.cn/bbs/thread-c-364-16320851-1.html<br />
-http://club.autohome.com.cn/bbs/thread-c-364-12331246-1.html<br />
-http://club.autohome.com.cn/bbs/thread-c-364-15031782-1.html<br />
-http://club.autohome.com.cn/bbs/thread-c-364-15010277-1.html?<span class="caps">SCT</span>-1-1<br />
-http://modify.modiauto.com.cn/school/1079/12834.html<br />
-http://club.autohome.com.cn/bbs/thread-c-364-5234907-1.html<br />
-http://club.autohome.com.cn/bbs/thread-c-364-9799239-1.html<br />
-http://club.autohome.com.cn/bbs/thread-c-364-16615098-1.html<br />
-http://club.autohome.com.cn/bbs/thread-c-364-16903342-1.html</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/09/wpid739-vimpress_5020cabf_mkd.txt wpid739-vimpress_5020cabf_mkd.txt --></p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[奥运奥运！！]]></title>
-    <link href="http://dinohu.github.com/blog/blogs/724"/>
-    <updated>2012-08-04T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/blogs/724</id>
-    <content type="html"><![CDATA[<p>放假回家，有空就看看奥运，如果不是有电视放着，让我在网上看直播基本上不可能，每天新闻里滚动播放着拿子多少金牌，连我爸这种只关于海峡两岸问题的人都知道得了多少金牌呢，银盘，铜牌只是一带而过。</p>
-<p>我印象里看奥运是96年亚特兰大奥运会开始的，阿里用擅抖的双手点燃主火炬让人难忘，那时刚好时小学升初中，没什么作业，天天就守在电视前面看录播，当时还没有中央5，一直都是中央2在播，基本上都是录播，时差12个小时，家里是不准半夜起来看电视的，印象最深的也就是体操选手莫惠兰，不知道这体操冠军怎么样了。00年高中暑假悉尼奥运会，认识到了悉尼歌剧院，当时喜欢上打篮球，中国有移动长城大郅，姚明，刘玉栋，李楠等等，看起来很NB，不过也被打得稀里花啦。这次金牌突破了20块，当时政治考试还经常考到我们奥运会拿了多少金牌，真TMD烂。再接着04年雅典奥运会，当时已经上大学了，由于时差的原因大部分比赛都是在晚上，所以每天只要醒来只会观注金牌多少了，那时候GPRS上网正兴起，用的是8310黑白屏，用着昂贵的流量费刷着金牌数，那是除了电视报纸得到信息的新方式，就是为了查查奖牌数，浪费了近100块话费，当时还喜欢上跳水，央视天天播跳水，估计街头大妈看水花都能给出得分了。那年还出了个110米栏的冠军，自从他出名一直不喜欢这赢得起输不起的家伙，今年估计又要退赛了。08年奥运在家门口看了，也是放假在家，08年8月8号8点，激动人心的时刻，现在想想那年光烟花就浪费了多少钱啊，不过我们国家有的是钱。08年喜欢上自行车，自行车也看了几场比赛，记得刘翔比赛那天我还跑到德胜那黑市去买自行车，大中午赶到朋友那看110米栏，发现装B男退赛了，我勒个去！08年家门口金牌总数大突破，不知道今年会怎么样，能不能达到原来的3/4了？？</p>
-<p>再说今年的奥运会，对我已经没有什么吸引力。奥运会开幕的时候正好在杭州，早晨起来赶上直播在ipad上看了一个小时，为了等大合唱《hey, jude》也没有等到，真是遗憾啊！再接着几天爆出羽毛球消极比赛，没看比赛时候觉得我们合理利用规则不该罚啊，看完比赛真要骂街了，这样的比赛不罚才怪，挑战我们忍耐极限，直接驱逐出场都不过分！再接着游泳得到冠军外媒质疑我们队员吃药了，一开始觉得外媒针对我们，去网上查了下，原来有很严重的前科啊，游泳，自行车是重灾区啊，带药还被别人抓现行，女人都吃成男人样了，再说那7秒的提升，天赋毋庸置疑，不嗑药有那么大的提升是不可能的，在大环境都嗑的情况下谁不吃谁傻B，只要不被查出来就行。接着就是女子团体体操，看着那帮小姑娘没发挥好真让人心疼，4年的训练没得到名次，又要等四年，浪费了青春不说，还练坏了身体，如果退役也不能得到很多的工作，这就是体制。前两天看了男篮一场比赛，真TMD气人，是教练不行还是队员不行，从13亿人里面就找不出几人会打篮球的么，看看人家西班牙足球篮球多厉害！！</p>
-<p>赛程已经过半，我的假期也过半，在家应该能看到奥运会闭幕式，期待有个好成绩吧！</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/08/vimpress_501cda15_mkd.txt vimpress_501cda15_mkd.txt --></p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[骑行新桥机场]]></title>
-    <link href="http://dinohu.github.com/blog/blogs/715"/>
-    <updated>2012-07-21T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/blogs/715</id>
-    <content type="html"><![CDATA[<p>以前看过xqian老师独自<a href="http://blog.sina.com.cn/s/blog_6cd8e9310100zxfg.html">骑行新桥机场</a>的文章 ，也想乘机场建设完成前去一次，否则只有坐飞机的时候才能有幸到机场看看了。</p>
-<p>去骑行新机场是师弟周五下午提出的，我当时还没有什么准备，路线就他来弄，等我们骑完才发现和xqian老师的路线是一样的，xqian老师的文章中说有近10公里的烂路，所以我们已经有了心里准备。</p>
-<p>早晨八点出发，等师弟的时候碰到一老外，应该是在ipp做访问了，我用我蹩脚的英语问他去哪，他用简单的英语回答，我连蒙带猜知道他想去滁河干渠，所以我邀请他和我们一起骑一段，路上互相聊了几句，得知他从美国来做短期访问了，以为我们会一起骑很长一段，没想到一会就分道扬镖了。</p>
-<p>起得比较晚，没吃早饭，路上随便解决了下，吃了碗稀饭，茶叶蛋还有一个饼，到路边小店买了店水就开始我们的行程，刚开始很大一段路我都骑过几次了，骑得比较快，很快到鸡鸣三县的地方拍照，太阳已经升得老高，觉得路面温度比较高昨天晚上把车胎打得比较饱，怕路上爆胎就放掉点气。</p>
-<p>继续骑碰到几个经纬单车的老人问了下路，经过滁河干渠就要开始烂路了，路上停下来问路的时候不幸和师弟撞到一起，今天也不知道会解锁解不开摔了一下，膝盖的点磕破但不太严重。</p>
-<p>路的确很烂，都被运输材料的大货车压坏了成了碎石路，这是我骑了那么多年车骑过最烂的路了。路上还有不少大货车，因为路差装得货又多，估计也就几公里的速度在跑，我们的车轻便些但也骑不快，速度比它快些也就10左右，路上不知道超了多少大货车，还遇到一些小车，基本都是BYD，走这样的路不拖底才怪呢，这样的路只有越野车跑起来才舒服。走了大概10来公里，总算看到新桥机场的某个人的题词了，路也开始变好，当我们快到机场门口时，遇到一个小女孩推着车，师弟人好问了下是不是链条掉了，于是停下来不顾弄得满手油帮她把车弄好，小女孩比较害羞，说了谢谢就先跑了。</p>
-<p><img alt="新桥国际机场" src="https://lh4.googleusercontent.com/-WgDl5PbafR8/UAqbmeUxtmI/AAAAAAAABU4/CnuTo1i2Yxw/s647/DSCF3756.JPG" /></p>
-<p>刚好我们也到一机场大门口，和保安磨了会才放我们进去，还让我们一个小时出来。机场已经修得差不多了，看路标都是什么“兰”路，不知道谁给命的名。骑车尽头一拐就是跑道了，里面还有保安把关，我们又磨了会才进去，顺着路边的柏油路到航站楼，我在航站楼前拍照，师弟去骑跑道了，然后我就被一个警察盘问，问我有没有出入证，谁让我进来的等等，让赶快离开，怕我是小偷或是间谍什么的，乘他转身拍了个坐标下来，谁让我在google上没查到呢。</p>
-<p>拍了些机场的照片，实在是太大该怎么走，干脆就去骑下跑道吧，没想到回去时候是逆风，要骑近4公里累死人了，跑道很宽，听说骑了A380飞不了其它都能飞，等我骑完跑道发现找不到师弟了，于是找了个阴凉地等他，没想到这小子怎么转到航站楼里去了，打电话叫我过去我又懒得动就让他走吧。回去准备换个路线，先去长岗吃饭，刚开始路还好，没想到好路走了没多久就遇到烂路，又熬了一会到一个饭店，点了几个菜，吃了两瓶酒休息会继续上路。</p>
-<p><img alt="塔台和廊桥" src="https://lh4.googleusercontent.com/-H2Fs4kmvu6U/UAqbr_wTaUI/AAAAAAAABVI/ak8UHQZ3ZXM/s647/DSCF3758.JPG" /></p>
-<p>只能拍下一小段<br />
-<img alt="机场跑道" src="https://lh6.googleusercontent.com/-zuw8YS_k4I4/UAqbxGLwuJI/AAAAAAAABVQ/GjDlSoG5NYw/s647/DSCF3759.JPG" /></p>
-<p>上面写了宁波制造<br />
-<img alt="油栓" src="https://lh4.googleusercontent.com/-0yCJ3lvkcno/UAqbzAQ2LnI/AAAAAAAABVY/Hp8l8d6CxlU/s647/DSCF3760.JPG" /></p>
-<p>来个坐标，不怕找不到了<br />
-<img alt="坐标" src="https://lh6.googleusercontent.com/-Qd6BNY8C6Ss/UAqb3aaXxoI/AAAAAAAABVg/O8_CM3ZHfYQ/s647/DSCF3761.JPG" /></p>
-<p>相机不给力，只拍下来一半<br />
-<img alt="半景图" src="https://lh4.googleusercontent.com/-jUApFvuLrhw/UAqb4IVOijI/AAAAAAAABVo/OKWBJXl3KhA/s647/DSCF3762.JPG" /></p>
-<p>换了路线还一直是烂路，比汽车压坏的路更烂了，就是那种没修过的路，路上倒上沙石让车子压成路，这种路要是下雨了不知道要有多烂。又熬了5公里左右发现好路了，骑了一会又发现滁河干渠，后面的路都是好路又比较好骑也没什么好说，3点到家总共骑70公里洗洗休息，骑得太累回程也没拍照片。</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/07/vimpress_500aa8f0_mkd.txt vimpress_500aa8f0_mkd.txt --></p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Galaxy Nexus 升级4.1.1 jelly-bean系统小记]]></title>
-    <link href="http://dinohu.github.com/blog/blogs/709"/>
-    <updated>2012-07-14T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/blogs/709</id>
-    <content type="html"><![CDATA[<p>6月底google I/O大会放出新的Jelly bean系统，看了初步后十分的期待，但是考虑到要刷机什么的我就懒得弄了，还好GN是谷歌三仔，有最新的系统更新当然它先用了，看论坛说估计七月中旬官主就会放出OTA在线升级，就更期待了。</p>
-<p>前两天论坛已经有人收到OTA的推送后就迫不及待了，于是开始按照教程清数据，清框架，检查更新，不知道是不是人品比较差一直没收到，13号早上本来刷了一下论坛，发现有人按照这个教程<a href="http://bbs.gfan.com/android-4588257-1-1.html">真的不能坐以待毙，4.1下载中&#8230;分享如何获得OTA</a>成功收到OTA，于是起床到办公室开始折腾，运气比较好，一次就成功了，同事和我一起买的GN，折腾到中午才刷到OTA，人品啊人品：）</p>
-<p>收到更新<br />
-<img alt="1" src="https://lh6.googleusercontent.com/-CDpmlx3t0jM/UAFZfxnFWjI/AAAAAAAABTI/ydazi2qDwXo/s473/Screenshot_2012-07-13-07-38-21.png" /></p>
-<p>开始下载啦<br />
-<img alt="2" src="https://lh4.googleusercontent.com/-ILZoMQYd8Kg/UAFZgETacyI/AAAAAAAABTU/5WyrahWcEXk/s473/Screenshot_2012-07-13-07-42-11.png" /></p>
-<p>升级成功，看版本号<br />
-<img alt="3" src="https://lh4.googleusercontent.com/-1_fEIDdF998/UAFZgNkS-LI/AAAAAAAABTQ/wifoENR0w2U/s473/Screenshot_2012-07-13-07-51-55.png" /></p>
-<p>系统界面<br />
-<img alt="4" src="https://lh3.googleusercontent.com/-FKue7GylWsk/UAFZgxX-KNI/AAAAAAAABTg/daQQI70DnCs/s473/Screenshot_2012-07-14-19-12-42.png" /></p>
-<p><img alt="5" src="https://lh3.googleusercontent.com/-D03cOE3K7yA/UAFZhSmkSJI/AAAAAAAABTo/-YOIfLPYpnc/s473/Screenshot_2012-07-14-19-13-10.png" /></p>
-<p>长按系统版本号弹出的豆子，好cute<br />
-<img alt="6" src="https://lh4.googleusercontent.com/-LXWXFyjlr5Q/UAFiht98arI/AAAAAAAABT4/cOp4fQv0yb0/s473/Screenshot_2012-07-14-20-04-00.png" /></p>
-<p>下面说下OTA升级，收到OTA更新提示后就很方便，只要连上wifi下载更新包重启即可，然后就可以看见一个绿包的机器人，再重启就成功了。因为我原来的系统root过，升级的时候也有点担心，怕不成功，也有很多网友重启后机器人倒地，不过我算比较幸运，升级比较顺利。</p>
-<p>说完升级说系统，事先就知道新系统的google now很好玩，就和iphone 4s的siri差不多，和google now比起来，siri真的弱爆了，简直就是复读机，来看这个比较<a href="http://v.youku.com/v_show/id_XNDIxNDQ3OTAw.html">视频</a>，里面有些新功能我也不太会玩，于是和同事研究一晚上也没太搞明白，不过google now对中文的识别率还挺高的，对英文就差远了，可能我们的中式英语太差，后来我们搞词霸读给它听，它还是听不懂，彻底无语了。还有google now可以下载离线的语音包也算一个重要更新。google now 可以导航，报时间，闹钟，搜索，报天气，英文的时候比较好用，但是中文就成哑巴不会说话只会搜索了。</p>
-<p>系统更新过字体变方了，没去研究是什么字体，看起来比较舒服，切换APP的时候增加了动画，而且变得比以前流畅，貌似比以前省电多了，我可以玩大半天也不用充，不知道是删掉360还是系统更新的原因。有些软件不能用了，特别的腾迅公司的，不知道apple和google这两个大公司老和腾迅过不去，更新到新版本就好了。</p>
-<p>google地图可以离线使用了，尝试下载了合肥市地图才9M，想下载卫星图确怎么也下不下来。</p>
-<p>照相机也更新了，拍照时候向一侧滑就可以预览照片，也可以删除，听说还可以撤消。</p>
-<p>系统增加了个新软件叫新鲜会，和greader差不多的东西，不过有原生的更好用，把google reader全同步到里面了，可以离线看。</p>
-<p>还有个最吸引人的即时贴，可是不知道怎么玩，它有天气，路况，交通，货币换算，日历，球队等，目前就搞出来一个天气，听说是收集我们的一些行为来提供用户想要的信息，还要去验证一下是不是这样子，要是搜索多了岂不是google知道我们在做什么了。</p>
-<p>折腾了两天，应该不家更多的功能有待发现。</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/07/wpid708-vimpress_500169a2_mkd.txt wpid708-vimpress_500169a2_mkd.txt --></p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[有效利用清晨时间了么？]]></title>
-    <link href="http://dinohu.github.com/blog/blogs/706"/>
-    <updated>2012-07-07T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/blogs/706</id>
-    <content type="html"><![CDATA[<p>翻阅google reader时看到这样一篇文章<a href="http://www.read.org.cn/html/1892-xiao-de-li-yong-qing-chen-shi-jian.html">有效的利用清晨时间</a> ，想想自己每天起得挺早，能提前半小时到办公室，现在天气越来越热起来得就更早了，对比一下有没有好好的利用清晨的时间。</p>
-<p>睡前要准备的事，以前看到一篇文章说刚起床喝点水比较好，坚持了一段时间，但有时怕放在床头会打翻就不放了，再久而久之就忘记这事了。临睡前做好准备和规划，这个嘛看工作，工作连续性比较好的时候会就不怎么准备了。</p>
-<p>刚起床时做简单运动让自己更精神，基本上不太可能，起床都是挣扎着起来，冷水洗脸，夏天还好，冬天就算了，会把脸冻掉的。交替压腿，没有的事，最后说总共不要超过花三分钟，三分钟能做这么多事么？</p>
-<p>重点来了，早上不要做的事，发现我每一个都做了，难怪浪费这么多时间。</p>
-<ul>
-<li>
-<p>早上起来看新闻，95%以上的新闻都对我来说都没有价值，但我还是花了不少时间在八卦新闻上。</p>
-</li>
-<li>
-<p>没有电视，这一点可以忽略。</p>
-</li>
-<li>
-<p>早晨起来收邮件，如果需要的就立即回复，很多地方说到这个问题，但什么时间看，什么时候回都是个问题，最蛋疼的是手机上设置了邮件推送。</p>
-</li>
-<li>
-<p>刷微博，这个是最浪费时间的事，不管有没有都刷一下，虽然我已经淡推了，但注意力开始转到微博上来，虽然我不太喜欢微博的环境，但是大部分的朋友在这，不得已，看来真得改改了，真的有空再来刷吧。</p>
-</li>
-</ul>
-<p>清晨要好好利用这个时间，把一天要做的事要列个表，这个也曾经坚持过，但是一天要做的事太多，总是安排得不好，一件件往后推，现在GTD软件都懒得用了，忙最重要的事。</p>
-<p>作者给的建议早晨可以做的一些事，写得挺好，我也试试吧，习惯是慢慢养成的，每天坚持一件事，久而久之就成了习惯。</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/07/vimpress_4ff7a48a_mkd.txt vimpress_4ff7a48a_mkd.txt --></p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[2012 上半年总结]]></title>
-    <link href="http://dinohu.github.com/blog/blogs/702"/>
-    <updated>2012-06-30T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/blogs/702</id>
-    <content type="html"><![CDATA[<p>时间过得好快，半年又过去了，也应该回头看看自己做了哪些事情，再总结一下，这样下半年把没做的事情做掉，记个流水账也好年终的时候查看。</p>
-<p>刚开始也不知道该总结些什么，还好一直坚持在博客上记流水账，查阅了以前的记录。<a href="http://hzh.me/2011/12/30/something/">几件要坚持的事</a> </p>
-<p>上面列的几点也就写博客和锻炼做得还不错，博客一个月写个4－5篇，心情好不忙的的时候写得会更多些，算是不浪费买空间和域名的钱吧。</p>
-<p>上半年报了个羽毛球班，练习了下基本功，顺便减了几斤肉，可是等课上完几周不打又前功尽气了，体重又反弹了回来，除了开始打羽毛球外，时隔几个月，又开始打几篮球，虽然说身体各方面素质都不如从前，就当锻炼身体吧。现在每周都会去爬个一两次山，多的时候三四次，每次爬山出汗挺多，但不见体重下降，继续坚持吧，出出汗也好的。总算了骑了次<a href="http://hzh.me/2012/06/23/cycle_shouxian/">长途</a> ，虽然以前说了很多次，这次总算是如愿了。</p>
-<p>记账这个习惯保持得挺不错，每天都有提醒让我不忘记记账，虽然总是发现自己记的账和口袋里的账还有些出入，但能知道开支的去向还是挺开心的，最近又加了一项，每天定时整理evernote，可是有时电脑不在手头，慢慢的就变成一周一整理。写日记没有很好的坚持，曾经记不几天觉得太麻烦，反正是流水，以后也不会再看，还是一阶段一次总结吧，这样更一目了然。</p>
-<p>4月买了车以后花了比较多的时间在汽车论坛上，刻苦研究各方面的知识和技术，虽然浪费掉的时间比较多，但学是比较开心的，希望下半年研究汽车的精力转移到买房子上，这样就能买到称心如意的房子了。</p>
-<p>海购了两次，两次都不太如意，一次用了一个月，一次用了两个月，虽然货都完好无缺到了手中，但还是搞得提心吊胆让人很不愉快，最近海外购上添加了许多便宜的东西一直都不敢买，还是老老实实在国内B2C上多花点钱买吧，不过要是真有好的东西，还是会义无反顾海外购的：）</p>
-<p>最后还是想提提工作上的事情了，但是也不想说太多，每天都在忙，但还没有出结果，革命尚未成功，同志仍需努力！在这方向应该多看看别人怎么做，自己能做到什么，好好总结一下。需要学会如何去用人，如何分解项目分配项目，让自己有时间去做应该做的事情。</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/06/vimpress_4fef0821_mkd.txt vimpress_4fef0821_mkd.txt --></p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[骑行寿县]]></title>
-    <link href="http://dinohu.github.com/blog/blogs/690"/>
-    <updated>2012-06-23T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/blogs/690</id>
-    <content type="html"><![CDATA[<p>当年买第一辆自行车的时候，做了好多路书，准备丈量土地，大部分都已经完成，但是寿县一直都没有去，4月份OUOU他们组织去的时候我刚好有事就没去，上周未匆忙计划了下路线，回去找装备的时候发现大部分需要的都东西都不知道放哪了，这搬家搬得直是要命，只好延后一周，再加上自己一个人自行200公里也是需要很大的勇气，于是还是想约个人一起骑。</p>
-<p>最近一次骑200公里以上的长途可以追朔到两年前的五一了，那次是跟着安徽单车网骑岳西，60公里的爬坡，第二天是做汽车回来的。人生第一次长途骑南京200公里，新手时期没有经验，也是骑到崩溃，09年暑假回家南京到无锡也是200，这次可能换了车轮码表不太准。由于2年没有骑长途了，对自己的体力没有一个太多的了解，为了准备一下专门连着爬了好几天大蜀山，感觉自己的体力还行，不过已经没有3，4年前好了，带着师弟爬了一辆山，想看看这小伙体力怎么样，怕到时别拖我后腿了，事实证明，年轻就是好啊，没有经验有得是体力，这我就放心了。</p>
-<p>出发前做了点功课，看寿县有哪些地方好玩，但是时间太紧，就去了清真寺。<a href="http://www.imedia.com.cn/?uid-9-action-viewspace-itemid-18021">我爱这城池，从未消失</a> 。</p>
-<p>计划的是4：30出发，由于当时天朦朦亮不太方便，拖了点时间等到5点出发</p>
-<p>路线图<br />
-<img alt="0" src="http://ww3.sinaimg.cn/mw690/6761a48fjw1du61nj0a9rj.jpg" /></p>
-<p>出发前把码表和时间全清零</p>
-<p><img alt="1" src="https://lh4.googleusercontent.com/-nGlNkmvTLyU/T-Um27WrrFI/AAAAAAAAA8E/HJdJtx4EC-Y/s631/DSCF3638.JPG" /></p>
-<p>早晨的天气还是比较凉爽的，太阳还没出来，骑的速度也比较快，不一会就到了g206国道，这国道四年前开车走过，这次骑行发现路已经体过，不过又被大车压坏了，也不能算太烂，不过灰还是比较大，不得不把头巾带着防止吸收过多的灰尘。</p>
-<p>到了一个叫自贡非遗城的地方，当时为了赶路，拍了张照片就走人了 ，晚上回来路过这里，灯光全开挺漂亮的，但是相机不给力，拍下来都是黑乎乎的。</p>
-<p><img alt="2" src="https://lh4.googleusercontent.com/-TNA3QEEIxDw/T-Um4pTk9KI/AAAAAAAAA8s/cJw7qqTTM9Q/s631/DSCF3643.JPG" /></p>
-<p>很快，我们就出了合肥，路过了合淮公路岗集收费站，才发现连出趟城还要收费，TMD太黑了，还好我们自行车不要钱。</p>
-<p><img alt="3" src="https://lh3.googleusercontent.com/-G5VshCKkUGs/T-Um5qx_NYI/AAAAAAAAA84/jL4sFbaU_8A/s631/DSCF3645.JPG" /></p>
-<p>去的时候路线不太明确，就知道个大方向，经常要停下来地图问路人也耽误了点时间，一个半小时后我们到了第一个预定的地点吴山吃早饭，搞了点稀饭油条填填肚子，不敢吃包子之类，怕肉不好路上闹肚子。</p>
-<p>由于一路有点小下坡加小顺风，我们骑行很快，不一会我们又完成了第二个30公里，到达瓦埠镇渡口坐船过水库，路上我还和小师弟还玩笑说我们现在一直在挖坑，回来的路上我们就要开始填坑了，果然回来路上应验了我的话，骑得快崩溃了。</p>
-<p><img alt="4" src="https://lh5.googleusercontent.com/-TOgqvk7QcZQ/T-Um8WMKJ5I/AAAAAAAAA90/3RmdD-6CfVI/s631/DSCF3652.JPG" /></p>
-<p>路上遇到一淮南骑来的大爷，准备去安丰塘的，问我们去哪，我们告诉他我们去寿县，刚好可以有一段顺路，大爷很厉害，刚完成了北京到杭州的骑行，这次独自一人乘放假有空故地重游，说40年前他已经来过这里，当初的码头还不是这样。大爷的骑行速度不慢，但跟上我们也许还有点吃力，于是放慢了速度和他骑了十几公里聊了一路很开心，没想到回去路上我们又遇到了，打了个招呼告别。</p>
-<p>轮渡<br />
- <img alt="5" src="https://lh6.googleusercontent.com/-CKltKlxyqiQ/T-UnBcSv9WI/AAAAAAAAA_c/Hpzefhilab0/s631/DSCF3665.JPG" /></p>
-<p>和大爷分别后我们转入了省道，这条路还比较宽，两边虽然有树，但太阳还是照样晒到我们，再加上路上的半挂车开得飞快，带起的气流经常把我们推到一边，搞得挺怕人的，不过还好，这30公里很快过去，于是11点不到就抵达了寿县县城。</p>
-<p><img alt="6" src="https://lh6.googleusercontent.com/-6wtW6sSdmTo/T-UnCMsUzqI/AAAAAAAAA_o/TjxdnPlaoac/s473/DSCF3667.JPG" /></p>
-<p>标志性的建筑，不过不知道叫什么</p>
-<p><img alt="7" src="https://lh5.googleusercontent.com/-bVEGfKIhB88/T-UnGZV6DCI/AAAAAAAABBU/0lA7fMri4E0/s473/DSCF3679.JPG" /></p>
-<p>寿县城南门， 收于时间比较紧，去了东门就没有转了<br />
-<img alt="8" src="https://lh5.googleusercontent.com/-3a9BfAl5HPU/T-UnH-rELVI/AAAAAAAABB4/7fi73cWSBNs/s631/DSCF3682.JPG" /></p>
-<p>城墙上和小师弟和影</p>
-<p><img alt="9" src="https://lh4.googleusercontent.com/-9BgRaiNIKr0/T-UnN8R7YVI/AAAAAAAABDk/pJU4ffR0hac/s631/DSCF3693.JPG" /></p>
-<p>还有个池塘<br />
-<img alt="10" src="https://lh5.googleusercontent.com/-JtgcR4TqzfU/T-UnPR9q-QI/AAAAAAAABEE/l2glPWr7YDs/s631/DSCF3698.JPG" /></p>
-<p><img alt="11" src="https://lh4.googleusercontent.com/-yfgHddXCdqA/T-UnV2I3LzI/AAAAAAAABGE/inI11ZfhOOE/s473/DSCF3713.JPG" /></p>
-<p>中午实验不知道到哪吃饭，应该想找个能放车的地方真难，后来找了个饺子馆炒了几个菜，顺便来了两大瓶果粒橙，看来脱水挺严重的。吃完饭去了清真寺，问了好多人才找到，里面的银杏有600年的树龄，顺便抱树来了一张。</p>
-<p><img alt="12" src="https://lh4.googleusercontent.com/-HayILqncmss/T-UnXNzu0xI/AAAAAAAABGk/2CHHCBCYILs/s631/DSCF3716.JPG" /></p>
-<p><img alt="13" src="https://lh6.googleusercontent.com/-_ZQTg9DisbA/T-UnZa5jXtI/AAAAAAAABHI/NucWGkrrkiU/w339-h253-n-k/DSCF3721.JPG" /></p>
-<p>在清真寺休息到11点准备返程，正值太阳高照的时候，晒得要命。先完成第一个20公里到堰口，小师弟说买个西瓜吃吧，于是我们两啃掉一个西瓜，当时觉得渡船会准备发呢，没想到当我们赶到时它已经掉转般头出发了，就因为这2分钟让我们等了一个半小时才等到下一班轮渡，等到对岸时已经5点了，我们还要走65公里，所以不得不走夜路了。</p>
-<p>5点太阳已经是夕阳西下的时候，气温已经不是很高，但是风大啊，我们开始填早上的挖的坑，可是风大到下坡不踩车不走的地步，真是郁闷致极啊，微博上朋友让我搭车回家，我说搭车回家就不是我了，我就是这么个人，定了计划就一定要完成。慢慢的体力开始有点不支，喝掉着的红牛，吃掉士力架等一些补充能量的东西，体力有些好转，后来慢慢的脚也开如有点疼，由于穿的时锁鞋可以锁住踏板，后来就一直往上提面不是踩在骑着了。又继续走了30公里到达吴山，觉得已经骑到麻木，去超市搞了四瓶脉动，喝掉一瓶背上一瓶继续赶路，天渐渐黑下来，没想到手电的一节电池没电了，另一节有点的电池被我在洗衣机里洗过好像有点问题，不能调亮度了，不过还好，打着手电撑过了最后的25公里。</p>
-<p>于晚上9点到返回，总历时16个小时，骑行10小时，共计202公里，饭点搞了点吃的，回去洗洗睡，最后感谢小师弟陪我渡过了次有意思的骑行。</p>
-<p>ps:这次一直带着风镜，怕灰尘进眼镜，但是风镜有点滤光的作用，晚上看得不是很清楚，下次需要换个片子了。</p>
-<p>pps：这次一路都很舍得，喝了6瓶脉动＋两瓶红牛，没有出现像第一次长途骑行脱水的现象。</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/06/wpid697-vimpress_4fe56218_mkd.txt wpid697-vimpress_4fe56218_mkd.txt --></p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[运动周]]></title>
-    <link href="http://dinohu.github.com/blog/blogs/687"/>
-    <updated>2012-06-13T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/blogs/687</id>
-    <content type="html"><![CDATA[<p>一周内骑一次车，打两次球，爬三次山，这周的运动太频繁了：）</p>
-<p>先说骑一次车吧，自从元旦上了大蜀山后，再也没骑车上过山了，那来本来计划着去打球的，结果由于刚下过雨地面还没干，又有点小运动，于是就把折叠车拖出来，折叠有3个月没骑了，上次骑出去坐杆上的泥还挂着，轮子又没气，链条也没油了，想出去一趟还真难，先去把气打饱，再上了链条油，从后门出发。好久没骑，不知道是新鲜还是力气足，一路30的速度过去也不太累。上山过道很轻松就去了，遇到一个比我还胖的胖子，他是推上去的，在平台超越了他一起骑下面的路，感觉他力不从心，我随他的速度很轻松，不过下山为难了，跑上很湿滑，一路捏着刹车下山，到山下摸了下轮圈好烫，还好不是碟刹，否则要烫伤了。</p>
-<p>打了两次球，应该有两个多月没摸过球了，刚上场的时候不知道是紧张还是手生，篮下投篮居然过桥，还好没投三不沾，过了一会找到感觉手感还是挺不错的。于是过了两天再去打球，手感依然的好，但是膝盖不太好的原因，不敢做出太激烈的动作，只能在外面投投篮，传传球。打球这种剧烈运动已经不能复存在了，现在打球对我来说只能算是活动一下筋骨，锻炼下身体了。</p>
-<p>爬了三次山，独自去了两次，两次都是台阶下，可能由于走环山公路花太多时间吧，不如走台阶来得轻快，但是走台阶对膝盖的冲击太大，走一次膝盖总感觉到疼，所以我一般是不愿意走台阶下山的，今天发现了条新路线，是台阶，没有上山的路那么陡，但是走起来还好，不算太吃饭，膝盖也没有感觉到不适，以后为了省时间可以走那条路了。今天上山依然是练习用鼻自然呼吸，可是台阶快走完的时候实在忍不住大吸几口气，看来自然吸气确实不行啊，要上T才照。山顶遇到很多骑车上山的人，有几个没有带头盔，而且下山的时候以高速过减速带，真为他们捏把汗。每次上山都是开车来，浪费了点油为了出点汗，成本算有点高了，下次把我的山地好好整整直接骑过来，但是要注意安全，看来越老胆子越小了。</p>
-<p>刚收到fitbit的邮件说：</p>
-<blockquote>
-<p>Excellent! You&#8217;ve earned the Hot Air Balloon badge!You&#8217;ve climbed as high as a hot air balloon travels, and that&#8217;s 2,000 floors! </p>
-</blockquote>
-<p>可是经过几个月的锻炼，减了几公斤下去，这些日子没注意又反弹了，争取争取暑假回家时候能减掉5公斤啊。</p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/06/vimpress_4fd88b9c_mkd.txt vimpress_4fd88b9c_mkd.txt --></p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[海购第二单]]></title>
-    <link href="http://dinohu.github.com/blog/blogs/681"/>
-    <updated>2012-06-11T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/blogs/681</id>
-    <content type="html"><![CDATA[<p>海购第二单已经完成，可我已经忘记了是哪天下的单。刚才到amazon上查看了一下购买记录，4月10号下的单，因为我是prime用户，所以快递12号就到了<a href="http://www.rt-express.com/gen/cn/pub_home.php">瑞天速递</a>的仓库。</p>
-<p>先说下为什么这次要选瑞天吧，第一单用的是百通，从下单到到手也没有花掉一个月，我已经学得太慢忍受不了，于是在推上问了下哪家转动公司好，于是看瑞天那一阵转运还比较正常于是就用瑞天了，没想到我买了东西以后他家停运一个星期，我真想骂人，还好大头不是自己的东西也不太急，用支付宝充上钱到瑞天的账号，瑞天扣钱到挺快，第二天就给我转运了，给我一个航班批次938，反正我也不知道什么意思。</p>
-<blockquote>
-<p>2012-04-11 03:55:30    数据已输入    <span class="caps">XXXX</span><br />
-2012-04-16 14:36:41    货件到达洛杉矶口岸   <span class="caps">XXXX</span><br />
-2012-04-16 14:47:55    等待发出     <span class="caps">XXXX</span><br />
-2012-04-16 21:12:18    美国离境发往中国     <span class="caps">XXXX</span><br />
-2012-06-07 22:59:59    货件在发往目的地途中  <span class="caps">XXXX</span></p>
-</blockquote>
-<p>下面是时间记录，在一个半月内什么消息都没有，于是我到乐淘上看贴子，基本上都是骂瑞天的，一个推友开玩笑和我说如果能收到就算是福利吧，可是这100多刀的东西都是我垫进去啊，我怎么老办这种吃力不讨好的事，那也只好等了。每天看着瑞天客服在那换签名档，什么今天不清关，哪天清关，狗屁东西，要上税上就是了，后来都懒得去看了，能收到就好。突然某天下午签名档改了说938清关了，我算是心里舒坦了些，不过又有网友玩笑说放了那么久到时候别寄个王老吉盒子过来，我想不至于吧。不过还好，今天一大早快递就到了，当面拆发现东西在，可是奇怪的是没有发票了，难道被海关扣了？？！！</p>
-<p>算了，反正货都收到了，秀一下，嘿嘿。</p>
-<p>19 in 1 的小钳子，挂钥匙上不算重</p>
-<p><img alt="1" src="https://lh4.googleusercontent.com/-U8WS99DJ-4c/T9XuJVf610I/AAAAAAAAAz4/dhQCemP7M_c/s647/IMG_20120611_083534.jpg" /></p>
-<p><img alt="2" src="https://lh3.googleusercontent.com/-fDQpN_FV5K8/T9XuJ-vs0oI/AAAAAAAAA0I/L7kOGs0V7xQ/s693/IMG_20120611_083739.jpg" /></p>
-<p><img alt="3" src="https://lh4.googleusercontent.com/-E6GF5Nn9T68/T9XuKxcNPeI/AAAAAAAAA0Y/NvwPLGbLsn4/s693/IMG_20120611_144425.jpg" /></p>
-<p>新fitbit，和我的没什么两样，我的也是新的吧</p>
-<p><img alt="4" src="https://lh6.googleusercontent.com/-JK8rrl1JlX0/T9XuJZbB8MI/AAAAAAAAAz8/jbTKViOpPRg/s693/IMG_20120611_083546.jpg" /></p>
-<p><img alt="5" src="https://lh3.googleusercontent.com/-pgKiEnRI0lA/T9XuKIrhD_I/AAAAAAAAA0Q/oXCY4GSNol0/s693/IMG_20120611_083753.jpg" /></p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/06/wpid680-vimpress_4fd5eed4_mkd.txt wpid680-vimpress_4fd5eed4_mkd.txt --></p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[ipad2一年]]></title>
-    <link href="http://dinohu.github.com/blog/blogs/676"/>
-    <updated>2012-05-25T00:00:00+08:00</updated>
-    <id>http://dinohu.github.com/blog/blogs/676</id>
-    <content type="html"><![CDATA[<p>去年五月份国行买了ipad，一转眼一年了，时间过得真快，在这一年里ipad是除我手机和电脑之外使用最多的电子产品了，可怜的kindle在边上落灰，为了挽回损失，我也要多看几本书啊。</p>
-<p>去年焦急的等待ipad的到来，了解了苹果的销售，认识了嘉里大通物流，明白了苹果的售后，第一时间拿到ipad时，兴奋的睡不着觉，折腾ios5系统，等待4.3.3的越狱，可是一年后我对这些一点也感冒了，系统有ota有更新到最新的吧，不管它能不能越狱，反正和我工作相关的正版软件已经都买好了，也只的苹果引导了我开始购买正版软件（太贵的商业软件除外）。</p>
-<p>ipad用得挺多的，刚开始无论到哪都会带着，爬山，坐车，约会等等。刚开始，什么facetime，icloud，find my phone，phote booth离线地图等等新鲜玩间都试了个遍。慢慢的它在我手上的功能开始退化，现在的主要功能就是不想开电脑时在上面用自带的浏览器浏览下网页，用instapaper看下想要细读的文章，用mobile rss订阅google reader回家细细的品，还有最最主要的功能就是在avplayer里拷上几部电影躺床上看。有时实在是不想带电脑就用goodreader看下文献，用iworks翻翻文章，什么upad等手写软件基本上是没用过，亏我还花了100多块买了支电容笔 ，要是现在根本不会买。</p>
-<p>列下我买过的正版软件吧，大部分都是比较实用的</p>
-<p><strong><em> 游戏 </em></strong><br />
-+ Fruit Ninja HD<br />
-+ Fruit Ninja: Puss in Boots HD<br />
-+ <span class="caps">MOMOPOLY</span> for iPad<br />
-+ Need for Speed Hot Pursuit<br />
-+ Grand Theft Auto 3<br />
-+ Asphalt 6: Adrenaline HD</p>
-<p><strong><em> 工作 </em></strong><br />
-+ DocAS-Annotate <span class="caps">PDF</span>, Take Notes and Reader<br />
-+ Instapaper<br />
-+ Splashtop Remote Desktop for iPad<br />
-+ Echofon Pro for Twitter<br />
-+ IM+ Pro<br />
-+ <span class="caps">UPAD</span><br />
-+ Goodreader for iPad<br />
-+ AVPlayerHD<br />
-+ Miu Term HD<br />
-+ iMovie<br />
-+ iphote</p>
-<p>再上两张图，带着套子，贴了张8块钱的烂膜，还是很新很新，上面贴了巴萨的队徽，本来还想弄个皇马的，怕被双方球迷打：）</p>
-<p><img alt="ipad" src="https://lh5.googleusercontent.com/-N7gB_G-ZWwM/T795xA9aamI/AAAAAAAAAzM/XzWYVAVi55M/s647/IMG_20120525_201253.jpg" /></p>
-<p>16G容量软件装得不多，但基本够用</p>
-<p><img alt="desktop" src="https://lh6.googleusercontent.com/-e9I97alksY8/T799EUD1C5I/AAAAAAAAAzc/HzTbqnBjZHY/s693/ipad.PNG" /></p><p><!-- #VIMPRESS_TAG# http://hzh.me/wordpress/wp-content/uploads/2012/05/vimpress_4fbf864c_mkd.txt vimpress_4fbf864c_mkd.txt --></p>]]></content>
   </entry>
   
 </feed>
